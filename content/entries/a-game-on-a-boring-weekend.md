@@ -1,5 +1,5 @@
 ---
-title: 在无聊的周末进行一场游戏
+title: Playing a Game on a Boring Weekend
 slug: a-game-on-a-boring-weekend
 publicationDate: 2024-12-11
 excerpt: 打开这部墨西哥电影，我们将首先意外地“看到”一段旋律。
