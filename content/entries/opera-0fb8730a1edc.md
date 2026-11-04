@@ -1,8 +1,8 @@
 ---
 title: DIE WALKÜRE / Tobias Kratzer (2026)
 slug: opera-0fb8730a1edc
-publicationDate: null
-excerpt: At Bayerische Staatsoper I saw his Rheingold the year before last and liked it, but just missed this new Walküre; now I have finally caught it.
+publicationDate: 2026-07-05
+excerpt: I saw Tobias Kratzer's Rheingold the year before last at Bayerische Staatsoper and, I liked it. but just missed the premiere of this new die Walküre. 
 draft: false
 language: en
 rating: 4
