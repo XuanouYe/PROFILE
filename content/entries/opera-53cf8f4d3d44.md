@@ -2,7 +2,7 @@
 title: THE EXCURSIONS OF MR. BROUČEK | Robert Carsen (2025)
 slug: opera-53cf8f4d3d44
 publicationDate: 2025-03-21
-excerpt: At Staatsoper Unter den Linden, the premiere of Robert Carsen’s new 2025 production. Finally, a chance to hear Simon Rattle conduct Janáček.
+excerpt: "A very funny work in two acts: after a trip to the moon and a journey into the past, all its satire and mockery dissolve like foam in the clinking of beer glasses."
 draft: false
 language: en
 rating: 5
