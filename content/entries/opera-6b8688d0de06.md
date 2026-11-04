@@ -1,8 +1,8 @@
 ---
-title: MACBETH / Tobias Kratzer (2026)
+title: MACBETH | Tobias Kratzer (2026)
 slug: opera-6b8688d0de06
 publicationDate: 2026-09-23
-excerpt: Suddenly, Kratzer seems to be no longer throwing stage space around, respecting the budget.
+excerpt: "Suddenly, Kratzer seems to be no longer throwing stage space around, respecting the budget."
 draft: false
 language: en
 rating: 3

@@ -1,5 +1,5 @@
 ---
-title: DAS RHEINGOLD / Tobias Kratzer (2024)
+title: DAS RHEINGOLD | Tobias Kratzer (2024)
 slug: opera-ef78c7068f04
 publicationDate: null
 excerpt: At Bayerische Staatsoper, Tobias Kratzer’s new 2024 production. The subversive invasion of modern spectacle kills off the ghost of a humanist reading of the premodern gods.

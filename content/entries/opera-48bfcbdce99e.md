@@ -1,5 +1,5 @@
 ---
-title: DIE WALKÜRE / Claus Guth (2008)
+title: DIE WALKÜRE | Claus Guth (2008)
 slug: opera-48bfcbdce99e
 publicationDate: null
 excerpt: "At Hamburgische Staatsoper, Claus Guth’s 2008 production. The three most recent general music directors have all conducted this Walküre: Simone Young at the premiere, Nagano for the 2018 revival, and the new director Omer Meir Wellber for the 2026 revival."

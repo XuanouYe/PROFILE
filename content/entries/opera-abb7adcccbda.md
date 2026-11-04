@@ -1,5 +1,5 @@
 ---
-title: HÄNSEL UND GRETEL / Richard Jones (2019)
+title: HÄNSEL UND GRETEL | Richard Jones (2019)
 slug: opera-abb7adcccbda
 publicationDate: null
 excerpt: At Bayerische Staatsoper, Richard Jones’s 2019 production. A classic children’s opera with unexpectedly conventional visual design.

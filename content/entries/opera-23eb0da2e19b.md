@@ -1,5 +1,5 @@
 ---
-title: TRISTAN UND ISOLDE / Roland Schwab (2022)
+title: TRISTAN UND ISOLDE | Roland Schwab (2022)
 slug: opera-23eb0da2e19b
 publicationDate: null
 excerpt: "At Shanghai Grand Theatre, Roland Schwab’s 2022 production. I really cannot appreciate this Bayreuth production: lavishly finished and tacky to the extreme, with Tristan and Isolde looking like amusement-park puppets."
@@ -18,4 +18,4 @@ subject: opera
 longform: false
 ---
 
-At Shanghai Grand Theatre, Roland Schwab’s 2022 production. I really cannot appreciate this Bayreuth production: lavishly finished and tacky to the extreme, with Tristan and Isolde looking like amusement-park puppets. At the third performance, the visiting A cast was simply disastrous. Kurwenal seemed to be the only supporting role that was even tolerable to listen to.
+Really cannot appreciate this Bayreuth production: lavishly finished and tacky to the extreme, with Tristan and Isolde looking like amusement-park puppets. At the third performance, the visiting cast was simply disastrous. Kurwenal seemed to be the only supporting role that was even tolerable to listen to.

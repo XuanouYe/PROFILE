@@ -1,5 +1,5 @@
 ---
-title: CARMEN / Gabriela Carrizo (2026)
+title: CARMEN | Gabriela Carrizo (2026)
 slug: opera-f90cf216f74c
 publicationDate: null
 excerpt: At the Salzburger Festspiele, Gabriela Carrizo’s new 2026 production. It offers a way of integrating dancers fully into the chorus’s stage movement.

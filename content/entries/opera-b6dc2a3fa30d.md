@@ -1,5 +1,5 @@
 ---
-title: LA FILLE DU RÉGIMENT / Damiano Michieletto (2024)
+title: LA FILLE DU RÉGIMENT | Damiano Michieletto (2024)
 slug: opera-b6dc2a3fa30d
 publicationDate: null
 excerpt: At Bayerische Staatsoper, Damiano Michieletto’s new 2024 production. This Donizetti opera, absent from German stages for many years, has returned.

@@ -1,5 +1,5 @@
 ---
-title: DIE TOTE STADT / Simon Stone (2019)
+title: DIE TOTE STADT | Simon Stone (2019)
 slug: opera-eec749c11a43
 publicationDate: null
 excerpt: At Bayerische Staatsoper, Simon Stone’s 2019 production. The setting uses contemporary domestic interiors.

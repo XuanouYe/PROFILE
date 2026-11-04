@@ -1,5 +1,5 @@
 ---
-title: LUCIE DE LAMMERMOOR / Amélie Niermeyer (2021)
+title: LUCIE DE LAMMERMOOR | Amélie Niermeyer (2021)
 slug: opera-f0516b67e5a1
 publicationDate: null
 excerpt: "At Hamburgische Staatsoper, Amélie Niermeyer’s 2021 production. Visually, it is less extravagant than the reviews suggest: a prison-like, geometrically divided set in muted colours."

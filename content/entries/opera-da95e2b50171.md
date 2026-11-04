@@ -1,5 +1,5 @@
 ---
-title: ARIADNE AUF NAXOS / Robert Carsen (2008)
+title: ARIADNE AUF NAXOS | Robert Carsen (2008)
 slug: opera-da95e2b50171
 publicationDate: null
 excerpt: "At Bayerische Staatsoper, Robert Carsen’s 2008 production. Strauss’s early twentieth-century meta-opera: when the score in the prologue is handed to the conductor in the pit, the performance within the performance connects with the actual space of the stage."

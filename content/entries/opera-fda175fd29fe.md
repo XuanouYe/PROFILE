@@ -1,5 +1,5 @@
 ---
-title: KÁŤA KABANOVÁ / Krzysztof Warlikowski (2025)
+title: KÁŤA KABANOVÁ | Krzysztof Warlikowski (2025)
 slug: opera-fda175fd29fe
 publicationDate: null
 excerpt: At Bayerische Staatsoper, the premiere of Krzysztof Warlikowski’s new 2025 production. A Russian hallucination in a downpour.
