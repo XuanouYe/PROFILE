@@ -1,0 +1,13 @@
+#!/bin/sh
+set -eu
+cd "$(git rev-parse --show-toplevel)"
+for node_bin in "$HOME/.local/bin/node" /opt/homebrew/bin/node /usr/local/bin/node; do
+  if [ -x "$node_bin" ]; then
+    exec "$node_bin" scripts/check-public-content.mjs "$@"
+  fi
+done
+if command -v node >/dev/null 2>&1; then
+  exec node scripts/check-public-content.mjs "$@"
+fi
+printf '%s\n' 'Node.js is required to check public content before syncing.' >&2
+exit 1

@@ -1,0 +1,19 @@
+{
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": true,
+  "attachmentFolderPath": "public/assets/uploads",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "content/drafts",
+  "showUnsupportedFiles": false,
+  "propertiesInDocument": "source",
+  "userIgnoreFilters": [
+    "node_modules/",
+    "dist/",
+    ".preview/",
+    "tests/",
+    "content/sources/",
+    "content/imports/",
+    "content/examples/"
+  ]
+}

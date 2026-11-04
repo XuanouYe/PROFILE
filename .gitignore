@@ -1,0 +1,29 @@
+# Generated files and machine-local tools
+node_modules/
+dist/
+.preview/
+.pnpm-store/
+.local-tools/
+.DS_Store
+
+# Obsidian session state, local credentials, and installed plugin code
+.obsidian/workspace*.json
+.obsidian/cache/
+.obsidian/plugins/
+.obsidian/appearance.json
+.trash/
+
+# Machine-local secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Private writing and one-time import material stay on this computer
+.private/
+content/drafts/
+content/sources/
+content/imports/
+content/examples/
+scripts/import-notion.mjs

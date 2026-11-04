@@ -1,0 +1,19 @@
+{
+  "name": "culture-and-life",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "dev": "node scripts/serve.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "check": "node scripts/check-output.mjs",
+    "check:public": "node scripts/check-public-content.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "marked": "15.0.12",
+    "yaml": "2.8.1"
+  }
+}

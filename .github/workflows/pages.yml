@@ -1,0 +1,60 @@
+name: Deploy Culture & Life
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: read
+concurrency:
+  group: github-pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the site
+        uses: actions/checkout@v4
+      - name: Install pnpm
+        uses: pnpm/action-setup@v4
+        with:
+          version: '11.25.0'
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: pnpm
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+      - name: Check public repository contents
+        run: pnpm check:public
+      - name: Test content and site behavior
+        run: pnpm test
+      - name: Configure GitHub Pages
+        id: pages
+        uses: actions/configure-pages@v5
+      - name: Build the site
+        run: pnpm build
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+      - name: Check every page and image link
+        run: pnpm check
+        env:
+          BASE_PATH: ${{ steps.pages.outputs.base_path }}
+      - name: Upload the site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: dist
+  deploy:
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy
+        id: deployment
+        uses: actions/deploy-pages@v4
