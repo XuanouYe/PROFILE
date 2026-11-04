@@ -15,5 +15,6 @@
     "content/sources/",
     "content/imports/",
     "content/examples/"
-  ]
+  ],
+  "promptDelete": false
 }
