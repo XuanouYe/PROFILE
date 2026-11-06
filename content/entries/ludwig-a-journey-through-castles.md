@@ -29,19 +29,15 @@ rating: null
 
 ![路德维希与伊丽莎白在大理石城堡侧廊交谈的大远景](/assets/notion/b31feca8-f7a0-83c3-bb8a-81d454a61cb9.png "路德维希与伊丽莎白在大理石城堡侧廊交谈的大远景")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![大理石城堡的正面，门口竟然出现艾未未的名字](/assets/douban/ludwig/p100733192.webp "大理石城堡的正面，门口竟然出现艾未未的名字")
 
-> 大理石城堡的侧廊
+![大理石城堡的侧廊（1）](/assets/douban/ludwig/p100733191.webp "大理石城堡的侧廊（1）")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 大理石城堡的正面，门口竟然出现艾未未的名字
+![大理石城堡的侧廊（2）](/assets/douban/ludwig/p100733190.webp "大理石城堡的侧廊（2）")
 
 ![路德维希与伊丽莎白在皇帝别墅的花园](/assets/notion/116feca8-f7a0-823e-b8b5-81d133aae0da.png "路德维希与伊丽莎白在皇帝别墅的花园")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 巴特伊舍尔皇帝别墅的远景
+![巴特伊舍尔皇帝别墅的远景](/assets/douban/ludwig/p100733225.webp "巴特伊舍尔皇帝别墅的远景")
 
 这一幕的情节都给出了相应场景的有限视角，或许仅仅作为视觉的提示，呈示出主题以供下文逐渐在此展开。而维斯康蒂借此出色地完成了角色的立法，有效地通过对话铺设出该时间线伊丽莎白与理查德瓦格纳所有的背景信息：厌倦王宫生活的年轻皇后【注1】已经完成“皇后的命运”篇中知名的希腊旅行，而瓦格纳则在瑞士结束了特里斯坦与伊索尔德的写作，准备在巴伐利亚举行迟到六年的首演。三两个场景在这部长篇制作中快速地搭建起了形象，简单地复制，以角色的语言初步呈现出性格与气质，两者令路德维希钦佩的截然不同的高傲。
 
@@ -57,9 +53,7 @@ rating: null
 
 乘坐地铁到Odeonsplatz站，出站步行若干距离就到了慕尼黑王宫。欧洲的建筑修复似乎与国内修旧如旧的思路不同，现实的王宫经过第二次世界大战的破坏，重新修复之后，室内已经没有那样浓厚的色彩。王宫放置几幅复原了旧时房间全景的绘画，ii作为参观的参考，与之对比，如今几乎只剩重新刷漆的墙壁，简洁的门框，以及按秩序而绝非日常生活习惯放置的供展示的家具。物件形成现代的近乎诡异的景观展览空间，我们妄想通过镜子与壁绘折射历史的穿梭，提及现代性对王宫的侵入。电影的布景仅能在绘画中看到，除此之外，他们与王宫只有整体结构的相仿。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 慕尼黑王宫的角落
+![慕尼黑王宫的角落](/assets/douban/ludwig/p100733379.webp "慕尼黑王宫的角落")
 
 第11个场景。路德维希回到慕尼黑，影片发生了国王与瓦格纳的首次对话。随着弹琴演奏，镜头给出特写，然后后拉，室内的空间以初次出现时沙发与三角钢琴前的固定镜头为支点，打开了更多观看的位置。瓦格纳在第一幕出现时对路德维希的赞许提及了后者对瓦格纳的尊敬态度，而这里，场景再次提及前文的对话。
 
@@ -99,9 +93,7 @@ rating: null
 
 ![路德维希为王后戴上冕冠，准备瓦格纳的觐见](/assets/notion/e50feca8-f7a0-83c3-ae59-8185154ecdca.png "路德维希为王后戴上冕冠，准备瓦格纳的觐见")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 珍宝馆的王后冠，背后镶有红宝石的王冠也在影片开头的加冕仪式出现。
+![珍宝馆的王后冠，背后镶有红宝石的王冠也在影片开头的加冕仪式出现。](/assets/douban/ludwig/p100733399.webp "珍宝馆的王后冠，背后镶有红宝石的王冠也在影片开头的加冕仪式出现。")
 
 ![影片开头9分钟左右的王冠特写](/assets/notion/12bfeca8-f7a0-82be-a687-81ce7da0bf17.png "影片开头9分钟左右的王冠特写")
 
@@ -119,9 +111,7 @@ rating: null
 
 ![Joseph Kainz在老皇宫剧院后台的片段](/assets/notion/377feca8-f7a0-8354-9770-819030b0c62a.png "Joseph Kainz在老皇宫剧院后台的片段")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 如今的老皇宫剧院，作为参观只能进入观众席而无法看到影片舞台后的视角
+![如今的老皇宫剧院，作为参观只能进入观众席而无法看到影片舞台后的视角](/assets/douban/ludwig/p100733406.webp "如今的老皇宫剧院，作为参观只能进入观众席而无法看到影片舞台后的视角")
 
 这个场景之前，瓦格纳在瑞士的特里布申为妻子演奏，然后瓦格纳便再也没有出现。维斯康蒂在此以这位音乐家的史学收缩了影像叙事的时间：国王宫殿已经建设完成，路德维希在认识Joseph Kainz后很快就将其带到了林德霍夫宫。而后文伊丽莎白也到访了林德霍夫宫，影片再次提及瓦格纳——音乐室的钢琴被蒙上了黑色的纱布，国王为悼念瓦格纳不再聆听音乐。
 
@@ -139,19 +129,15 @@ rating: null
 
 ![路德维希在皇帝别墅的外景，远到近的三组镜头](/assets/notion/b7dfeca8-f7a0-8395-9c11-0147af7d473a.png "路德维希在皇帝别墅的外景，远到近的三组镜头")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![巴特伊舍尔皇帝别墅的近景](/assets/douban/ludwig/p100733460.webp "巴特伊舍尔皇帝别墅的近景")
 
-> 巴特伊舍尔皇帝别墅的近景
+![巴特伊舍尔皇帝别墅的远景](/assets/douban/ludwig/p100733462.webp "巴特伊舍尔皇帝别墅的远景")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 皇帝别墅门廊的视角，Viktor Tilgner建造的大理石喷泉被木板短暂封装【注3】。影片积雪融化的位置与笔者抵达时呈现出有趣的相似：草坡的积雪较少，而靠近道路的位置积雪较多
+![皇帝别墅门廊的视角，Viktor Tilgner建造的大理石喷泉被木板短暂封装【注3】。影片积雪融化的位置与笔者抵达时呈现出有趣的相似：草坡的积雪较少，而靠近道路的位置积雪较多](/assets/douban/ludwig/p100733476.webp "皇帝别墅门廊的视角，Viktor Tilgner建造的大理石喷泉被木板短暂封装【注3】。影片积雪融化的位置与笔者抵达时呈现出有趣的相似：草坡的积雪较少，而靠近道路的位置积雪较多")
 
 【注3】特里斯坦与伊索尔德的首演在1865年，而喷泉的建造时间为1884年。故事发生的年代这些建筑大多尚未最终成型，而维斯康蒂选择实地拍摄，其实会导致部分场景不太符合历史事实。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 短暂被木板封装的窃贼雕塑
+![短暂被木板封装的窃贼雕塑](/assets/douban/ludwig/p100733477.webp "短暂被木板封装的窃贼雕塑")
 
 别墅中的装饰可以看到与电影几乎相同的场景布置，那些皇帝的旧时私人生活，就这样原封不动地成为了展览。那些宫殿与这个建造年代较早的奥地利皇帝别墅相比，装饰性更强，呈现出两位君王各自的审美偏好。弗朗茨的皇帝别墅在皇帝生活的空间，遍布了许多猎捕的成果，这和《茜茜公主》影片所塑造的形象挺一致。不过这样的空间没有发挥更多的功能性，除了《路德维希》两位公主的对话，我们通过各个角度的镜像，窥视到她们交谈过程中梳妆、观看与被看的关系。
 
@@ -161,21 +147,15 @@ rating: null
 
 ![《城堡之旅》原文配图](/assets/notion/058feca8-f7a0-8345-b977-814f0666abf2.png)
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 影片中出现的红色屏风
+![影片中出现的红色屏风](/assets/douban/ludwig/p100733478.webp "影片中出现的红色屏风")
 
 ![南侧的红色沙龙为官方的接待室](/assets/notion/1b2feca8-f7a0-827f-8520-81cbf7a1b08c.png "南侧的红色沙龙为官方的接待室")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>红色沙龙
-
-> 红色沙龙的四个角都放置白色大理石的天使雕像
+![别墅的官方接待室“红色沙龙”，四个角都放置白色大理石的天使雕像](/assets/douban/ludwig/p100733482.webp "别墅的官方接待室“红色沙龙”，四个角都放置白色大理石的天使雕像")
 
 ![路德维希与装饰的狩猎战利品](/assets/notion/cd6feca8-f7a0-83d5-87d8-0118a716714b.png "路德维希与装饰的狩猎战利品")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 装饰了很多标本的阶梯，通往存放了更多狩猎战利品的走廊
+![装饰了很多标本的阶梯，通往存放了更多狩猎战利品的走廊](/assets/douban/ludwig/p100733483.webp "装饰了很多标本的阶梯，通往存放了更多狩猎战利品的走廊")
 
 逛巴特伊舍尔还遇到了《茜茜公主》中的许多场景，承载了那些茜茜与弗朗茨偶遇的浪漫段落，童话般美好的影像。这次旅行还牵连了挺多更早的迷影记忆，包括路过萨尔茨堡看到的那些与《音乐之声》相关的景色：又想起了中学窝在房间重新看完三部茜茜公主与《路德维希》的那段时光。
 
@@ -197,9 +177,9 @@ rating: null
 
 ![皇后乘船登岛的远景跟拍](/assets/notion/1f4feca8-f7a0-828d-a1ec-81cfc247d02a.png "皇后乘船登岛的远景跟拍")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![在阴天的湖边望向玫瑰岛的所在地（1）](/assets/douban/ludwig/p100733520.webp "在阴天的湖边望向玫瑰岛的所在地（1）")
 
-> 在阴天的湖边望向玫瑰岛的所在地
+![在阴天的湖边望向玫瑰岛的所在地（2）](/assets/douban/ludwig/p100733521.webp "在阴天的湖边望向玫瑰岛的所在地（2）")
 
 ![路德维希与伊丽莎白在玫瑰岛“国王小屋”的外景](/assets/notion/5c8feca8-f7a0-831b-8d0b-8161ae96d3a1.png "路德维希与伊丽莎白在玫瑰岛“国王小屋”的外景")
 
@@ -217,29 +197,23 @@ rating: null
 
 ![路德维希散步至夜晚的施塔恩贝格湖](/assets/notion/6c8feca8-f7a0-835f-8241-81038815b594.png "路德维希散步至夜晚的施塔恩贝格湖")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![花园外视角下如今的帕森霍芬（1）](/assets/douban/ludwig/p100733522.webp "花园外视角下如今的帕森霍芬（1）")
 
-> 花园外视角下如今的帕森霍芬
+![花园外视角下如今的帕森霍芬（2）](/assets/douban/ludwig/p100733527.webp "花园外视角下如今的帕森霍芬（2）")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![路边对帕森霍芬的介绍：Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden.（如今的帕森霍芬为私人产业只能外边参观）](/assets/douban/ludwig/p100733528.webp "路边对帕森霍芬的介绍：Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden.（如今的帕森霍芬为私人产业只能外边参观）")
 
-> 路边对帕森霍芬的介绍：Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden.（如今的帕森霍芬为私人产业只能外边参观）
+![天鹅堡到施塔恩贝格湖的”路德维希国王之路“](/assets/douban/ludwig/p100733529.webp "天鹅堡到施塔恩贝格湖的”路德维希国王之路“")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![如今的施塔恩贝格湖畔（1）](/assets/douban/ludwig/p100733531.webp "如今的施塔恩贝格湖畔（1）")
 
-> 天鹅堡到施塔恩贝格湖的”路德维希国王之路“
+![如今的施塔恩贝格湖畔（2）](/assets/douban/ludwig/p100733532.webp "如今的施塔恩贝格湖畔（2）")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![如今的施塔恩贝格湖畔（3）](/assets/douban/ludwig/p100733534.webp "如今的施塔恩贝格湖畔（3）")
 
-> 如今的施塔恩贝格湖畔
+![玫瑰岛附近的草地如今开发了高尔夫球场](/assets/douban/ludwig/p100733535.webp "玫瑰岛附近的草地如今开发了高尔夫球场")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 玫瑰岛附近的草地如今开发了高尔夫球场
-
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 玫瑰岛附近的教堂
+![玫瑰岛附近的教堂](/assets/douban/ludwig/p100733536.webp "玫瑰岛附近的教堂")
 
 和维斯康蒂合作了《路德维希》《魂断威尼斯》《无辜》《家族的肖像》的配乐Franco Mannino担任了《路德维希》的钢琴独奏和乐团指挥，配合维斯康蒂在影片对瓦格纳的使用，产生了比《魂断威尼斯》的马勒第五交响曲慢板乐章更可怖的致幻效果。
 
@@ -253,7 +227,7 @@ rating: null
 
 首先呈现宁芬堡宫的外景，路德维希所乘坐的马车停在宫殿门前，处于几乎看不见的远景的位置。画面的主体被上方的宫殿和下方的草坪占据。我抵达宁芬堡时的天气同样阴沉，宫殿前的草坪停满了鸽子与鸭子：
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![宁芬堡宫门前的草坪](/assets/douban/ludwig/p100733586.webp "宁芬堡宫门前的草坪")
 
 影片中的路德维希通过门前的阶梯平台进入了宫殿的门厅。现在的游客无法登上阶梯，只能从一楼的空间通过售票和纪念品商店，再经过狭窄的螺旋侧边楼梯进入门厅。据我推测，楼下的空间及楼梯在当时都是供仆人以及宫廷的厨师们使用，贵族们不会通过那种路径进入宫殿。而当下的设置除了给出售纪念品/检票提供方便的位置，也是为了避免在门厅设置检票处以破坏宫殿空间的整体视觉。
 
@@ -261,15 +235,13 @@ rating: null
 
 下马车后，剪辑略过了上楼梯的过程，直接从阶梯的平台进入了宫殿。无法复刻机位和侍从的位置，我给这紧闭的大门拍了张特写。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![宁芬堡宫紧闭的大门](/assets/douban/ludwig/p100733590.webp "宁芬堡宫紧闭的大门")
 
 摄影机从上往下移动，呈现门厅两层楼高的空间。同时路德维希从左侧往右侧行走，充分利用门厅的空旷，将时间被摄影机端视的动作占据，呈现古典的速度。而实际上路德维希需要往左走，才能抵达接下来发生对话的王后的房间。
 
 ![路德维希行走的远景，前景的木桌放置着门厅南北两侧装饰的瓷器](/assets/notion/e70feca8-f7a0-83d1-897d-81588e51c107.png "路德维希行走的远景，前景的木桌放置着门厅南北两侧装饰的瓷器")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 两层楼高的门厅
+![两层楼高的门厅](/assets/douban/ludwig/p100733591.webp "两层楼高的门厅")
 
 ![门厅的天花板有约翰·巴普蒂斯特·齐默尔曼创作的巨型壁画](/assets/notion/923feca8-f7a0-8224-a715-012312a2beab.png "门厅的天花板有约翰·巴普蒂斯特·齐默尔曼创作的巨型壁画")
 
@@ -277,9 +249,7 @@ rating: null
 
 路德维希从门厅走到起居室与侍女对话。门厅隔着北廊，位于起居室的南侧，而影片的路德维希却从起居室北侧的走廊走到了这个房间。导演改变了角色行走的路线，通过再次穿过整个房间的动作，以一个镜头摆动的跟拍呈现了“美人画廊”的整体，同时不至于因为两侧墙壁的巨大镜子穿帮。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 宁芬堡宫的美人画廊，多数肖像的位置与影片竟不一样
+![宁芬堡宫的美人画廊，多数肖像的位置与影片竟不一样](/assets/douban/ludwig/p100733593.webp "宁芬堡宫的美人画廊，多数肖像的位置与影片竟不一样")
 
 ![《城堡之旅》原文配图](/assets/notion/f6dfeca8-f7a0-8271-a1fc-0136dcbe8efb.png)
 
@@ -289,17 +259,13 @@ rating: null
 
 路德维希进入王后的卧室，惊醒了王后。现在卧室的床（包括慕尼黑其他王宫所有卧室）都放着很高的床垫和保护罩，而影片中王后睡觉的位置比这低得多。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 王后的卧室
+![王后的卧室](/assets/douban/ludwig/p100733596.webp "王后的卧室")
 
 ![影片中路德维希的行走路线](/assets/notion/415feca8-f7a0-8310-8125-815bc5d55db1.png "影片中路德维希的行走路线")
 
 ![宁芬堡宫背后有个公共广场，有许多雕塑，广场再往后有个巨大的茎状水池。四周是广阔的森林湿地空间，许多附近的居民将这里作为公园散步](/assets/notion/7affeca8-f7a0-83c5-9228-815e552efcf1.png "宁芬堡宫背后有个公共广场，有许多雕塑，广场再往后有个巨大的茎状水池。四周是广阔的森林湿地空间，许多附近的居民将这里作为公园散步")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 宁芬堡宫背部的视角
+![宁芬堡宫背部的视角](/assets/douban/ludwig/p100733597.webp "宁芬堡宫背部的视角")
 
 ## Part V：路德维希城堡
 
@@ -313,33 +279,27 @@ Ettal是巴伐利亚的山区，多数公交站点仅为附近村庄的几口停
 
 路途孤身一人，到了宫殿附近却常能遇到同行。可能是自驾的游客，可能是报团跟车游的老年团。远离民众居住的场所，宫殿以及周边的景色都保存得与过去一致。不过正如前文所说，所有的喷泉和雕塑在冬季都不供欣赏。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 宫殿花园都透明罩住的雕塑
+![宫殿花园都透明罩住的雕塑](/assets/douban/ludwig/p100734092.webp "宫殿花园都透明罩住的雕塑")
 
 海伦基姆宫位于基姆湖的岛屿，市区到基姆湖车程约1小时，拥有月票可以乘坐RE免费前往。我们在慕尼黑初雪第二天的早晨抵达湖区，镇上的建筑还残留着些许雪迹，登船之前的天气阴沉，湖边等到中午，云层被吹散，登上船后我们看到湖泊的低压变为了晴朗的天光，景色变得很美。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![登船之前的天气阴沉，遇到了路德维希二世的铁塑](/assets/douban/ludwig/p100734097.webp "登船之前的天气阴沉，遇到了路德维希二世的铁塑")
 
-> 登船之前的天气阴沉，遇到了湖边路德维希二世的铁塑
+![登船之前的天气](/assets/douban/ludwig/p100734099.webp "登船之前的天气")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![乘船的过程，天气逐渐晴朗](/assets/douban/ludwig/p100734324.webp "乘船的过程，天气逐渐晴朗")
 
-> 乘船的过程，天气逐渐晴朗
+![基姆湖景色（1）](/assets/douban/ludwig/p100734329.webp "基姆湖景色（1）")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 基姆湖景色
+![基姆湖景色（2）](/assets/douban/ludwig/p100734330.webp "基姆湖景色（2）")
 
 天鹅堡位于福森小镇旁的霍恩施万高，慕尼黑乘坐RE到福森再转乘公交到新天鹅堡山脚，乘坐公共交通需要两个半小时。天鹅堡是慕尼黑周边最热门的景点，周边以及福森小镇的旅游开发都很完备。从山脚前往新天鹅堡可以登山也可以乘坐马车上山，马车的轮毂都装有减速电机，没有彻底仿古的省力型装置。盘山一路从仰视到平视，二十四个角度看天鹅堡，很壮观。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![天鹅堡外景（1）](/assets/douban/ludwig/p100734145.webp "天鹅堡外景（1）")
 
-> 天鹅堡外景
+![天鹅堡外景（2）](/assets/douban/ludwig/p100734144.webp "天鹅堡外景（2）")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 站在天鹅堡的庭院前看山下的景色
+![站在天鹅堡的庭院前看山下的景色](/assets/douban/ludwig/p100734332.webp "站在天鹅堡的庭院前看山下的景色")
 
 官网介绍联合国教科文组织预计在2025年将新天鹅堡、林德霍夫宫以及海伦基姆宫收录进世界文化遗产名录，我们拭目以待。
 
@@ -353,13 +313,9 @@ Joseph Kainz随路德维希到林德霍夫宫，我们首次看到林德霍夫�
 
 ![路德维希抵达林德霍夫宫，远到近的三组镜头](/assets/notion/f92feca8-f7a0-8355-b423-01e9b039351c.png "路德维希抵达林德霍夫宫，远到近的三组镜头")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![林德霍夫宫的外立面](/assets/douban/ludwig/p100734072.webp "林德霍夫宫的外立面")
 
-> 林德霍夫宫的外立面
-
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 林德霍夫宫前方的花园部分。Flora喷泉暂未开放
+![林德霍夫宫前方的花园部分。Flora喷泉暂未开放](/assets/douban/ludwig/p100734066.webp "林德霍夫宫前方的花园部分。Flora喷泉暂未开放")
 
 ![《城堡之旅》原文配图](/assets/notion/6b4feca8-f7a0-8314-9461-01068779603b.png)
 
@@ -377,9 +333,7 @@ Joseph Kainz随路德维希到林德霍夫宫，我们首次看到林德霍夫�
 
 ![路德维希与Joseph Kainz在林德霍夫宫](/assets/notion/e3ffeca8-f7a0-82a1-8182-01a960cf811c.png "路德维希与Joseph Kainz在林德霍夫宫")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 深蓝色调的国王卧室
+![深蓝色调的国王卧室](/assets/douban/ludwig/p100734096.webp "深蓝色调的国王卧室")
 
 而当国王与Joseph Kainz不知在何处漂泊，幕间的话语再次提示了国王历来已久的统治与财政危机。不过即使常常提及，影片始终没有让危机以可见的形式持续发展，很明确的详略处理。我们始终处在路德维希的位置，观看的动作不自觉地将我们的注意力引导至美学的层面，就像路德维希那样，盲目地沉浸在理想主义的迷雾，即使有人反复提醒也毫不在意。
 
@@ -397,13 +351,9 @@ Sissi在白天抵达林德霍夫宫，影像提供了冬天的日景。前后花
 
 ![皇后在林德霍夫宫的花园](/assets/notion/c32feca8-f7a0-834b-8570-019e18c5a1cf.png "皇后在林德霍夫宫的花园")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![林德霍夫宫后方的花园部分](/assets/douban/ludwig/p100734032.webp "林德霍夫宫后方的花园部分")
 
-> 林德霍夫宫后方的花园部分
-
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 林德霍夫宫花园附近的建筑
+![林德霍夫宫花园附近的建筑](/assets/douban/ludwig/p100734048.webp "林德霍夫宫花园附近的建筑")
 
 ![皇后在林德霍夫宫的楼梯](/assets/notion/e7dfeca8-f7a0-8354-aa50-8110ecb965a0.png "皇后在林德霍夫宫的楼梯")
 
@@ -417,25 +367,17 @@ Sissi在白天抵达林德霍夫宫，影像提供了冬天的日景。前后花
 
 【注5】Gobelin房间为放置法国奢侈品挂毯工坊（Manufacture des Gobelins）产品的房间，通常出现在欧洲17-19世纪的宫殿和豪华建筑。林德霍夫的东、西侧均设置Gobelin房间，不过没有Gobelins挂毯，西侧的Gobelin房间有孔雀瓷饰，还有独特的乐器Pianino Aeolodikon，被称为“音乐室”。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![林德霍夫宫的楼梯](/assets/douban/ludwig/p100734065.webp "林德霍夫宫的楼梯")
 
-> 林德霍夫宫的楼梯
+![林德霍夫宫的觐见室](/assets/douban/ludwig/p100734335.webp "林德霍夫宫的觐见室")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![林德霍夫宫的Gobelin房间，室内陈设孔雀雕像以及Pianino Aeolodikon](/assets/douban/ludwig/p100733856.webp "林德霍夫宫的Gobelin房间，室内陈设孔雀雕像以及Pianino Aeolodikon")
 
-> 林德霍夫宫的觐见室
+![林德霍夫宫镜厅的天花板壁画](/assets/douban/ludwig/p100733978.webp "林德霍夫宫镜厅的天花板壁画")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![林德霍夫宫镜厅的骑马雕像](/assets/douban/ludwig/p100733977.webp "林德霍夫宫镜厅的骑马雕像")
 
-> 林德霍夫宫的Gobelin房间，室内陈设孔雀雕像以及Pianino Aeolodikon
-
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 林德霍夫宫镜厅的天花板壁画
-
-> 林德霍夫宫镜厅的骑马雕像
-
-> 林德霍夫宫镜厅的象牙吊灯
+![林德霍夫宫镜厅的象牙吊灯](/assets/douban/ludwig/p100733972.webp "林德霍夫宫镜厅的象牙吊灯")
 
 ### (ii) 海伦基姆宫
 
@@ -443,29 +385,21 @@ Sissi在白天抵达林德霍夫宫，影像提供了冬天的日景。前后花
 
 室外给出同样的拍法：雕塑的仰拍特写，而后拉近给出海伦基姆宫的全景，Sissi乘坐的马车从画面右侧进入，再从室外走到室内。前个场景——林德霍夫宫的维纳斯石窟——应景的瓦格纳《唐豪瑟》选段“晚星颂”持续到不知道哪个时刻，连续放完了整首，在此处终止。长长的镜厅走廊足够让维斯康蒂使用大远景镜头表现远处的罗密施耐德，然后影像时间几乎经历了伊丽莎白从一侧走到另一侧的全部时间，跟拍，局部的展示，才静止下来，落到王后满意的特写。
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![宫殿前的喷泉。](/assets/douban/ludwig/p100734325.webp "宫殿前的喷泉。")
 
-> 宫殿前的喷泉。
-
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 宫殿门前的景观。
+![宫殿门前的景观。](/assets/douban/ludwig/p100734336.webp "宫殿门前的景观。")
 
 ![《城堡之旅》原文配图](/assets/notion/1a3feca8-f7a0-822e-baf8-81c9a918bd0b.png)
 
 ![摄影机刻意避开了玻璃顶棚，俯拍的一楼摇到仰拍的二楼，留存住Elisabeth楼梯行走的时间](/assets/notion/974feca8-f7a0-8213-98e0-01f3c9429d16.png "摄影机刻意避开了玻璃顶棚，俯拍的一楼摇到仰拍的二楼，留存住Elisabeth楼梯行走的时间")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 如今宫殿的光耀走廊（Prunktreppenshaus），造型源于凡尔赛宫，墙面和地面各种天然和人工大理石的装饰，顶部设计玻璃顶棚结构。
+![如今宫殿的光耀走廊（Prunktreppenshaus），造型源于凡尔赛宫，墙面和地面各种天然和人工大理石的装饰，顶部设计玻璃顶棚结构。](/assets/douban/ludwig/p100734337.webp "如今宫殿的光耀走廊（Prunktreppenshaus），造型源于凡尔赛宫，墙面和地面各种天然和人工大理石的装饰，顶部设计玻璃顶棚结构。")
 
 ![《城堡之旅》原文配图](/assets/notion/f1dfeca8-f7a0-822f-bf84-0186b7b2f838.png)
 
 ![伊丽莎白从角厅出现，穿过全场98米的镜廊。](/assets/notion/c3ffeca8-f7a0-82f1-b961-01ca5b2f197e.png "伊丽莎白从角厅出现，穿过全场98米的镜廊。")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 镜廊有35个吊灯和52座烛台，看起来光照充足。
+![镜廊有35个吊灯和52座烛台，看起来光照充足。](/assets/douban/ludwig/p100734098.webp "镜廊有35个吊灯和52座烛台，看起来光照充足。")
 
 ### (iii) 新天鹅堡
 
@@ -485,9 +419,9 @@ Sissi在白天抵达林德霍夫宫，影像提供了冬天的日景。前后花
 
 ![Hundinghütte的复制](/assets/notion/0b5feca8-f7a0-8392-9116-016f3acd084d.png "Hundinghütte的复制")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
+![到访新天鹅堡的天气与维斯康蒂拍摄的时间差不多，冬天的树枝干秃，雪初晴后地上的积雪已被清理。空中漂浮着雾气，游客很多。](/assets/douban/ludwig/p100734333.webp "到访新天鹅堡的天气与维斯康蒂拍摄的时间差不多，冬天的树枝干秃，雪初晴后地上的积雪已被清理。空中漂浮着雾气，游客很多。")
 
-> 到访新天鹅堡的天气与维斯康蒂拍摄的时间差不多，冬天的树枝干秃，雪初晴后地上没有太多积雪，空中漂浮着雾气，不过游客很多。
+![新天鹅堡冬日景色](/assets/douban/ludwig/p100734338.webp "新天鹅堡冬日景色")
 
 ![路德维希在梳妆室的场景（1）](/assets/notion/402feca8-f7a0-8346-8cd4-010cf3b031e0.png "路德维希在梳妆室的场景（1）")
 
@@ -503,9 +437,7 @@ Sissi在白天抵达林德霍夫宫，影像提供了冬天的日景。前后花
 
 ![王室成员在高天鹅堡的场景](/assets/notion/8ecfeca8-f7a0-83f9-a5e4-8160838ad1d9.png "王室成员在高天鹅堡的场景")
 
-<figure class="missing-artwork"><figcaption>配图待补</figcaption></figure>
-
-> 高天鹅堡外景
+![高天鹅堡外景](/assets/douban/ludwig/p100734285.webp "高天鹅堡外景")
 
 ![高天鹅堡内景](/assets/notion/bb3feca8-f7a0-82f8-ba57-01900ae0afeb.png "高天鹅堡内景")
 

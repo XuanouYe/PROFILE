@@ -1,8 +1,8 @@
 ---
-title: 突如其来：可以将不可能变成可能吗？
+title: Can the Impossible Become Possible?
 slug: soudain-the-impossible
 publicationDate: 2026-05-27
-excerpt: 不断想起那个在看护中心餐厅的夜晚。就像《夜以继日》以及任何一部让我们留下深刻印象的滨口龙介电影，“距离”是那么重要。
+excerpt: "Keep returning to that night in the dining room of the care home. As in Asako I & II, and in any Hamaguchi film that has left a lasting impression on us, distance matters enormously."
 draft: false
 featured: true
 language: zh-CN
@@ -17,28 +17,76 @@ longform: true
 rating:
 ---
 
-不断想起那个在看护中心餐厅的夜晚。就像《夜以继日》以及任何一部让我们留下深刻印象的滨口龙介电影，“距离”是那么重要。进入这个场景，我们和麻里一样拥有一双陌生的眼睛，开始看到黑暗，然后看到开门时的光线，很快，Marie-Lou点亮了灯。我们知道在前一段的对话中，麻里和Marie-Lou之间已经拉近了一定的距离，甚至观看、参与了对方的一次劳作，在观众席为戏剧制造声音，在安抚、清洗老人时执行Humanitude的动作。如何才能进一步靠近？正如一次投掷——猝不及防的一次投掷——两人试探了摄影机前与摄影机后的一段距离。在这之前是更为简洁的一系列动作。讲解Humanitude的要素，远景拍摄一段对话，她们靠近。用拇指与小指之间的一拃距离丈量阿尔茨海默症的感知，切换到轴线的±90度的另一端持续这段对话，更加靠近。再到正面的近景，说到脸颊、手与肩膀的接触，位置略微变化，神秘的化学反应。然后我们终于等到了一次拥抱，一次在“忍受”了一长段对话后，终于等到的令人会心一笑的拥抱。还能再近吗？——我想，这是只属于电影的、奇迹降临的时刻。我们看到一个人的手指，在特写中与另一个人的手指接触、发生对话，而这个手指的动作又与前文已经发生、以及后文不得不面对的死亡产生了连接。
+Keep returning to that night in the dining room of the care home. As in Asako I & II, and in any Hamaguchi film that has left a lasting impression on us, distance matters enormously. Entering this scene, we share Mari's unfamiliar gaze. We first see darkness, then the light coming through the opening door, and soon Marie-Lou switches on the lights. We know that, through their earlier conversation, Mari and Marie-Lou have already drawn somewhat closer. Each has even witnessed and participated in the other's work: producing sounds for a theatrical performance from the audience, and performing the gestures of Humanitude while comforting and washing an elderly resident.
 
-影片后半段在日光中的弥合与疗愈，当然让人感动。在彻夜长谈资本主义的矛盾之后，电影好像就只做了这一件事情：打破麻里在白板上示意的，Inside和Outside的边界。看护中心一次争执的和解，参与一次重新发现身体的工作坊，第一次打破了Humanitude系统的Inside和Outside的边界。两周后草地的舞台的呈演，其实乱成了一团，看护们、Tomoki与老人们的行为又打破了剧场的Inside和Outside的边界。这一切发生后，Marie-Lou和麻里的劳动成为了一体，她们再次拥抱，不管是在前还是在后的视角，她们就这样坚定地看向镜头，危险的轴线打破了影像内与影像外的边界。到了日记本的空白的一页，影片似乎也离开了日记体的框架，不再事先声明一个日期，而是抵达了另一个事先声明的理想的世界。
+How might they come closer still? Through a throw - an abrupt, unexpected throw - the two test a distance between the space in front of the camera and the space behind it. Before this comes a more economical sequence of gestures. The principles of Humanitude are explained. The conversation is filmed in long shot. They draw closer. The span between thumb and little finger is used to measure the perceptual distance of someone with Alzheimer’s disease. The camera cuts to the other side, at roughly ninety degrees to the axis, the conversation continues. They come closer still. Then a frontal close shot. They speak of contact with the cheek, hand, and shoulder. Their positions shift slightly. A mysterious chemistry emerges.
 
-而我还是喜欢之前所有的、让这个迟迟等来的感动成立的部分，它们清楚地建立了那些难以感知的距离。这些场景通常发生在夜晚，不管是足底按摩还是分享照片，还是看完戏剧之后和人聊天聊到身边的世界，我想起那些与他人度过的长夜，想起那些时刻，在那个本该属于梦的时间，突然发现一段平常难以发现的距离。
+And finally, we are granted an embrace - an embrace we have been waiting for through a long stretch of conversation we have had to "endure", and one that brings a knowing smile. Can they come any closer? I think this is a moment that belongs to cinema alone, a moment in which a miracle arrives. We see one person's fingers touching another's in close-up, entering into a conversation of their own. This movement of the fingers becomes connected to the deaths that have already occurred, and to the death that must eventually be faced.
 
-一边聊资本主义一边漫无目的地行走的时候，她们穿过马路，方向发生一次折返，一个全景镜头拍下了巴黎的河边街灯在天色转晚的时分同时亮起的时刻。那一段行走唯一出现的俯拍视角捕捉了这一段描述中的一个少数能够每天注意到的、让我们察觉这个世界的“突如其来”的瞬间。这一次行走的时间是从白天到黑夜。当俯拍的全景镜头再次出现，人们享受夜色，在桥下跳舞。以为这里会是第一场郑重其事的告别，没想到她们一起到达了看护工作的场所。我们看到令人感动的、完全没有留出一丝余地的信任，平静地发生在两人之间。
+The reconciliation and healing that unfold in daylight during the film's second half are, of course, moving. After a night-long discussion of the contradictions of capitalism, the film seems to do just one thing: dismantle the boundary between Inside and Outside that Mari has illustrated on a whiteboard. The reconciliation following a dispute at the care home, and the participation in a workshop devoted to rediscovering the body, break down the boundary between Inside and Outside within the system of Humanitude for the first time. Two weeks later, the performance on the grassy stage is, in fact, a complete mess. The actions of the caregivers, Tomoki, and the elderly residents once again dissolve the boundary between the Inside and Outside of the theatre.
 
-而第二次这样的时间是从黑夜到白天，Marie-Lou到了京都。前面让我们感受到的是信任的发生，而这里正如电影所说的，她们彻底“放松下来”——即使Soudain已经发生。那是一个挺简单的变化，首先她来到她的地盘，然后就像漏斗被轻轻翻转，变成她来到她的地盘。这可以是一个明确的空间概念，小型剧院、看护所、远方的家，各自在其中私藏了丰富意义的场所。这也可以是一个模糊的、非空间的概念，比如在异国使用对方的语言，比如三双不同的眼睛在不同的角度看向同一块白板，通过图形化的哲学语言进入对方人类学学科的概念与实践。滨口始终知道，这些距离无法被郑重地宣布，只能藏在动作的背面。投掷糖果还是轻洒骨灰，这些东西始终落在别处，呈现一个具体的感知结构。
+After all this, Marie-Lou's and Mari's work becomes one. They embrace again. Whether seen from the front or from behind, they look steadily into the camera. The dangerous crossing of the axis breaks down the boundary between the space within the image and the space beyond it. By the time we arrive at a blank page in the diary, the film itself seems to have departed from its diary-like framework. No date is announced in advance. Instead, we have arrived at another world, an ideal world that had been announced beforehand.
 
-等待方便面煮熟的2.5分钟，其实只是滨口把时间的感知进行一个简单的明确化的很小的动作。我们在做一些事情的时候会忘记时间，不知道过了多久，直到注意到一些东西，一些“突如其来”的东西。比如聊过去的故事直到闹钟响起，天色变亮。比如话剧戛然而止。比如逛街和休憩时“突如其来”的鸟粪。还有深夜的对话之中，轮班同事意料之外的到场。滨口不管是观看其他人的电影还是拍摄自己的电影，都始终在意一种自然的合理性。在时间的感知里慢慢浮现出鬼魅般的东西，观众靠他们的感知发现惊喜。
+Yet I remain more attached to everything that came before, to all those moments that make this long-awaited emotion possible. They establish, with remarkable clarity, distances that are otherwise difficult to perceive. These scenes usually take place at night: a foot massage, the sharing of photographs, or a conversation after a theatrical performance that gradually extends to the world around them. I remember the long nights I have spent with other people, those moments when, at an hour that should belong to dreams, I suddenly became aware of a distance that would ordinarily have remained unnoticed.
 
-注意力被移开，我们被别的东西吸引，不经意间意识到有些东西已经被搭建好。滨口搭建一个惊喜就像搭建舞台，舞台的声响通过观众亲手制造，乐器、道具和自闭症男孩加入的杂音构成了一层异质的声音层。Marie-Lou从观众席望向台上，我们首先感受到“在场”的物理性，而不是讲述本身的内容。自闭症男孩在灯光中的身体与舞台上的镜面与表演形成新的构图，不可控的声响打破了戏剧的感知形态，有一种强烈的、《驾驶我的车》的虚构的能量，又让整个戏剧空间变得可感。
+As the two walk aimlessly while discussing capitalism, they cross a road, the direction reverse. A wide shot captures the instant when the streetlights along the Seine in Paris come on together as evening falls. The only high-angle shot in this walking sequence captures one of those rare, almost everyday moments that allow us to notice the "all of a sudden" moment of the world. This walk takes us from daylight into darkness. When the high-angle wide shot returns, people are enjoying the night, dancing beneath a bridge. I thought this would be their first solemn farewell. Instead, they arrive together at the place where the caregiving takes place. We witness an extraordinarily moving trust, one that leaves no room for reservation, quietly taking shape between them.
 
-滨口让不会法语的演员完成了整部电影的法语和日语之间的无障碍的对话，可以想像创作这部电影的过程又像是在重复一个《驾驶我的车》的实践。演员们自然、流利地说出对方语言的台词，又让这个结构更加复杂。演员奖是可信的，难以建立的、陌生的沟通在这里被同时呈现：语言层面，她们没有真正“理解”对方，而是在节奏、停顿与身体反应中逐渐校准彼此的感知。这又在另一个层面清晰化了一个难以解释的距离。
+The second such passage of time moves in the opposite direction, from night into day, when Marie-Lou arrives in Kyoto. Earlier, we witnessed the emergence of trust. Here, as the film itself puts it, they have finally "relaxed" - even though Soudain has already happened. The transformation is quite simple. First, one woman enters the other's territory. Then, as though a funnel had been gently turned upside down, the relation is reversed: the other enters hers. 
 
-影片对“说话”的兴趣，又像在反过来研究这样的感官和注意力如何被塑造。滨口把这一串不同的说话方式排布在同一部电影：剧场里的独角戏的念白，城市街道边走边聊的对话，午夜近乎讲座的讲解，偶尔陷入停顿的彻夜长谈，会议室里近乎失控的争执，带着仪式性的公开道歉，以及只通过短信传递的零碎句子，还有workshop中人们练习使用更加柔软的语言与他人说话。说话引出了注意力与感知的结构：有时集中在概念与逻辑，有时协调身体和步伐，有时让我们感受话语缝隙中的情绪。两位受过教育的主角的感知常常是抽象而分析的，而又有情感充沛与接近过劳的对比。与之相对，阿尔兹海默症的老人与自闭症青年的感知节奏又完全不同。
+This territory may be spatial and clearly defined: a small theatre, a care home, a distant home, each a place containing its own wealth of private meanings. But it may also be vague and non-spatial: speaking the other person’s language in a foreign country, for instance, or three pairs of eyes looking at the same whiteboard from different angles, entering the concepts and practices of another person’s anthropological discipline through a diagrammatic language of philosophy. Hamaguchi has always understood that these distances cannot be solemnly declared. They can only be concealed on the reverse side of gestures. Whether candies are thrown or ashes are gently scattered, these things always land somewhere else, giving form to a concrete structure of perception.
 
-Humanitude。通过尊严与同理心的护理理念构筑角色与空间的关系，这些语言以及流动的视线变得自然。当Marie-Lou的视线通过公交车的车窗触碰到追逐不停的自闭症青年，整个故事开始。这些对视线的捕捉，其实没有过多在意调度的精巧，而像是在默默记录日常的片段，通过内外空间、透视和反射之间的轻微位移呈现“看”的结构。到了日本，Marie-Lou出现的第一个场景其实是咖啡馆里的一场视频会议，我们才知道她们都到了京都。摄影机在街道上透过玻璃看到室内的Marie-Lou，她对着电脑，被橱窗框住轮廓。切入室内，镜头对着电脑屏幕，她与同事说话。刚刚经历了确诊的麻里在室外出现，变为被影片提及而暂时看不清的存在。再一次回到街道，我们看到Marie-Lou走出的过程，玻璃反射出麻里的位置。
+The two and a half minutes spent waiting for instant noodles to cook are, in fact, no more than a small gesture through which Hamaguchi makes our perception of time explicit. When we are absorbed in doing something, we forget time. We do not know how much of it has passed until something catches our attention—something sudden. A conversation about the past continues until an alarm rings and daylight begins to appear. A play comes to an abrupt halt. Bird droppings arrive unexpectedly during a shopping trip or a moment of rest. A colleague on the next shift appears without warning in the middle of a late-night conversation. Whether watching other filmmakers’ work or making his own films, Hamaguchi has always been attentive to a kind of natural plausibility. Something ghostly gradually emerges within our perception of time, and it is through their own perception that spectators discover the surprise.
 
-Marie-Lou的视线几乎是一条隐形的轨道，通过远距离的“看”，把不同的空间缝合。护工为老人洗浴，她的目光从房间的一端穿到另一端。看护所在餐厅开会，她始终坐在最后一排，视线穿越所有同事的后脑勺和椅背抵达发言者。工作坊中她退到空间边缘，观察奇迹如何发生。在剧场，她是观众席中专注的视线，看着舞台上发生的异质的一切。等到后半段在日光中的草地进行疗愈的段落来临，我们突然觉得理所当然。那些日夜累积的观看经验，被存档在心里的劳动、身体细节与声音记忆，这时都找到了出口。
+Our attention is diverted. Something else draws us in. Almost without noticing, we realize that something has already been constructed.
 
-即便在看护所这样的空间，滨口也拒绝用那种赤裸的、通过长时间直视肉身的方式拍摄劳动。敲门、进门、退出房间，首先呈现护工的身体与门框。真正进入房间和退出时，镜头停在一张床边的照片、一个旧摆件，呈现一个老人生活过的空间的纹理。这些物件属于老人远去的私人过去，作为我们理解这份劳动何以有尊严的关键。稍后的workshop，老人在众人之前看到过去年轻时的自己，只说了一句“太美了”。那些看似顺手一拍摄的物件特写早已为这句惊人的肯定创造了舞台，让其在日常动作的褶皱中变得合理。
+Hamaguchi constructs a surprise much as he constructs a stage. The sounds of the performance are produced by the audience themselves: musical instruments, props, and the noises introduced by an autistic boy form a heterogeneous layer of sound.
 
-影片给出了一种被电影重新校准过的情感：关于我们如何看，如何说，如何靠近另一个人，又如何意识到某种联系已经发生。无论是语言之间、身体之间、劳动之间，还是生死之间，距离都没有消失，只是被平静地测量，被一点点跨越。“疗愈”从来不是让我们期待一个结果，而是会自己在电影的时间中慢慢浮现。这时，滨口的鬼魅不再只有一种戏剧化的降临，而是在注意力被重新组织之后，呈现出原本就存在却难以看见的一面。
+Marie-Lou looks toward the stage from the audience. What we experience first is the physicality of presence, rather than the content of what is being narrated. The autistic boy’s body in the light, together with the mirrors and performers onstage, creates a new composition. His uncontrollable sounds disrupt the perceptual form of the theatre. There is a powerful fictional energy here, reminiscent of Drive My Car, which at the same time makes the entire theatrical space palpable.
+
+Hamaguchi has made actors who did not speak French perform an entire film built around effortless conversations in French and Japanese. One can imagine the process of making this film as another enactment of the practice explored in Drive My Car.
+
+The actors deliver lines in one another’s languages naturally and fluently, making this structure even more complex. Their acting awards are entirely convincing. What we witness here is the simultaneous presentation of an unfamiliar form of communication that is extraordinarily difficult to establish. On the linguistic level, the women do not truly “understand” one another. Instead, through rhythm, pauses, and bodily responses, they gradually bring their perceptions into alignment. At another level, this makes an otherwise inexplicable distance perceptible.
+
+The film’s fascination with speaking also seems to investigate, in reverse, how our senses and attention are shaped.
+
+Hamaguchi arranges an entire range of modes of speech within a single film: the recitation of a theatrical monologue; conversations while walking through city streets; explanations delivered almost like lectures at midnight; all-night discussions punctuated by occasional silences; nearly uncontrollable arguments in meeting rooms; public apologies performed with a sense of ritual; fragmentary sentences exchanged only through text messages; and the workshop in which participants practise speaking to others in a gentler language.
+
+Speech gives rise to structures of attention and perception. Sometimes our attention is concentrated on concepts and logic; sometimes it coordinates bodies and footsteps; at other times, it allows us to sense the emotions concealed in the gaps between words.
+
+The two educated protagonists often perceive the world in abstract, analytical terms, though they differ in their emotional intensity and proximity to exhaustion. By contrast, the perceptual rhythms of the elderly residents with Alzheimer’s disease and the autistic young man are entirely different.
+
+Humanitude.
+
+Through a philosophy of care founded on dignity and empathy, the film constructs relationships between characters and spaces. Language and shifting lines of sight become natural within this framework.
+
+The story begins when Marie-Lou, looking through the window of a bus, catches sight of an autistic young man who is running ceaselessly. These moments of looking are not particularly concerned with the ingenuity of mise-en-scène. Rather, they resemble a quiet recording of fragments of everyday life, revealing the structure of seeing through slight shifts between interior and exterior spaces, perspective, and reflection.
+
+In Japan, Marie-Lou’s first scene is actually a video meeting in a café. Only then do we realize that both women have arrived in Kyoto.
+
+From the street, the camera looks through the glass at Marie-Lou inside. She sits before her computer, her figure framed by the shop window. A cut takes us indoors, where the camera faces the computer screen as she speaks with her colleagues.
+
+Mari, who has just received her diagnosis, appears outside. She becomes a presence that has been mentioned by the film but remains temporarily difficult to see. When we return once more to the street, we watch Marie-Lou emerge from the café, while the glass reflects Mari’s position.
+
+Marie-Lou’s gaze is almost an invisible track, stitching different spaces together through the act of looking across distances.
+
+As a caregiver washes an elderly resident, her gaze travels from one end of the room to the other. During a meeting in the care home’s dining room, she remains seated in the back row, her gaze passing over the backs of her colleagues’ heads and chairs to reach the speaker. In the workshop, she withdraws to the edge of the space, observing how a miracle takes place. In the theatre, hers is the attentive gaze from the audience, watching everything heterogeneous that unfolds onstage.
+
+When the healing sequence on the sunlit grass arrives in the second half, it suddenly feels entirely natural. All those experiences of looking accumulated over days and nights—the labour, bodily details, and memories of sound quietly stored within us—have finally found an outlet.
+
+Even within a space such as the care home, Hamaguchi refuses to film labour through the naked, prolonged contemplation of the human body.
+
+Knocking on a door, entering a room, leaving it: what we first see is the caregiver’s body in relation to the doorframe. When the caregiver actually enters or exits, the camera lingers on a photograph beside a bed, or an old ornament, revealing the texture of a space in which an elderly person has lived.
+
+These objects belong to a private past that is gradually receding. They are crucial to our understanding of what gives this labour its dignity.
+
+Later, during the workshop, an elderly woman sees an image of her younger self in front of everyone and says only, “So beautiful.”
+
+Those seemingly casual close-ups of objects have already prepared the stage for this astonishing affirmation, allowing it to emerge naturally from the folds of everyday gestures.
+
+The film offers us an emotion recalibrated by cinema: an emotion concerned with how we look, how we speak, how we approach another person, and how we become aware that a connection has already taken place.
+
+Whether between languages, bodies, forms of labour, or life and death, distance never disappears. It is simply measured with quiet precision and crossed little by little.
+
+Healing is never a matter of anticipating a result. It emerges of its own accord, gradually, within the time of the film.
+
+At this point, Hamaguchi’s ghosts no longer arrive only through dramatic apparitions. Once our attention has been reorganized, they reveal another side of what has always been there, yet has remained so difficult to see.
