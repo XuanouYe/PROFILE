@@ -2,10 +2,10 @@
 title: Tears for Cinema
 slug: tears-for-cinema
 publicationDate: 2025-10-17
-excerpt: 想想《魅影缝匠》：影片末尾的几个场景，角色的情感经历了从“爱”到“恨”的极端异化，旋即又被拉至绝对的“爱”。
+excerpt: "Think of Phantom Thread: in the film's final scenes, the characters' emotions undergo an extreme transformation from love to hatred, only to be abruptly drawn back toward an absolute form of love."
 draft: false
 featured: false
-language: zh-CN
+language: en
 metadata:
   Film: |-
     One Battle After Another
