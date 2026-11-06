@@ -1,5 +1,5 @@
 ---
-title: 为cinema流泪
+title: Tears for Cinema
 slug: tears-for-cinema
 publicationDate: 2025-10-17
 excerpt: 想想《魅影缝匠》：影片末尾的几个场景，角色的情感经历了从“爱”到“恨”的极端异化，旋即又被拉至绝对的“爱”。
@@ -17,30 +17,52 @@ longform: true
 rating: null
 ---
 
-想想《魅影缝匠》：影片末尾的几个场景，角色的情感经历了从“爱”到“恨”的极端异化，旋即又被拉至绝对的“爱”。在这个情感辩证法的精湛演示中，我们不禁怀疑：什么是情感？无法稳定的，在权力与依赖中不断转变、甚至自我否定的建构？对此PTA从不故弄玄虚，他始终以电影的方法为之赋形。
+Think of Phantom Thread: in the film's final scenes, the characters' emotions undergo an extreme transformation from "love" to "hatred", only to be abruptly drawn back toward an absolute form of "love". In this masterful demonstration of an emotional dialectic, we cannot help but wonder: What is emotion? Is it an unstable construct, one that continually transforms, and even negates itself, through relations of power and dependence? Paul Thomas Anderson (PTA) never resorts to mystification in confronting such questions. Instead, he consistently gives them form through the language of cinema.
 
-一切始于罗伯特·奥特曼（Robert Altman）的经验。PTA如何学习拍摄群像，呈现以时代为尺度的、空间的生态？——使用重叠对话（overlapping dialog）和复杂的调度，再给予台词与姿态以一定的戏剧性。这样，即使在镜头中一闪而过的形象都能被果断、快速地建立。《一战再战》中的“丛林浦西”不正是如此？更别说Deandra、Mae West等其他更重要的角色。
+It all begins with the lessons of Robert Altman. How did PTA learn to film an ensemble, to present a spatial ecology whose scale is that of an entire historical era? Through overlapping dialogue and intricate blocking, while lending a certain theatricality to speech and gesture. In this way, even figures who appear only fleetingly within the frame can be established decisively and almost instantaneously. Isn't this precisely what happens with Jungle Pussy in _One Battle After Another_? Not to mention more prominent characters such as Deandra and Mae West.
 
-相较托马斯·品钦的原著《葡萄园》，母亲Perfidia Beverly Hills（对应书中的Frenesi Gates）的角色以及女儿Willa（对应书中的Prairie Wheeler）的情节减少了许多。而这不长的篇幅中，Steven J. Lockjaw上校和Perfidia产生关系的段落，包括前者对后者的复杂动机，还是被PTA以迷人的方式呈现。挟持时的挑衅，行动时的强暴以及酒店戏的欲望的爆发，这一切难道不都是《魅影缝匠》中Reynolds Woodcock和Alma关系的一次浓缩？同样令人信服，却发生得更快，更强劲。
+Compared with Thomas Pynchon's original novel _Vineland_, the roles of the mother, Perfidia Beverly Hills (corresponding to Frenesi Gates in the novel), and her daughter Willa (Prairie Wheeler in the novel) have been considerably reduced. Yet within this limited narrative space, PTA manages to render the relationship between Colonel Steven J. Lockjaw and Perfidia, including the former's complex motivations toward the latter, in a fascinating manner. The provocation during the hostage-taking, the sexual assault during the operation, and the eruption of desire in the hotel scene—isn't all of this a condensed version of the relationship between Reynolds Woodcock and Alma in _Phantom Thread_? Equally convincing, yet unfolding with greater speed and force.
 
-PTA好像很快就能实现，将角色的状态塑造得具体甚至夸张，让它们马上到达最大的限度，然后成为类型语法中一个确定的实体。这也是罗伯特·奥特曼的经验。而PTA电影的魔力在于，紧随其后的场景，他可以再次解构这些刻板的“确定性”，通过光影和空间的调度，让角色在上一个场景的清晰的状态迅速消隐，重新变得模糊与不可知，然后重新建立。
+PTA seems capable of achieving this almost instantaneously: he renders his characters' emotional states concrete, even exaggerated, pushes them immediately to their furthest limits, and then transforms them into clearly defined entities within the grammar of genre. This, too, is part of Altman's legacy. Yet the magic of PTA's cinema lies in what follows. In the very next scene, he can dismantle these stereotypical “certainties” once again. Through his manipulation of light, shadow, and spatial relationships, the characters' previously distinct emotional states rapidly dissolve, becoming ambiguous and unknowable, only to be reconstructed anew.
 
-那个被迫赴约的酒店，开始只是枪的特写，Perfidia拿起枪，我们看到站立的Perfidia和坐在床上的Lockjaw上校。房间只有一小部分光亮，而Perfidia和Lockjaw上校只是2个看不清楚的黑影，我们看不清二者的表情。她拿枪走向他，一段行走，留白的表演，我们很快否认、甚至忘记了上一个场景——执行完任务时Perfidia的哭泣所含有的情绪，只是期待当下这二人会发生什么。相似的场景还有很多，始终呈现一种“确立”与“消解”的辩证节奏。这展现了PTA作为导演对文本的绝对掌控，更迫使我们直面了电影中情感的谜题。
+Consider the hotel where Perfidia is compelled to meet Lockjaw. The sequence begins with a close-up of a gun. Perfidia picks it up, and we see her standing while Colonel Lockjaw sits on the bed. Only a small portion of the room is illuminated. Perfidia and Lockjaw are reduced to two indistinct silhouettes, their expressions concealed from us. She approaches him with the gun. A stretch of walking, a performance defined by what remains unexpressed. Almost immediately, we begin to negate, even forget, the emotions contained in Perfidia's tears after completing her mission in the previous scene. Instead, we become absorbed in the anticipation of what might happen between these two figures now. Similar scenes recur throughout the film, sustaining a dialectical rhythm of “establishment” and “dissolution.” This demonstrates PTA's absolute command of the text as a director, while compelling us to confront the enigma of emotion in cinema.
 
-托马斯·品钦的小说常常在每个章节打开、进入一个非线性的时空位置，契合PTA叙述群像的、支线交错的方式。其实看完《一战再战》最先想到的是《木兰花》，其次才是Greenwood参与配乐的其他PTA电影。相似之处在于电影发生的源源不断的动力，就像标题One Battle After Another所指示的那样，战斗，战斗。
+Thomas Pynchon's novels frequently open each chapter by entering a new, nonlinear position in space and time, a structure particularly compatible with PTA's ensemble narratives and their intersecting subplots. In fact, the first film that came to mind after watching _One Battle After Another_ was _Magnolia_, rather than any of PTA's other collaborations with Jonny Greenwood. What connects them is the seemingly inexhaustible momentum of cinematic events, just as the title _One Battle After Another_ suggests: battle after battle.
 
-<i>“1984年夏天的一个早晨，阳光透过倚墙伸入窗内的无花果枝，洒在索伊德·威勒身上，一群蓝松鸦在屋顶上顿足舞蹈，搅得索伊德从迷梦中悠悠醒来。时间已晚过平日了。”</i>
+_“One morning in the summer of 1984, sunlight filtered through the branches of a fig tree leaning against the wall and reaching into the window, falling upon Zoyd Wheeler. A flock of blue jays stamped and danced upon the roof, gradually stirring Zoyd from his dream-filled sleep. It was later than he usually woke.”_
 
-品钦的开头似乎是一个脆弱的宁静，含有多种诗意的感官的调用。而莱昂纳多·迪卡普里奥饰演的Bob刚出场就投入了战斗。这也是PTA的魅力。开头Perfidia在桥上行走，拍摄正面，我们看到Perfidia向下看的表情。拍摄背面，交代左侧桥下聚集的一片人群。然后侧面的远景往下摇，看到桥下即将发生战斗的移民拘留场所，摄影机再摇回原处。Perfidia折返了这趟路程，我们知道这个地方即将发生什么，电影却转移了注意力。Bob奔跑集合，一些建立形象的对话，然后就到了夜晚，一场战斗发生。
+Pynchon's opening evokes a fragile tranquility, suffused with multiple layers of poetic sensory experience. By contrast, Bob, played by Leonardo DiCaprio, is thrown into battle almost as soon as he appears. This, too, is part of PTA's fascination.
 
-当然《一战再战》没有《葡萄园》那样的时间节点的反复跳跃，而是有一个明确的方向。写六十年代激进的左派革命，再写二十一世纪的新法西斯主义暗潮。这是PTA第一部拍摄当代的电影，但如何谈论政治不是PTA关注的重心。他们只是成为了前后对应的戏剧性要素。
+At the beginning, Perfidia walks across a bridge. Filmed from the front, we see her looking downward. A reverse angle reveals a crowd gathered beneath the bridge to her left. Then, in a distant lateral shot, the camera tilts downward to reveal the immigrant detention facility below, where a battle is about to unfold, before tilting back to its original position. Perfidia retraces her steps. We now know what is about to happen in this location, yet the film shifts our attention elsewhere. Bob runs to join the others; a few exchanges of dialogue establish the characters; and suddenly it is night, and a battle begins.
 
-Willa’s Guitar弹奏的声音在确认怀胎时开始，到Bob与丈母娘（对应小说的重要角色Sasha Gates）对话，再到生下Willa后Bob形象的一次转变，Perfidia再次转身投向革命，时间向前跃进，琴声始终持续。这些声音总会让我们经历记忆回溯的时刻，就像品钦小说中几乎察觉不到的时空的跃点。当Willa终于被捕，Lockjaw上校将其劫至教堂的空间进行身份的确认之前，我们再一次听到开篇Perfidia发动革命时的音乐主题——这次袭击与被袭击的双方改变了位置。
+Of course, _One Battle After Another_ does not reproduce the repeated temporal leaps of _Vineland_. Instead, it follows a clearly defined historical trajectory: from the radical leftist revolutionary movements of the 1960s to the undercurrents of neo-fascism in the twenty-first century. This is PTA's first film set in the contemporary world, yet the articulation of political discourse is hardly his central concern. Politics becomes, instead, a series of dramatic elements that correspond across different historical moments.
 
-在此PTA呈现了与奥特曼完全相反的美学路径。《堪萨斯情仇》中像粘合剂一般的爵士乐将大萧条时期离散在堪萨斯和爱荷华两地的命运组成了一张紧密的叙事网络。绑架案、政治博弈、赌场风云，这些破碎的生存图景都被爵士的即兴旋律连成了时代的整体想象。这些爵士乐既在场景之内也在场景之外，著名乐手的现场演出承担了情节的过渡。而PTA则践行了更为决绝的策略。配乐彻底被剥离出叙事空间，始终作为画外元素存在。声音常常不是故事世界的组成部分，而是纯粹的、为电影技法服务的装置。这个选择暴露了PTA和他的老师的美学差异，他不愿在紧凑的故事的间隙插入表演性的段落以适当地调节节奏，而是选择让战斗以近乎窒息的密度持续爆发。毫不妥协的强度。这恰恰是PTA的作者性——他让电影成为电影，成为一场跌宕起伏的、永不休止的生存博弈。
+The sound of the guitar in “Willa's Guitar” begins with the confirmation of Perfidia's pregnancy. It continues through Bob's conversation with his mother-in-law (corresponding to Sasha Gates, an important character in the novel), through the transformation of Bob's character after Willa's birth, and through Perfidia's renewed turn toward revolution. Time leaps forward, yet the guitar continues uninterrupted. Such sounds repeatedly induce moments of retrospective memory, much like the almost imperceptible shifts in space and time in Pynchon's fiction. When Willa is finally captured, just before Colonel Lockjaw takes her to a church to verify her identity, we hear once again the musical theme accompanying Perfidia's revolutionary assault at the beginning of the film. This time, the positions of attacker and victim have been reversed.
 
-就像跌宕起伏的山路：《一战再战》最不复杂、最纯粹的一场戏。前文的类型片戏码已经拍得足够精彩，在这个“追车戏”语法已经几近枯竭、已经拍得几乎难以再令人眼前一亮的当下，PTA勇敢地将这一段放在高潮的位置，再一次证明了Cinema的伟大。原始的视线——多么直接的感官刺激——被PTA以极限的速度玩弄。视线可以很快地从向上变成向下，有时候被前方的公路遮挡，有时候需要借助后视镜，有时候视野又重新打开，我们几乎眩晕。
+Here, PTA pursues an aesthetic path almost entirely opposed to Altman's. In _Kansas City_, jazz functions as a kind of adhesive, binding together the scattered destinies of people in Kansas and Iowa during the Great Depression into a tightly woven narrative network. Kidnapping, political maneuvering, and the intrigues of the gambling world: these fragmented scenes of existence are connected by the improvisatory melodies of jazz into a collective imagination of an era. The music exists both within and beyond the scenes, while live performances by celebrated musicians serve as transitions between narrative episodes.
 
-《木兰花》在高潮段落坚持多线叙事的趣味仍在出现，并以更残酷的“缺席”策略延续。莱昂纳多·迪卡普里奥饰演的Bob始终在迟到，我们期待一个英雄归来的故事，重复一遍开头的战斗的故事，却始终没有发生。PTA设置了一个恰当的延宕和错位，通过剪辑把“正在进行”的追杀和“已经完成”的上一个事件并置，强调时态的混合。于是承担叙述的、快速的“追杀”，和承担悬念的、慢速的“追踪”被放在了一个同样高的强度，紧张的冲突和宿命辩证。与其对应的还有Greenwood创作的、随之适当变奏却保持了紧张感的配乐，作为连续性的要素缝合了两个时空。
+PTA, however, adopts a far more uncompromising strategy. The score is completely detached from the narrative space, remaining consistently non-diegetic. Sound frequently ceases to be a constituent element of the fictional world and becomes instead a purely cinematic device, serving the formal operations of the film itself. This choice exposes the aesthetic difference between PTA and his mentor. Rather than inserting performative interludes into the tightly structured narrative to modulate its rhythm, he allows the battles to erupt continuously, with an almost suffocating density. An uncompromising intensity.
 
-电影的方法当然是类型的。原作中荒唐的婚礼变为学生们的派对，含有东方思想又被资本化渗透了的“忍者姐妹之家”在影片中只是拮据的修道院。许多形象都被平面化了，甚至对政治的提及也是简单的。确定的形象按照类型语法的既定轨道运作，恰好是这样的写法让PTA打开了反类型的思路。每次Bob的抵达都标记了一个事件的结束，一个场景的句读。于是我们再次想起《性本恶》——另一部PTA改编品钦小说的电影——华金·菲尼克斯饰演的Larry，同样承担着打破类型电影的常规期待的任务。他们在时间的迷宫寻找偶然、荒诞的命运，却在最关键的时刻与真相擦肩而过。这也是PTA电影的永恒命题：在一个意义消散的世界里，所有的追寻都注定是一场与真相和解脱的错位，而电影发生的时间，成为了测量这种距离的、最精确的尺度。
+This is precisely where PTA's authorship resides: he makes cinema become cinema, an exhilarating, never-ending struggle for survival.
+
+Just like the undulating mountain road: the least complicated, most purely cinematic sequence in _One Battle After Another_.
+
+The preceding genre sequences have already been executed with remarkable brilliance. Yet at a moment when the grammar of the car chase seems almost exhausted, when it has been explored so thoroughly that it appears nearly impossible to produce anything genuinely surprising, PTA boldly places such a sequence at the film's climax, once again demonstrating the greatness of Cinema.
+
+The primal act of looking—what an immediate sensory thrill!—is manipulated by PTA at an almost unbearable speed. Our gaze can shift rapidly from upward to downward; at times the road ahead obstructs our vision, at others we must rely on the rearview mirror, and then suddenly the field of vision opens up again. We are left almost dizzy.
+
+The fascination with multilinear storytelling that _Magnolia_ sustained even during its climactic passages reappears here, now extended through an even more ruthless strategy of “absence.” Bob, played by Leonardo DiCaprio, is perpetually late. We anticipate the return of a hero, a repetition of the battle narrative that opened the film, yet this expectation is never fulfilled.
+
+PTA constructs a carefully calibrated system of delay and displacement. Through editing, he juxtaposes a pursuit that is “still unfolding” with a preceding event that has “already concluded,” emphasizing the coexistence and intermingling of different temporalities. Consequently, the rapid-paced “manhunt,” which carries the narrative forward, and the slower “search,” which sustains suspense, are elevated to an equally intense register. Tense conflict enters into a dialectical relationship with fate.
+
+Correspondingly, Greenwood's score undergoes subtle variations while preserving its underlying tension, functioning as an element of continuity that stitches together these two temporal spaces.
+
+Cinema's methods are, of course, rooted in genre. The absurd wedding in the original novel becomes a students' party. The Sisterhood of the Kunoichi Attentives, infused with Eastern philosophy yet infiltrated by capitalist forces, is reduced in the film to an impoverished convent. Many figures are flattened, and even the film's references to politics remain relatively simple.
+
+Yet it is precisely through this method of allowing clearly defined figures to operate along the predetermined trajectories of genre conventions that PTA opens up the possibility of an anti-genre cinema.
+
+Every arrival of Bob marks the conclusion of an event, a punctuation mark at the end of a scene.
+
+And so we are reminded once again of _Inherent Vice_, PTA's other adaptation of a Pynchon novel, in which Joaquin Phoenix's Larry similarly assumes the task of disrupting the conventional expectations of genre cinema. These characters wander through labyrinths of time in search of accidental, absurd destinies, only to miss the truth at the most decisive moments.
+
+This is also the enduring question of PTA's cinema: in a world where meaning has dissipated, every pursuit is destined to become a misalignment with truth and liberation. And cinematic time itself becomes the most precise measure of that distance.
