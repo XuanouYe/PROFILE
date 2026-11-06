@@ -16,7 +16,7 @@ metadata:
   Performance date: 29 Nov 2025
 subject: music
 longform: true
-rating: null
+rating: 5
 medium: live
 ---
 

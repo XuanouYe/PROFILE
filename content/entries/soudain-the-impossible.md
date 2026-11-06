@@ -5,7 +5,7 @@ publicationDate: 2026-05-27
 excerpt: "Keep returning to that night in the dining room of the care home. As in Asako I & II, and in any Hamaguchi film that has left a lasting impression on us, distance matters enormously."
 draft: false
 featured: true
-language: zh-CN
+language: en
 metadata:
   Film: |-
     All of a Sudden
