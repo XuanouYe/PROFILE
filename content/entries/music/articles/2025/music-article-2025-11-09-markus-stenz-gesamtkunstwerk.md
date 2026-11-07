@@ -12,7 +12,7 @@ translation:
   sourceLanguage: English, German
   translator: Zhejiang University Classical Music Association
 metadata:
-  Programme: "Wagner: Twilight of the Gods (Götterdämmerung)"
+  Programme: "Wagner: Götterdämmerung"
   Conductor: Markus Stenz
   Orchestra: Hangzhou Philharmonic Orchestra
   Venue: Hangzhou Grand Theatre
