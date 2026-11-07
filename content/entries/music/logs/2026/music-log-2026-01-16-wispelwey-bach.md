@@ -22,7 +22,7 @@ metadata:
     Johann Sebastian Bach：Cello Suite No. 4 in E-flat major, BWV 1010（Cello: Pieter Wispelwey）
     Johann Sebastian Bach：Cello Suite No. 5 in C minor, BWV 1011（Cello: Pieter Wispelwey）
     Johann Sebastian Bach：Cello Suite No. 6 in D major, BWV 1012（Cello: Pieter Wispelwey）
-  Venues: Cadillac Shanghai Concert Hall
+  Venue: Cadillac Shanghai Concert Hall
   Performance date: |-
     2026-01-15
     2026-01-16
