@@ -4,7 +4,7 @@ slug: film-article-2025-10-30-notes-miyake-sho
 aliases:
   - notes-miyake-sho
 publicationDate: 2025-10-30
-excerpt: 《惠子，凝视》是我2023年最喜欢的电影，而2024年《黎明的一切》又让我觉得这种“小而美”的路线已经走到了尽头。
+excerpt: "Small, Slow but Steady was one of my favorite films of 2023, while All the Long Nights in 2024 left me feeling that Miyake's approach to filmmaking - small in scale, delicate in its beauty - had reached its limits."
 draft: false
 featured: false
 language: en
