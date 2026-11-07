@@ -1,11 +1,8 @@
 ---
-# Production reference: https://www.die-hamburgische-staatsoper.de/de/programm/oper/1938-petruschka-amp-l-enfant-et-les-sortileges
-# Original production year: https://www.kulturvolk.de/files/pdf/magazin/kulturvolkmagazin092017.pdf
-# Date follows the author's supplied 06 Nov 2026; the Hamburg public premiere is listed as 07 Nov 2026.
 title: L’ENFANT ET LES SORTILÈGES | Suzanne Andrade & Esme Appleton (2017)
 slug: opera-log-2026-11-06-l-enfant-et-les-sortileges-suzanne-andrade-esme-appleton
 publicationDate: 2026-11-07
-excerpt: 拉威尔的简单的音乐戏剧，1927剧团的舞台空间不再遵循传统透视，而是结合默片和二维动画的语法，用投影叙述，转化为具有独立意志、充满幽默与威胁的心理世界。
+excerpt: "Ravel’s straightforward musical drama is transformed by the theatre company 1927 into a psychological world with a will of its own, full of both humour and menace."
 draft: false
 language: en
 subject: opera
