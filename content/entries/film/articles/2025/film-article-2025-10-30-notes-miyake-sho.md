@@ -16,7 +16,7 @@ metadata:
   Year: 2025
 subject: film
 longform: true
-rating: null
+rating: 5
 ---
 
 _Small, Slow but Steady_ was my favorite film of 2023, while _All the Long Nights_ in 2024 left me feeling that Miyake's approach to filmmaking - small in scale, delicate in its beauty - had reached its limits. I never expected _Two Seasons, Two Strangers_ to discover so many new and fascinating possibilities. In filming Keiko in _Small, Slow but Steady_ and Sachiko in _And Your Bird Can Sing_, Shō Miyake establishes an intimacy between the camera and his characters. Watching Shizuka Ishibashi dance or Yukino Kishii train as a boxer, we encounter images grounded in the physicality of the body. Yet _Two Seasons, Two Strangers_ feels utterly unfamiliar. Like a talentless screenwriter writing a summer story in the depths of winter, the camera observes how lonely people encounter one another. We watch Yuumi Kawai, framed in a long shot, remove her bandage in the pouring rain; Natsuo notices that her bandage is gone; they swim in the sea, search for fish underwater. They are constantly attempting to interact with one another and with their surroundings, yet the camera keeps its distance from their bodies. Like the students attending the post-screening discussion within the film, we find ourselves confronted with loneliness without quite knowing why.
