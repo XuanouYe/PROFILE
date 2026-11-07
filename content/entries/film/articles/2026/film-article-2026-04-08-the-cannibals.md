@@ -1,6 +1,6 @@
 ---
-title: test
-slug: film-article-2026-04-08-test
+title: 作为盛宴、奇观与吞噬的电影：《食人族》的节庆与恐怖美学
+slug: film-article-2026-04-08-the-cannibals
 aliases:
   - the-cannibals
 publicationDate: 2026-04-08
