@@ -20,6 +20,6 @@ metadata:
     Antonín Dvořák：Symphony No. 7 in D minor, Op. 70, B. 141
   Conductor: Anna Rakitina
   Orchestra: Symphoniker Hamburg
-  Venues: Laeiszhalle
+  Venue: Laeiszhalle
   Performance date: 2026-10-15
 ---

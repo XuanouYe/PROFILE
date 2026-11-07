@@ -19,6 +19,6 @@ metadata:
     Pyotr Ilyich Tchaikovsky：Symphony No. 5 in E minor, Op. 64
   Conductor: Valery Gergiev
   Orchestra: Mariinsky Orchestra
-  Venues: Yanguan Tide Opera House
+  Venue: Yanguan Tide Opera House
   Performance date: 2026-05-19
 ---

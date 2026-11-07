@@ -20,6 +20,6 @@ metadata:
     Giovanni Battista Pergolesi：Stabat Mater in F minor, P. 77（excerpts）（Soprano: Aloisia De Nardis; Mezzo-soprano: Janetka Hoşco）
   Conductor: Omer Meir Wellber
   Orchestra: Philharmonisches Staatsorchester Hamburg
-  Venues: Elbphilharmonie
+  Venue: Elbphilharmonie
   Performance date: 2026-10-26
 ---

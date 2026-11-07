@@ -19,6 +19,6 @@ metadata:
     Anton Bruckner：Symphony No. 9 in D minor, WAB 109
   Conductor: Samy Rachid
   Orchestra: Suzhou Symphony Orchestra
-  Venues: Jinji Lake Concert Hall SCAC
+  Venue: Jinji Lake Concert Hall SCAC
   Performance date: 2026-05-23
 ---

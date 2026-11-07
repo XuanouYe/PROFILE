@@ -20,6 +20,6 @@ metadata:
     Johannes Brahms：Symphony No. 4 in E minor, Op. 98
   Conductor: Riccardo Minasi
   Orchestra: Konzerthausorchester Berlin
-  Venues: Konzerthaus Berlin
+  Venue: Konzerthaus Berlin
   Performance date: 2026-10-30
 ---

@@ -33,6 +33,6 @@ metadata:
     Adam Jarzębski：Tamburetta from Canzoni e concerti
     Sebastiano Moratelli：“Lungi dai nostri cor” from La faretra smarrita（Countertenor: Jakub Józef Orliński）
   Orchestra: Il Pomo d’Oro
-  Venues: Cadillac Shanghai Concert Hall
+  Venue: Cadillac Shanghai Concert Hall
   Performance date: 2026-03-19
 ---

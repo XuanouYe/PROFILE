@@ -48,12 +48,12 @@ Details begins with `Subject` and ends with `Rating`. All other rows follow the 
 | `film` | `Film`, `Director`, `Year` |
 | `opera` | `Opera`, `Director`, `Production year`, `Venue` |
 | `music` | `Programme`, `Conductor`, `Orchestra` |
-| `music` with `medium: live` | Add `Venues`, `Performance date` |
+| `music` with `medium: live` | Add `Venue`, `Performance date` |
 | `music` with `medium: recording` | Add `label`, `Release date` |
 
 Use a YAML multiline string for `Film`: English title on the first line, original title on the second. Use the director's original Latin-script name, or the established English name for a name originally written in a non-Latin script. Opera titles use the original title, or the established English title for a non-Latin title.
 
-Programme names use the composer's full given name and surname, the complete English work name including key and catalogue number, and any supplied soloist in parentheses, for example `Robert Schumann：Cello Concerto in A minor, Op. 129（Cello: Pablo Ferrández）`. Keep descriptive titles in their original language. Logs may leave `excerpt: ""` and the body empty until a personal response is supplied. Store performance dates as `YYYY-MM-DD`; they display as `27 Nov 2025`. `Release date` uses the same storage and display formats. For multiple venues or performances, use matching multiline values in `Venues` and `Performance date`.
+Programme names use the composer's full given name and surname, the complete English work name including key and catalogue number, and any supplied soloist in parentheses, for example `Robert Schumann：Cello Concerto in A minor, Op. 129（Cello: Pablo Ferrández）`. Keep descriptive titles in their original language. Logs may leave `excerpt: ""` and the body empty until a personal response is supplied. Store performance dates as `YYYY-MM-DD`; they display as `27 Nov 2025`. `Release date` uses the same storage and display formats. For multiple venues or performances, use matching multiline values in `Venue` and `Performance date`.
 
 Do not infer a particular concert, conductor, orchestra, label, release date, or rating for a comparative essay. For instance, the Aranjuez article discusses several recordings; its Programme is filled, and edition-specific information is unfilled.
 

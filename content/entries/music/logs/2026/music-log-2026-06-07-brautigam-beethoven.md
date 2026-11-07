@@ -20,6 +20,6 @@ metadata:
     Ludwig van Beethoven：Piano Sonata No. 23 in F minor, Op. 57, “Appassionata”（Piano: Ronald Brautigam）
     Ludwig van Beethoven：Piano Sonata No. 26 in E-flat major, Op. 81a, “Les Adieux”（Piano: Ronald Brautigam）
     Ludwig van Beethoven：Piano Sonata No. 32 in C minor, Op. 111（Piano: Ronald Brautigam）
-  Venues: Jaguar Shanghai Symphony Hall
+  Venue: Jaguar Shanghai Symphony Hall
   Performance date: 2026-06-07
 ---

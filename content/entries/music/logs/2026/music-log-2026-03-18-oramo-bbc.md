@@ -23,6 +23,6 @@ metadata:
     Igor Stravinsky：L’Oiseau de feu — Suite
   Conductor: Sakari Oramo
   Orchestra: BBC Symphony Orchestra
-  Venues: Shanghai Oriental Art Center
+  Venue: Shanghai Oriental Art Center
   Performance date: 2026-03-18
 ---

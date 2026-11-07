@@ -22,6 +22,6 @@ metadata:
     Robert Schumann：Symphony No. 4 in D minor, Op. 120
   Conductor: Jonathan Nott
   Orchestra: Shanghai Symphony Orchestra
-  Venues: Jaguar Shanghai Symphony Hall
+  Venue: Jaguar Shanghai Symphony Hall
   Performance date: 2026-06-05
 ---

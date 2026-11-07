@@ -21,6 +21,6 @@ metadata:
     Wolfgang Amadeus Mozart：Serenade No. 9 in D major, K. 320, “Posthorn”
   Conductor: Hongjun Chen
   Orchestra: Hangzhou Philharmonic Orchestra
-  Venues: Hangzhou Grand Theatre
+  Venue: Hangzhou Grand Theatre
   Performance date: 2026-05-09
 ---

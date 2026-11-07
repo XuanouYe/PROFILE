@@ -20,6 +20,6 @@ metadata:
     Dmitri Shostakovich：Symphony No. 4 in C minor, Op. 43
   Conductor: Andris Poga
   Orchestra: NDR Elbphilharmonie Orchester
-  Venues: Elbphilharmonie
+  Venue: Elbphilharmonie
   Performance date: 2026-11-05
 ---

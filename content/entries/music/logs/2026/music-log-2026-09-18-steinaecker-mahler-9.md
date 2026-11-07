@@ -17,6 +17,6 @@ metadata:
   Programme: Gustav Mahler：Symphony No. 9 in D major
   Conductor: Philipp von Steinaecker
   Orchestra: Mahler Academy Orchestra
-  Venues: Elbphilharmonie
+  Venue: Elbphilharmonie
   Performance date: 2026-09-18
 ---

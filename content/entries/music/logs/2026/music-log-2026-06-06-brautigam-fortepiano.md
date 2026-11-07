@@ -23,6 +23,6 @@ metadata:
     Wolfgang Amadeus Mozart：Twelve Variations in C major on “Ah, vous dirai-je, maman”, K. 265/300e（Fortepiano: Ronald Brautigam）
     Joseph Haydn：Variations in E-flat major, Hob. XVII:3（Fortepiano: Ronald Brautigam）
     Ludwig van Beethoven：Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2, “Quasi una fantasia”（Fortepiano: Ronald Brautigam）
-  Venues: Jaguar Shanghai Symphony Hall
+  Venue: Jaguar Shanghai Symphony Hall
   Performance date: 2026-06-06
 ---

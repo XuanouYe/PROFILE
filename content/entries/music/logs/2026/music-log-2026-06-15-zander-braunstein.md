@@ -21,6 +21,6 @@ metadata:
     Gustav Mahler：Symphony No. 1 in D major
   Conductor: Benjamin Zander
   Orchestra: Boston Philharmonic Youth Orchestra
-  Venues: Jaguar Shanghai Symphony Hall
+  Venue: Jaguar Shanghai Symphony Hall
   Performance date: 2026-06-15
 ---

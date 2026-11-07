@@ -21,6 +21,6 @@ metadata:
     Hans Zender：Schumann-Fantasie
   Conductor: Sylvain Cambreling
   Orchestra: Symphoniker Hamburg
-  Venues: Laeiszhalle
+  Venue: Laeiszhalle
   Performance date: 2026-09-20
 ---

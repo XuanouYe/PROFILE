@@ -22,6 +22,6 @@ metadata:
     Leonard Bernstein：Chichester Psalms
   Conductor: Ingo Metzmacher
   Orchestra: Deutsches Symphonie-Orchester Berlin
-  Venues: Philharmonie Berlin
+  Venue: Philharmonie Berlin
   Performance date: 2026-10-10
 ---

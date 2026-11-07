@@ -15,7 +15,7 @@ metadata:
   Programme: "Wagner: Twilight of the Gods (Götterdämmerung)"
   Conductor: Markus Stenz
   Orchestra: Hangzhou Philharmonic Orchestra
-  Venues: Hangzhou Grand Theatre
+  Venue: Hangzhou Grand Theatre
   Performance date: 22 Nov 2025
 subject: music
 longform: true

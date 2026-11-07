@@ -21,6 +21,6 @@ metadata:
     Richard Strauss：Symphonia domestica, Op. 53, TrV 209
   Conductor: Franz Welser-Möst
   Orchestra: The Cleveland Orchestra
-  Venues: Elbphilharmonie
+  Venue: Elbphilharmonie
   Performance date: 2026-10-03
 ---

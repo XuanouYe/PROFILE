@@ -21,6 +21,6 @@ metadata:
     Claude Debussy：La mer, L. 109
   Conductor: Esa-Pekka Salonen
   Orchestra: Orchestre de Paris
-  Venues: Shanghai Oriental Art Center
+  Venue: Shanghai Oriental Art Center
   Performance date: 2026-04-18
 ---

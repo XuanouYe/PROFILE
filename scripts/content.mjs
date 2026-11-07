@@ -6,7 +6,7 @@ export const subjects = ['film', 'opera', 'music'];
 export function detailFields(entry) {
   if (entry.subject === 'film') return ['Film', 'Director', 'Year'];
   if (entry.subject === 'opera') return ['Opera', 'Director', 'Production year', 'Venue'];
-  return ['Programme', 'Conductor', 'Orchestra', ...(entry.medium === 'live' ? ['Venues', 'Performance date'] : entry.medium === 'recording' ? ['label', 'Release date'] : [])];
+  return ['Programme', 'Conductor', 'Orchestra', ...(entry.medium === 'live' ? ['Venue', 'Performance date'] : entry.medium === 'recording' ? ['label', 'Release date'] : [])];
 }
 export const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export const validDate = value => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value) && !Number.isNaN(Date.parse(value)) && new Date(value).toISOString().slice(0, 10) === value;

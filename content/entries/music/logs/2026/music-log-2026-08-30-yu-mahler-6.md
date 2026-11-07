@@ -17,6 +17,6 @@ metadata:
   Programme: Gustav Mahler：Symphony No. 6 in A minor
   Conductor: Feng Yu
   Orchestra: Ningbo Symphony Orchestra
-  Venues: Ningbo Grand Theatre
+  Venue: Ningbo Grand Theatre
   Performance date: 2026-08-30
 ---

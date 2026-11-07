@@ -21,6 +21,6 @@ metadata:
     Anton Bruckner：Symphony in F minor, WAB 99, “Studiensymphonie”（No. 00）
   Conductor: Simone Young
   Orchestra: Symphonieorchester des Bayerischen Rundfunks
-  Venues: Herkulessaal
+  Venue: Herkulessaal
   Performance date: 2026-10-22
 ---

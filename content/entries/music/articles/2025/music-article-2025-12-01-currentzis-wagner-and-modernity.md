@@ -14,7 +14,7 @@ metadata:
   Programme: "Wagner: The Ring Without Words (Der Ring ohne Worte; arr. Lorin Maazel)"
   Conductor: Teodor Currentzis
   Orchestra: musicAeterna
-  Venues: Shenzhen Concert Hall
+  Venue: Shenzhen Concert Hall
   Performance date: 29 Nov 2025
 subject: music
 longform: true

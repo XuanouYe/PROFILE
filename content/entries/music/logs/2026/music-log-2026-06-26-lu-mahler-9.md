@@ -17,6 +17,6 @@ metadata:
   Programme: Gustav Mahler：Symphony No. 9 in D major
   Conductor: Shao-Chia Lü
   Orchestra: Hangzhou Philharmonic Orchestra
-  Venues: Hangzhou Grand Theatre
+  Venue: Hangzhou Grand Theatre
   Performance date: 2026-06-26
 ---

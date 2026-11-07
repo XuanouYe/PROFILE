@@ -19,6 +19,6 @@ metadata:
     Richard Strauss：Eine Alpensinfonie, Op. 64, TrV 233
   Conductor: Bertrand de Billy
   Orchestra: Philharmonisches Staatsorchester Hamburg
-  Venues: Elbphilharmonie
+  Venue: Elbphilharmonie
   Performance date: 2026-09-27
 ---

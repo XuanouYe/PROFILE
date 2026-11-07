@@ -22,6 +22,6 @@ metadata:
     Jean Sibelius：Karelia Suite, Op. 11
   Conductor: Andreas Delfs
   Orchestra: Hangzhou Philharmonic Orchestra
-  Venues: Hangzhou Grand Theatre
+  Venue: Hangzhou Grand Theatre
   Performance date: 2026-05-17
 ---

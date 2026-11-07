@@ -19,6 +19,6 @@ metadata:
     Antonín Dvořák：Symphony No. 8 in G major, Op. 88, B. 163
   Conductor: Yang Yang
   Orchestra: Hangzhou Philharmonic Orchestra
-  Venues: Hangzhou Grand Theatre
+  Venue: Hangzhou Grand Theatre
   Performance date: 2026-04-11
 ---

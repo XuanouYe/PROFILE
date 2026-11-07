@@ -21,6 +21,6 @@ metadata:
     Johannes Brahms：Symphony No. 3 in F major, Op. 90
   Conductor: Stéphane Denève
   Orchestra: Shanghai Symphony Orchestra
-  Venues: Jaguar Shanghai Symphony Hall
+  Venue: Jaguar Shanghai Symphony Hall
   Performance date: 2026-05-29
 ---

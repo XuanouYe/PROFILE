@@ -20,6 +20,6 @@ metadata:
     Dmitri Shostakovich：Symphony No. 8 in C minor, Op. 65
   Conductor: Franz Welser-Möst
   Orchestra: The Cleveland Orchestra
-  Venues: Elbphilharmonie
+  Venue: Elbphilharmonie
   Performance date: 2026-10-02
 ---

@@ -21,6 +21,6 @@ metadata:
     Gustav Mahler：Symphony No. 1 in D major
   Conductor: Manfred Honeck
   Orchestra: Deutsches Symphonie-Orchester Berlin
-  Venues: Philharmonie Berlin
+  Venue: Philharmonie Berlin
   Performance date: 2026-10-31
 ---

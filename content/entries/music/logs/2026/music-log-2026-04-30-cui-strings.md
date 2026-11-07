@@ -25,6 +25,6 @@ metadata:
     Gian Carlo Menotti：Suite for Two Cellos and Strings（1973; arranged by Hans Kunstovny）
   Conductor: Yuanyuan Cui
   Orchestra: Chamber Philharmonia ZJCM
-  Venues: Zhejiang Conservatory of Music
+  Venue: Zhejiang Conservatory of Music
   Performance date: 2026-04-30
 ---

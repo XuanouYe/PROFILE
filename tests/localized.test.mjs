@@ -9,7 +9,7 @@ import {matches} from '../public/archive-core.js';
 const entry={title:'中文标题',slug:'chinese-article',excerpt:'中文摘要',publicationDate:'2025-10-31',longform:true,subject:'film',language:'zh-CN',draft:false,body:'这是中文正文。',english:null};
 const url=p=>'/PROFILE'+p;
 test('metadata-only music logs allow an empty review and retain programme, date and rating',()=>{
-  const log={...entry,subject:'music',medium:'live',longform:false,excerpt:'',body:'',rating:3.5,metadata:{Programme:'Robert Schumann：Cello Concerto in A minor, Op. 129（Cello: Pablo Ferrández）','Performance date':'2026-10-30',Venues:'Konzerthaus Berlin'}};
+  const log={...entry,subject:'music',medium:'live',longform:false,excerpt:'',body:'',rating:3.5,metadata:{Programme:'Robert Schumann：Cello Concerto in A minor, Op. 129（Cello: Pablo Ferrández）','Performance date':'2026-10-30',Venue:'Konzerthaus Berlin'}};
   assert.doesNotThrow(()=>validate(log,'metadata-only log'));
   assert.throws(()=>validate({...log,longform:true},'empty article'));
   assert.throws(()=>validate({...log,excerpt:null},'invalid excerpt'));
@@ -82,7 +82,7 @@ test('subject and medium determine the exact Details fields and order',()=>{
   const keys=entry=>[...localizedEntry(entry,'en',[entry],url).matchAll(/<div class="detail-item"><dt>([^<]+):<\/dt>/g)].map(m=>m[1]);
   assert.deepEqual(keys(entry),['Subject','Film','Director','Year','Rating']);
   assert.deepEqual(keys({...entry,subject:'opera'}),['Subject','Opera','Director','Production year','Venue','Rating']);
-  assert.deepEqual(keys({...entry,subject:'music',medium:'live'}),['Subject','Programme','Conductor','Orchestra','Venues','Performance date','Rating']);
+  assert.deepEqual(keys({...entry,subject:'music',medium:'live'}),['Subject','Programme','Conductor','Orchestra','Venue','Performance date','Rating']);
   assert.deepEqual(keys({...entry,subject:'music',medium:'recording'}),['Subject','Programme','Conductor','Orchestra','label','Release date','Rating']);
   assert.throws(()=>validate({...entry,metadata:{Focus:'No extra fields'}},'extra field'));
   assert.throws(()=>validate({...entry,subject:'music',medium:'live',metadata:{label:'Not a recording'}},'wrong medium'));

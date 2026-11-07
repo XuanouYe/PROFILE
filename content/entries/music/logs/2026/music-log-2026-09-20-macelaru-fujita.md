@@ -21,6 +21,6 @@ metadata:
     Béla Bartók：Music for Strings, Percussion and Celesta, Sz. 106, BB 114
   Conductor: Cristian Măcelaru
   Orchestra: NDR Elbphilharmonie Orchester
-  Venues: Elbphilharmonie
+  Venue: Elbphilharmonie
   Performance date: 2026-09-20
 ---

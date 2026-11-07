@@ -21,6 +21,6 @@ metadata:
     Dmitri Shostakovich：Песнь о лесах, Op. 81
   Conductor: Yi Zhang
   Orchestra: Shanghai Philharmonic Orchestra
-  Venues: Shanghai Oriental Art Center
+  Venue: Shanghai Oriental Art Center
   Performance date: 2026-09-06
 ---

@@ -20,6 +20,6 @@ metadata:
     Ludwig van Beethoven：Symphony No. 5 in C minor, Op. 67
   Conductor: Riccardo Minasi
   Orchestra: Koninklijk Concertgebouworkest
-  Venues: Concertgebouw
+  Venue: Concertgebouw
   Performance date: 2026-10-25
 ---

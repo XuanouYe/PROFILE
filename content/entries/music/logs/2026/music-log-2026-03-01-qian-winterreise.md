@@ -18,6 +18,6 @@ metadata:
   Programme: "Franz Schubert：Winterreise, Op. 89, D. 911（orchestrated by John Frandsen）（Tenor: Peter Lodahl）"
   Conductor: Junping Qian
   Orchestra: Chamber Philharmonia ZJCM
-  Venues: Shanghai Oriental Art Center
+  Venue: Shanghai Oriental Art Center
   Performance date: 2026-03-01
 ---

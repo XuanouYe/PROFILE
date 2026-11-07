@@ -21,6 +21,6 @@ metadata:
     Ferde Grofé：Grand Canyon Suite
   Conductor: Yang Yang
   Orchestra: Hangzhou Philharmonic Orchestra
-  Venues: Hangzhou Grand Theatre
+  Venue: Hangzhou Grand Theatre
   Performance date: 2026-05-24
 ---
