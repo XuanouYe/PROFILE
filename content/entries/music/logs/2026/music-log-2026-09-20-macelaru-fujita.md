@@ -17,7 +17,9 @@ rating: 3.5
 metadata:
   Programme: |-
     Missy Mazzoli：Sinfonia（for Orbiting Spheres）
+    
     Sergei Rachmaninoff：Piano Concerto No. 3 in D minor, Op. 30（Piano: Mao Fujita）
+    
     Béla Bartók：Music for Strings, Percussion and Celesta, Sz. 106, BB 114
   Conductor: Cristian Măcelaru
   Orchestra: NDR Elbphilharmonie Orchester

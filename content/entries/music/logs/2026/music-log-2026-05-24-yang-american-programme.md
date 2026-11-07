@@ -17,7 +17,9 @@ rating: 4
 metadata:
   Programme: |-
     Aaron Copland：Clarinet Concerto（Clarinet: Yin Sun）
+    
     Leonard Bernstein：Serenade after Plato’s “Symposium”（Violin: Quan Yuan）
+    
     Ferde Grofé：Grand Canyon Suite
   Conductor: Yang Yang
   Orchestra: Hangzhou Philharmonic Orchestra

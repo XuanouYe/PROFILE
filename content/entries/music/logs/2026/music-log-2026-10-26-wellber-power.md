@@ -17,6 +17,7 @@ rating: 3.5
 metadata:
   Programme: |-
     Alfred Schnittke：Viola Concerto（Viola: Lawrence Power）
+    
     Giovanni Battista Pergolesi：Stabat Mater in F minor, P. 77（excerpts）（Soprano: Aloisia De Nardis; Mezzo-soprano: Janetka Hoşco）
   Conductor: Omer Meir Wellber
   Orchestra: Philharmonisches Staatsorchester Hamburg

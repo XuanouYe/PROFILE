@@ -17,6 +17,7 @@ rating: 4
 metadata:
   Programme: |-
     Richard Strauss：Vier letzte Lieder, TrV 296（Soprano: Golda Schultz）
+    
     Dmitri Shostakovich：Symphony No. 8 in C minor, Op. 65
   Conductor: Franz Welser-Möst
   Orchestra: The Cleveland Orchestra

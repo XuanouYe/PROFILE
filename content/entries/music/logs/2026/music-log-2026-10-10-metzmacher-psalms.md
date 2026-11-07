@@ -17,8 +17,11 @@ rating: 5
 metadata:
   Programme: |-
     Lili Boulanger：D’un soir triste
+    
     Lili Boulanger：Du fond de l’abîme（Psalm 130）
+    
     Igor Stravinsky：Symphony of Psalms
+    
     Leonard Bernstein：Chichester Psalms
   Conductor: Ingo Metzmacher
   Orchestra: Deutsches Symphonie-Orchester Berlin

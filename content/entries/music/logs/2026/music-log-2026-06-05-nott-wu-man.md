@@ -17,8 +17,11 @@ rating: 4.5
 metadata:
   Programme: |-
     Carl Maria von Weber：Oberon — Overture, J. 306
+    
     Du Yun：Ears of the Book — Concerto for Pipa and Orchestra（Pipa: Wu Man）
+    
     György Ligeti：Melodien
+    
     Robert Schumann：Symphony No. 4 in D minor, Op. 120
   Conductor: Jonathan Nott
   Orchestra: Shanghai Symphony Orchestra

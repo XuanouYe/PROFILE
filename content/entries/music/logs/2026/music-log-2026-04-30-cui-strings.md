@@ -18,11 +18,15 @@ medium: live
 rating: 3.5
 metadata:
   Programme: |-
-    Olli Mustonen：Nonet No. 2 for Strings（2000）
-    Alfred Schnittke：Concerto for Three for Violin, Viola, Cello and String Orchestra（1994）
-    Osvaldo Golijov：Last Round for String Nonet（1996）
-    Giovanni Sollima：Violoncelles, vibrez! for Two Cellos and Strings（1993）
-    Gian Carlo Menotti：Suite for Two Cellos and Strings（1973; arranged by Hans Kunstovny）
+    Olli Mustonen：Nonet No. 2 for Strings
+    
+    Alfred Schnittke：Concerto for Three for Violin, Viola, Cello and String Orchestra
+    
+    Osvaldo Golijov：Last Round for String Nonet
+    
+    Giovanni Sollima：Violoncelles, vibrez! for Two Cellos and Strings
+    
+    Gian Carlo Menotti：Suite for Two Cellos and Strings
   Conductor: Yuanyuan Cui
   Orchestra: Chamber Philharmonia ZJCM
   Venue: Zhejiang Conservatory of Music

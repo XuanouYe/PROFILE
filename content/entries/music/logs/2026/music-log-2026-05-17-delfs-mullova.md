@@ -17,8 +17,11 @@ rating: 3.5
 metadata:
   Programme: |-
     Jean Sibelius：Tuonelan joutsen, Op. 22 No. 2
+    
     Jean Sibelius：Violin Concerto in D minor, Op. 47（Violin: Viktoria Mullova）
+    
     Jean Sibelius：Symphony No. 7 in C major, Op. 105
+    
     Jean Sibelius：Karelia Suite, Op. 11
   Conductor: Andreas Delfs
   Orchestra: Hangzhou Philharmonic Orchestra

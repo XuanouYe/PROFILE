@@ -17,7 +17,9 @@ rating: 5
 metadata:
   Programme: |-
     Bernd Richard Deutsch：Intensity
+    
     Wolfgang Amadeus Mozart：Symphony No. 34 in C major, K. 338
+    
     Richard Strauss：Symphonia domestica, Op. 53, TrV 209
   Conductor: Franz Welser-Möst
   Orchestra: The Cleveland Orchestra

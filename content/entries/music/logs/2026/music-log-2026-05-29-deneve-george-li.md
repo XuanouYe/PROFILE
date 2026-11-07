@@ -17,7 +17,9 @@ rating: 4
 metadata:
   Programme: |-
     Guillaume Connesson：Flammenschrift
+    
     Robert Schumann：Piano Concerto in A minor, Op. 54（Piano: George Li）
+    
     Johannes Brahms：Symphony No. 3 in F major, Op. 90
   Conductor: Stéphane Denève
   Orchestra: Shanghai Symphony Orchestra

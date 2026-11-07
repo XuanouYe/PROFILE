@@ -18,8 +18,11 @@ rating: 4
 metadata:
   Programme: |-
     Judith Weir：Welcome Arrival of Rain
+    
     Camille Saint-Saëns：Piano Concerto No. 5 in F major, Op. 103, “L’Égyptien”（Piano: Bertrand Chamayou）
+    
     Felix Mendelssohn：Die Hebriden — Concert Overture in B minor, Op. 26
+    
     Igor Stravinsky：L’Oiseau de feu — Suite
   Conductor: Sakari Oramo
   Orchestra: BBC Symphony Orchestra

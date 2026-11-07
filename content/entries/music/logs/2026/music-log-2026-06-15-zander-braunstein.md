@@ -17,7 +17,9 @@ rating: 2.5
 metadata:
   Programme: |-
     Leonard Bernstein：Candide — Overture
+    
     Max Bruch：Violin Concerto No. 1 in G minor, Op. 26（Violin: Guy Braunstein）
+    
     Gustav Mahler：Symphony No. 1 in D major
   Conductor: Benjamin Zander
   Orchestra: Boston Philharmonic Youth Orchestra

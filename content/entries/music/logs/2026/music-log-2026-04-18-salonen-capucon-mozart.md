@@ -16,7 +16,9 @@ rating: 4.5
 metadata:
   Programme: |-
     Claude Debussy：Rondes de printemps from Images pour orchestre, L. 122 No. 3
+    
     Wolfgang Amadeus Mozart：Violin Concerto No. 3 in G major, K. 216（Violin: Renaud Capuçon）
+    
     Jean Sibelius：Symphony No. 5 in E-flat major, Op. 82
   Conductor: Esa-Pekka Salonen
   Orchestra: Orchestre de Paris

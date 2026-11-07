@@ -16,7 +16,9 @@ rating: 3.5
 metadata:
   Programme: |-
     Emilie Mayer：Faust-Ouvertüre in B minor, Op. 46
+    
     Wolfgang Amadeus Mozart：Piano Concerto No. 25 in C major, K. 503（Piano: Mao Fujita）
+    
     Ludwig van Beethoven：Symphony No. 5 in C minor, Op. 67
   Conductor: Riccardo Minasi
   Orchestra: Koninklijk Concertgebouworkest

@@ -16,8 +16,11 @@ rating: 5
 metadata:
   Programme: |-
     Claude Debussy：Prélude à l’après-midi d’un faune, L. 86
+    
     Béla Bartók：Violin Concerto No. 2, Sz. 112, BB 117（Violin: Renaud Capuçon）
+    
     Maurice Ravel：Ma mère l’Oye — Suite, M. 60
+    
     Claude Debussy：La mer, L. 109
   Conductor: Esa-Pekka Salonen
   Orchestra: Orchestre de Paris

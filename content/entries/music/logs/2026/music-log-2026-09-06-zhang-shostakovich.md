@@ -17,7 +17,9 @@ rating: 3.5
 metadata:
   Programme: |-
     Dmitri Shostakovich：Над Родиной нашей солнце сияет, Op. 90
+    
     Dmitri Shostakovich：Болт — Ballet Suite, Op. 27a
+    
     Dmitri Shostakovich：Песнь о лесах, Op. 81
   Conductor: Yi Zhang
   Orchestra: Shanghai Philharmonic Orchestra

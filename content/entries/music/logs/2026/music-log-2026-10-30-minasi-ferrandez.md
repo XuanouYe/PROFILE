@@ -16,7 +16,9 @@ rating: 4
 metadata:
   Programme: |-
     Johannes Brahms：Akademische Festouvertüre in C minor, Op. 80
+    
     Robert Schumann：Cello Concerto in A minor, Op. 129（Cello: Pablo Ferrández）
+    
     Johannes Brahms：Symphony No. 4 in E minor, Op. 98
   Conductor: Riccardo Minasi
   Orchestra: Konzerthausorchester Berlin

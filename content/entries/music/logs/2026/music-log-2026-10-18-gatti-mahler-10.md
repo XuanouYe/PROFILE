@@ -15,7 +15,7 @@ longform: false
 medium: live
 rating: 5
 metadata:
-  Programme: Gustav Mahler：Symphony No. 10 in F-sharp major（performing version by Deryck Cooke）
+  Programme: Gustav Mahler：Symphony No. 10 in F-sharp major (performing version by Deryck Cooke)
   Conductor: Daniele Gatti
   Orchestra: Sächsische Staatskapelle Dresden
   Venue: Semperoper

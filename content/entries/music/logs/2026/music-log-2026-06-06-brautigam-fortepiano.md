@@ -17,12 +17,17 @@ medium: live
 rating: 4.5
 metadata:
   Programme: |-
-    Wolfgang Amadeus Mozart：Rondo in A minor, K. 511（Fortepiano: Ronald Brautigam）
-    Joseph Haydn：Piano Sonata No. 62 in E-flat major, Hob. XVI:52（Fortepiano: Ronald Brautigam）
-    Ludwig van Beethoven：Piano Sonata No. 13 in E-flat major, Op. 27 No. 1, “Quasi una fantasia”（Fortepiano: Ronald Brautigam）
-    Wolfgang Amadeus Mozart：Twelve Variations in C major on “Ah, vous dirai-je, maman”, K. 265/300e（Fortepiano: Ronald Brautigam）
-    Joseph Haydn：Variations in E-flat major, Hob. XVII:3（Fortepiano: Ronald Brautigam）
-    Ludwig van Beethoven：Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2, “Quasi una fantasia”（Fortepiano: Ronald Brautigam）
+    Wolfgang Amadeus Mozart：Rondo in A minor, K. 511
+    
+    Joseph Haydn：Piano Sonata No. 62 in E-flat major, Hob. XVI:52
+    
+    Ludwig van Beethoven：Piano Sonata No. 13 in E-flat major, Op. 27 No. 1, “Quasi una fantasia”
+    
+    Wolfgang Amadeus Mozart：Twelve Variations in C major on “Ah, vous dirai-je, maman”, K. 265/300e
+    
+    Joseph Haydn：Variations in E-flat major, Hob. XVII:3
+    
+    Ludwig van Beethoven：Piano Sonata No. 14 in C-sharp minor, Op. 27 No. 2, “Quasi una fantasia”
   Venue: Jaguar Shanghai Symphony Hall
   Performance date: 2026-06-06
 ---
