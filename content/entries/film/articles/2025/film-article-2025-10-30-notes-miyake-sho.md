@@ -1,5 +1,5 @@
 ---
-title: 笔记：陌生的三宅唱，陌生的电影
+title: A Stranger Miyake, A Stranger Film
 slug: film-article-2025-10-30-notes-miyake-sho
 aliases:
   - notes-miyake-sho
@@ -19,8 +19,14 @@ longform: true
 rating: null
 ---
 
-《惠子，凝视》是我2023年最喜欢的电影，而2024年《黎明的一切》又让我觉得这种“小而美”的路线已经走到了尽头。没想到《旅途中的日子》又找到了很多有趣的事物。三宅唱拍摄《惠子，凝视》的惠子，拍摄《你的鸟儿会唱歌》的佐知子，镜头与角色是亲密的。我们看见石桥静河跳舞、看岸井雪乃训练拳击，都是身体性的影像。而《旅途中的日子》就很陌生。就像没有才华的编剧在冬天写作一个夏天的故事，摄影机拍摄孤独的人们如何邂逅。正如河合优实在远景中，面对暴雨拆掉她的绷带，natsuo发现她的绷带消失，他们下海游泳、他们在水中找鱼，他们始终在尝试和对方、和环境互动，摄影机却远离了身体，我们就像电影中参加映后的学生，不知道为什么就看到了孤独。
+_Small, Slow but Steady_ was my favorite film of 2023, while _All the Long Nights_ in 2024 left me feeling that Miyake's approach to filmmaking - small in scale, delicate in its beauty - had reached its limits. I never expected _Two Seasons, Two Strangers_ to discover so many new and fascinating possibilities.
 
-执笔写作的特写——我们唯一接近沈的时刻——她写下的却是韩语。“陌生”让所有的自反都很恰当。没有才华的编剧，感受到孤独的观众，喜欢幽默电影的客栈老板所经历的幽默故事，以及为客栈创作的、怀有淡淡的悲伤的电影。我们看到两种行进的方式：上一个场景还在海滩的大广角被游客拍摄的natsuo，沈在纸上用铅笔“使其离开”，下一次出现就在无人的海湾等待。而河合的角色则经过了从展览馆到树林到海湾的整段行走，第一次看到的摄影、沿途的风景以及每一次岔路的选择，第二次在雨中犹豫，决定是否兑现承诺前往海湾，整段行走的时间都被保留。
+In filming Keiko in _Small, Slow but Steady_ and Sachiko in _And Your Bird Can Sing_, Shō Miyake establishes an intimacy between the camera and his characters. Watching Shizuka Ishibashi dance or Yukino Kishii train as a boxer, we encounter images grounded in the physicality of the body. Yet _Two Seasons, Two Strangers_ feels utterly unfamiliar. Like a talentless screenwriter writing a summer story in the depths of winter, the camera observes how lonely people encounter one another. We watch Yuumi Kawai, framed in a long shot, remove her bandage in the pouring rain; Natsuo notices that her bandage is gone; they swim in the sea, search for fish underwater. They are constantly attempting to interact with one another and with their surroundings, yet the camera keeps its distance from their bodies. Like the students attending the post-screening discussion within the film, we find ourselves confronted with loneliness without quite knowing why.
 
-就像无法听见其他人说话的惠子让我们听见城市中更丰富、更清晰的声音，《旅途中的日子》故意让一些声音消失，插入不存在的声音，过了一会又恢复正常。比如映后的场景，导演陈述，说到一半声音fade out，沈恩敬开始旁白，难以确定我们的思绪在何处飘散，独白结束之后得以恢复正常。比如火车经过轨道，不知何时，规律的、轮毂与铁轨的撞击声也消失了，Hi'Spec的音乐出现，Li的旅程到达了遥远的目的地。
+A close-up of a hand writing - the only moment we are allowed to approach Lee - reveals that what she is writing is in Korean. This sense of estrangement makes every act of self-reflexivity feel entirely appropriate: the talentless screenwriter, the audience that experiences loneliness, the innkeeper who loves comedies and finds himself caught up in a humorous story, and the film made for his inn, imbued with a faint melancholy.
+
+We witness two different ways of moving through space. In one scene, Natsuo is still on the beach, captured by tourists with a wide-angle lens; Lee then makes him "leave" with a stroke of her pencil on the page, and when he next appears, he is already waiting in a deserted cove. Kawai's character, by contrast, undertakes an entire journey on foot, from the exhibition hall through the woods to the cove. The first time, we see the photographs she encounters, the landscapes along the way, and every choice she makes at each fork in the path. The second time, in the rain, she hesitates over whether to keep her promise and go to the cove. The full duration of her walk is preserved.
+
+Just as Keiko's inability to hear others speak allows us to hear the city with greater richness and clarity, _Two Seasons, Two Strangers_ deliberately makes certain sounds disappear, introduces sounds that have no apparent source, and then, after a while, restores the ordinary soundscape.
+
+Consider the post-screening discussion: the director is speaking when, midway through his remarks, his voice fades out and a voice-over by Shim Eun-kyung begins. It becomes difficult to locate where our thoughts have drifted, until the monologue ends and the sound returns to normal. Or consider the train moving along the tracks: at some imperceptible moment, the regular, rhythmic clatter of wheels against rails also disappears. Hi'Spec's music emerges, and Lee's journey reaches its distant destination.
