@@ -76,6 +76,12 @@ for(const base of ['', '/PROFILE']) test(`static output and every local link res
   assert.ok(redirect.includes(`<meta http-equiv="refresh" content="0; url=${base}/life/tokyo-story-log/">`));
   assert.ok(redirect.includes(`<link rel="canonical" href="${base}/life/tokyo-story-log/">`));
   const archive=await fs.readFile(path.join(outputRoot,'life/archive/index.html'),'utf8');
+  const home=await fs.readFile(path.join(outputRoot,'life/index.html'),'utf8');
+  assert.ok(!home.includes('rating-only-log'));
+  assert.ok(home.includes('tokyo-story-log'));
+  assert.ok(archive.includes('data-slug="rating-only-log"'));
+  const ratingOnly=await fs.readFile(path.join(outputRoot,'life/rating-only-log/index.html'),'utf8');
+  assert.match(ratingOnly,/aria-label="0 out of 5"/);
   assert.ok(!archive.includes('<option value="2024">'));
   assert.match(archive,/<noscript>/);
   assert.ok(!archive.includes('name="format"'));

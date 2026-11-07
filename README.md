@@ -37,6 +37,8 @@ metadata:
 
 `publicationDate` controls ordering and archive year. A shorter, undated record may use `publicationDate: null`; long articles require a date. Production years, release years, and performance dates never supply a missing publication date. Existing undated opera entries keep their original order.
 
+The homepage's Recent log includes only short records with a nonblank excerpt or body, then applies the recent-entry limit. Records with empty reviews remain in the archive and retain their detail pages and ratings.
+
 `rating` is a number from 0 to 5 in increments of 0.5, or `null` when not supplied. Store `3.5`, not a star string. The page shows `★★★☆` for 3.5, `★★★★★` for 5, and `☆` for 0.5. It does not fill the unused portion with empty stars. An unfilled rating displays a dash; zero generates no stars. All 11 long-article ratings remain unfilled for the author to enter later.
 
 ## Details schema
