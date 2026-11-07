@@ -17,6 +17,7 @@ rating: 2
 metadata:
   Programme: |-
     Sergei Prokofiev：Symphony-Concerto for Cello and Orchestra in E minor, Op. 125（Cello: Daniel Müller-Schott）
+    
     Dmitri Shostakovich：Symphony No. 4 in C minor, Op. 43
   Conductor: Andris Poga
   Orchestra: NDR Elbphilharmonie Orchester
