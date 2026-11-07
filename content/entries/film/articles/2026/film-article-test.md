@@ -1,9 +1,9 @@
 ---
 title: 弦上捷克，禁锢的日常：《失翼灵雀》与新浪潮时期的赫拉巴尔
-slug: film-article-2024-06-02-larks-on-a-string
+slug: film-article-test
 aliases:
   - larks-on-a-string
-publicationDate: 2024-06-02
+publicationDate: 2026-11-07
 excerpt: 伴随着机器的轰鸣，镜头摇过原始而简陋的工厂景观。声音在滑稽的表演之前出现，角色逐个介绍，谐谑和假装优越的语气引导观众看到出场的典型的油头粉面的公务员形象。
 draft: false
 featured: false
