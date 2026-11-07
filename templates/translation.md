@@ -1,6 +1,6 @@
 ---
 title: Replace with your title
-slug: replace-with-a-stable-slug
+slug: film-article-2026-11-03-replace-with-title-keywords
 publicationDate: 2026-11-03
 excerpt: Write a short introduction using only your own supplied content.
 draft: true

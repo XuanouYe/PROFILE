@@ -72,6 +72,9 @@ for(const base of ['', '/PROFILE']) test(`static output and every local link res
   assert.ok(!detail.includes('<dt>Format'));
   assert.ok(!detail.includes('<dt>Focus'));
   assert.ok(detail.includes(`${base}/life/between-scenes/`));
+  const redirect=await fs.readFile(path.join(outputRoot,'life/old-tokyo-story/index.html'),'utf8');
+  assert.ok(redirect.includes(`<meta http-equiv="refresh" content="0; url=${base}/life/tokyo-story-log/">`));
+  assert.ok(redirect.includes(`<link rel="canonical" href="${base}/life/tokyo-story-log/">`));
   const archive=await fs.readFile(path.join(outputRoot,'life/archive/index.html'),'utf8');
   assert.ok(!archive.includes('<option value="2024">'));
   assert.match(archive,/<noscript>/);

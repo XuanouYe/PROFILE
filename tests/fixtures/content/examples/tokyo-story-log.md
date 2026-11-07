@@ -1,6 +1,8 @@
 ---
 title: Tokyo Story
 slug: tokyo-story-log
+aliases:
+  - old-tokyo-story
 publicationDate: 2026-10-26
 experienceDate: 2026-10-24
 experienceLabel: Watched

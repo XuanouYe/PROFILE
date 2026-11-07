@@ -4,7 +4,7 @@
 
 ## 日常使用
 
-1. 在左侧打开 `content` → `entries`，自由编辑对应的 `.md` 文件。Obsidian 会自动保存到本地。
+1. 在左侧打开 `content` → `entries`，按主题（`film`、`music`、`opera`）、类型（`articles` 长文章、`logs` 短记录）和年份找到对应的 `.md` 文件。Obsidian 会自动保存到本地。
 2. 如需查看实际网页，双击项目里的 `Preview.command`。浏览器会打开本地预览，保存文章后会自动刷新。预览窗口运行期间保留终端窗口。
 3. 完成后，在右侧 Source Control 面板，点击顶部最左侧的 **Commit all changes and sync** 按钮。也可以直接按 **⌘⇧S**，或在命令面板搜索 **Git: Commit-and-sync**。
 4. 看到 push 成功后，GitHub Actions 会自动检查并部署网站。可在 [发布记录](https://github.com/XuanouYe/PROFILE/actions) 查看进度。
@@ -25,11 +25,15 @@
 - `metadata`：按既有的电影、音乐或歌剧字段填写。
 - 私人草稿请放在 `content/drafts/`，这个目录不会同步到公共仓库。`content/entries/` 和 `content/translations/en/` 只存放 `draft: false` 的公开定稿；如果误放草稿，提交检查会阻止同步。
 
-`slug` 决定网页地址。已发布的文章请尽量不要改 slug。
+`slug` 决定网页地址，统一使用 `主题-类型-日期-描述`，类型填单数 `article` 或 `log`，日期为首次命名时的 `publicationDate`，描述使用小写英文及连字符。无发布日期的短记录使用 `undated`，不要用制作年份或演出日期推测发布日期。
+
+例如：`opera-log-2026-11-01-die-walkure-claus-guth`。文件名必须与 slug 一致，存放在 `content/entries/opera/logs/2026/`。歌剧短记录的描述使用作品名与导演名；音乐会记录使用指挥、独奏者或节目关键词；文章使用有意义的英文标题关键词。不要再用随机编号作为描述。
+
+已发布的 slug 应保持稳定；确需修改时，把旧 slug 加入 `aliases` 列表，网站会生成旧网址到新网址的跳转。旧中文文章的 `/en/` 地址也会保留跳转。`related` 内引用的 slug 和正文中的站内链接应同步更新；英文翻译文件名也要改为新 slug。
 
 ## 添加文章
 
-先复制 `templates/` 里的适合模板到 `content/drafts/`，用新的文件名与 slug 写作。准备公开时，改为 `draft: false`，再移动到 `content/entries/`。不要把“Format”或“Focus”字段加回来。
+先复制 `templates/` 里的适合模板到 `content/drafts/`，用新的文件名与 slug 写作。准备公开时，改为 `draft: false`，再按主题、类型和发布日期年份移入对应目录，例如 `content/entries/film/articles/2026/`。无日期短记录放在对应的 `logs/undated/`。不要把“Format”或“Focus”字段加回来。
 
 ## 图片和链接
 

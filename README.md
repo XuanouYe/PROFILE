@@ -17,7 +17,7 @@ Open `http://127.0.0.1:4173/life/`. The preview watches Markdown, images, and si
 
 ```yaml
 title: "Your title"
-slug: a-stable-permalink
+slug: film-article-2026-11-03-title-keywords
 publicationDate: "2026-11-03"
 subject: film
 longform: true
@@ -59,7 +59,13 @@ Do not infer a particular concert, conductor, orchestra, label, release date, or
 
 ## Writing and replacement
 
-Keep slugs stable: they create `/life/<slug>/`. Standard Markdown headings, paragraphs, lists, links, quotations, and images are supported. Start body headings at `##`, because the page already supplies the title.
+Entries live in `content/entries/<subject>/<articles|logs>/<year|undated>/<slug>.md`. Use `articles` for `longform: true` and `logs` for short records. The year comes from `publicationDate`; undated logs belong in `undated`.
+
+Use `<subject>-<article|log>-<YYYY-MM-DD|undated>-<description>` for slugs and matching filenames, for example `opera-log-2026-11-01-die-walkure-claus-guth`. Use readable English title keywords for articles, work and director names for opera logs, and performer or programme keywords for music logs. Lowercase Latin letters, numbers, and hyphens only; remove diacritics in slugs. Do not use opaque import identifiers. The date is the publication date at initial naming; subsequent date corrections do not require a URL change.
+
+Keep published slugs stable: they create `/life/<slug>/`. When renaming, retain previous slugs in an `aliases` array. Builds generate redirects directly to the current URL, including former Chinese article `/en/` URLs. Aliases cannot collide with other slugs, aliases, or reserved archive/article routes. Update `related`, internal links, and translation filenames together. Identifiers in `workIds` and `performanceIds` remain stable.
+
+Standard Markdown headings, paragraphs, lists, links, quotations, and images are supported. Start body headings at `##`, because the page already supplies the title.
 
 Images belong in `public/assets/`; reference them as Markdown, for example:
 

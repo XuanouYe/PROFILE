@@ -54,12 +54,16 @@ async function write(route,html) { const folder = path.join(out,route); await fs
 await write('life',layout(config.title,config.description,home,{page:'home'}));
 await write('life/archive',layout('Archive','Browse film, music, and opera by subject, year, or search.',archiveBody,{page:'archive',script:true}));
 await write('life/articles',layout('Articles','Writing on film, music, and opera.',articleIndex(entries,'en',url)));
-function legacyRedirect(route) { return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0; url=${url(route)}"><link rel="canonical" href="${url(route)}"><title>Articles | ${esc(config.title)}</title></head><body><a href="${url(route)}">Continue reading</a></body></html>`; }
+function legacyRedirect(route) { const target=esc(url(route)); return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0; url=${target}"><link rel="canonical" href="${target}"><title>Redirect | ${esc(config.title)}</title></head><body><a href="${target}">Continue reading</a></body></html>`; }
 await write('life/articles/en',legacyRedirect('/life/articles/'));
 for (const entry of entries) {
   const localized=entry.language==='zh-CN';
   await write(`life/${entry.slug}`,layout(entry.title,entry.excerpt,localizedEntry(entry,'en',entries,url),{lang:entry.language||'en'}));
   if(localized && entry.longform) await write(`life/${entry.slug}/en`,legacyRedirect(`/life/${entry.slug}/`));
+  for (const alias of entry.aliases || []) {
+    await write(`life/${alias}`,legacyRedirect(`/life/${entry.slug}/`));
+    if(localized && entry.longform) await write(`life/${alias}/en`,legacyRedirect(`/life/${entry.slug}/`));
+  }
 }
 await fs.writeFile(path.join(out,'index.html'),`<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0; url=${url('/life/')}"><title>${esc(config.title)}</title></head><body><a href="${url('/life/')}">Open Culture &amp; Life</a></body></html>`);
 await fs.writeFile(path.join(out,'404.html'),layout('Page not found','This page could not be found.',`<section class="page-intro"><h1>Page not found</h1><p>This address may have changed. <a href="${archive()}">Look in the archive</a> or <a href="${url('/life/')}">return home</a>.</p></section>`));

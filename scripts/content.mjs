@@ -30,7 +30,8 @@ export function validate(entry, file) {
   if (entry.experienceDate && !validDate(entry.experienceDate)) fail('experienceDate must be YYYY-MM-DD');
   if (entry.experienceDate && !['Watched', 'Listened', 'Attended'].includes(entry.experienceLabel)) fail('experienceLabel must identify Watched, Listened, or Attended');
   if (entry.coverageYear !== undefined && (!Number.isInteger(entry.coverageYear) || entry.coverageYear < 1800 || entry.coverageYear > 9999)) fail('coverageYear must be a year');
-  for (const key of ['related', 'workIds', 'performanceIds']) if (entry[key] !== undefined && (!Array.isArray(entry[key]) || entry[key].some(v => typeof v !== 'string' || !v))) fail(`${key} must be an array of identifiers`);
+  for (const key of ['aliases', 'related', 'workIds', 'performanceIds']) if (entry[key] !== undefined && (!Array.isArray(entry[key]) || entry[key].some(v => typeof v !== 'string' || !v))) fail(`${key} must be an array of identifiers`);
+  if (entry.aliases?.some(alias => !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(alias))) fail('aliases must be lowercase slugs');
   if (entry.metadata !== undefined) {
     if (!entry.metadata || Array.isArray(entry.metadata) || typeof entry.metadata !== 'object') fail('metadata must be an object');
     const allowed = detailFields(entry);
@@ -80,8 +81,11 @@ export async function loadEntries(root, includeExamples) {
     }
     return {...entry, body:match[2], english};
   }));
-  const ids = new Set();
-  for (const entry of all) { if (ids.has(entry.slug)) throw new Error(`Duplicate slug: ${entry.slug}`); ids.add(entry.slug); }
+  const ids = new Set(['archive', 'articles']);
+  for (const entry of all) for (const id of [entry.slug, ...(entry.aliases || [])]) {
+    if (ids.has(id)) throw new Error(`Duplicate or reserved slug: ${id}`);
+    ids.add(id);
+  }
   const published = all.filter(e => !e.draft).sort((a,b) => (b.publicationDate || '').localeCompare(a.publicationDate || '') || (a.sourceOrder ?? 0)-(b.sourceOrder ?? 0) || a.slug.localeCompare(b.slug));
   for (const entry of published) for (const slug of entry.related || []) if (!published.some(e => e.slug === slug)) throw new Error(`${entry.slug}: relationship ${slug} is missing or unpublished`);
   return published;

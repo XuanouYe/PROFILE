@@ -1,0 +1,23 @@
+---
+title: LE GRAND MACABRE | Krzysztof Warlikowski (2024)
+slug: opera-log-2024-10-27-le-grand-macabre-krzysztof-warlikowski
+aliases:
+  - opera-695994310213
+publicationDate: 2024-10-27
+excerpt: "The repeated offensive imagery and extreme cult aesthetic put everyone in the audience through the wringer again, entangling Ligeti's text and music with disruptive modern signs."
+draft: false
+language: en
+rating: 4
+sourceOrder: 19
+performanceIds:
+  - production-695994310213
+metadata:
+  Opera: Le Grand Macabre
+  Director: Krzysztof Warlikowski
+  Production year: 2024
+  Venue: Bayerische Staatsoper
+subject: opera
+longform: false
+---
+
+Krzysztof Warlikowski's new 2024 production, conducted by Nagano. Whether the stage elements are novel no longer matters. The repeated offensive imagery and extreme cult aesthetic put everyone in the audience through the wringer again, entangling Ligeti's text and music with disruptive modern signs. The apocalyptic fable and the confirmation of death become almost excessively uncanny here. 

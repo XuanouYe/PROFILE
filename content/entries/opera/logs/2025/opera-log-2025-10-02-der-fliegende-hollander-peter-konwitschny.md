@@ -1,0 +1,23 @@
+---
+title: DER FLIEGENDE HOLLÄNDER | Peter Konwitschny (2006)
+slug: opera-log-2025-10-02-der-fliegende-hollander-peter-konwitschny
+aliases:
+  - opera-2917b76c4126
+publicationDate: 2025-10-02
+excerpt: "Konwitschny's taste of twenty years ago still works today, perhaps because neither in Munich then nor in Shanghai now is anyone willing to believe that the ghostly sailors and Senta can ascend to heaven at the end."
+draft: false
+language: en
+rating: 5
+sourceOrder: 8
+performanceIds:
+  - production-2917b76c4126
+metadata:
+  Opera: Der fliegende Holländer
+  Director: Peter Konwitschny
+  Production year: 2006
+  Venue: Shanghai Grand Theatre
+subject: opera
+longform: false
+---
+
+It is already quite abstract in Act I. Senta, who might be expected to function as a MacGuffin, drifts ghostlike across the stage, silently giving the most conspicuous performance in passages otherwise occupied only by baritones and basses. The final explosion and silence extend the production's earlier moments of manufactured "astonishment", becoming a symbol of redemption. Konwitschny's taste of twenty years ago still works today, perhaps because neither in Munich then nor in Shanghai now is anyone willing to believe that the ghostly sailors and Senta can ascend to heaven at the end. 
