@@ -8,6 +8,18 @@ import {matches} from '../public/archive-core.js';
 
 const entry={title:'中文标题',slug:'chinese-article',excerpt:'中文摘要',publicationDate:'2025-10-31',longform:true,subject:'film',language:'zh-CN',draft:false,body:'这是中文正文。',english:null};
 const url=p=>'/PROFILE'+p;
+test('metadata-only music logs allow an empty review and retain programme, date and rating',()=>{
+  const log={...entry,subject:'music',medium:'live',longform:false,excerpt:'',body:'',rating:3.5,metadata:{Programme:'Robert Schumann：Cello Concerto in A minor, Op. 129（Cello: Pablo Ferrández）','Performance date':'2026-10-30',Venues:'Konzerthaus Berlin'}};
+  assert.doesNotThrow(()=>validate(log,'metadata-only log'));
+  assert.throws(()=>validate({...log,longform:true},'empty article'));
+  assert.throws(()=>validate({...log,excerpt:null},'invalid excerpt'));
+  const html=localizedEntry(log,'en',[log],url);
+  assert.match(html,/Cello Concerto in A minor/);
+  assert.match(html,/30 Oct 2026/);
+  assert.match(html,/3.5 out of 5/);
+  assert.match(html,/<div class="prose" lang="zh-CN"><\/div>/);
+  assert.ok(matches(log,{subject:'music',year:'2025',q:'Ferrandez'}));
+});
 test('articles keep Chinese writing in an English interface without language controls',()=>{
   const html=localizedEntry(entry,'en',[entry],url);
   assert.ok(html.includes(entry.body));

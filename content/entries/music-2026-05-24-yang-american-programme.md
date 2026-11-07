@@ -1,0 +1,24 @@
+---
+# Programme reference: https://ori.hangzhou.com.cn/ornews/content/2026-05/25/content_9228394.htm
+title: Hangzhou Philharmonic Orchestra | Yang Yang
+slug: music-2026-05-24-yang-american-programme
+publicationDate: 2026-05-24
+experienceDate: 2026-05-24
+experienceLabel: Attended
+excerpt: ""
+draft: false
+language: en
+subject: music
+longform: false
+medium: live
+rating: 4
+metadata:
+  Programme: |-
+    Aaron Copland：Clarinet Concerto（Clarinet: Yin Sun）
+    Leonard Bernstein：Serenade after Plato’s “Symposium”（Violin: Quan Yuan）
+    Ferde Grofé：Grand Canyon Suite
+  Conductor: Yang Yang
+  Orchestra: Hangzhou Philharmonic Orchestra
+  Venues: Hangzhou Grand Theatre
+  Performance date: 2026-05-24
+---

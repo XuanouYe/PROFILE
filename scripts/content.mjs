@@ -12,7 +12,8 @@ export const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&
 export const validDate = value => typeof value === 'string' && /^\d{4}-\d{2}-\d{2}$/.test(value) && !Number.isNaN(Date.parse(value)) && new Date(value).toISOString().slice(0, 10) === value;
 export function validate(entry, file) {
   const fail = message => { throw new Error(`${file}: ${message}`); };
-  for (const key of ['title', 'slug', 'excerpt']) if (typeof entry[key] !== 'string' || !entry[key].trim()) fail(`${key} must be a nonempty string`);
+  for (const key of ['title', 'slug']) if (typeof entry[key] !== 'string' || !entry[key].trim()) fail(`${key} must be a nonempty string`);
+  if (typeof entry.excerpt !== 'string' || (entry.longform && !entry.excerpt.trim())) fail('excerpt must be text (and nonempty for articles)');
   if (!/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(entry.slug)) fail('slug must be lowercase words separated by hyphens');
   if (!(!entry.longform && entry.publicationDate === null) && !validDate(entry.publicationDate)) fail('publicationDate must be YYYY-MM-DD (or null for an undated log)');
   if (entry.language !== undefined && !['zh-CN','en'].includes(entry.language)) fail('language must be zh-CN or en');

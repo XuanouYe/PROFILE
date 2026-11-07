@@ -9,7 +9,6 @@ language: en
 metadata:
   Film: |-
     One Battle After Another
-    One Battle After Another
   Director: Paul Thomas Anderson
   Year: 2025
 subject: film

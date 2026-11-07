@@ -17,7 +17,7 @@
 文件开头两个 `---` 之间是属性；第二个 `---` 之后是正文。
 
 - `title`：文章标题。
-- `excerpt`：列表中的简介。
+- `excerpt`：列表中的简介。短记录尚未写短评时可填 `""`，正文也可留空；长文章仍需填写简介。
 - `subject`：只填 `film`、`opera`、`music` 其中一个。
 - `publicationDate`：文章发布日期，使用 `YYYY-MM-DD`。原来没有日期的短记录保留 `null`。
 - `longform: true`：出现在长文章目录中；短记录使用 `false`。
