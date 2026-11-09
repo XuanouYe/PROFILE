@@ -1,13 +1,13 @@
 ---
-title: 作为盛宴、奇观与吞噬的电影：《食人族》的节庆与恐怖美学
+title: "Cinema as Feast, Spectacle, and Devouring: The Aesthetics of Celebration and Horror in The Cannibals"
 slug: film-article-2026-04-08-the-cannibals
 aliases:
   - the-cannibals
 publicationDate: 2026-04-08
-excerpt: 就像歌剧一样，演员注视观众，这一次，这个在奥利维拉电影中经常出现的挑衅的视线被合理化为了一种跨越媒介的表演形式。
+excerpt: "As in opera, the performers look at the audience. This time, the provocative gaze that recurs throughout Oliveira's cinema is justified as a form of performance that crosses between media."
 draft: false
 featured: true
-language: zh-CN
+language: en
 metadata:
   Film: |-
     The Cannibals
@@ -19,20 +19,20 @@ longform: true
 rating: null
 ---
 
-就像歌剧一样，演员注视观众，这一次，这个在奥利维拉电影中经常出现的挑衅的视线被合理化为了一种跨越媒介的表演形式。在《食人族》中，视线、观看与被观看的结构成为这个“电影歌剧”在语言的搭建过程中最重要的要素。
+As in opera, the performers look at the audience. This time, the provocative gaze that recurs throughout Oliveira's cinema is justified as a form of performance that crosses between media. In *The Cannibals*, the gaze, and the structure of seeing and being seen, become the most important elements in the construction of this “film-opera” and its language.
 
-在《食人族》的评论文章中，电影手册将奥利维拉理解为当代极少数仍然能够把电影重新变成“节庆”的导演。而所谓“节庆”并不只是叙事题材中的舞会、婚礼与宴席，而是一种整体性的电影观：影片通过音乐、布景、表演、凝视结构与仪式化行动，把银幕空间组织成一场不断旋转、不断自我膨胀的感官盛会。因此食人族并非单纯的歌剧改编、黑色喜剧或哥特式寓言，而是一部以“狂欢形式”重新定义电影经验的作品。奥利维拉电影中的“快乐”并非浅表的轻盈，而是一种与危险并行的形式快乐。狂欢之所以成立，不是因为它提供稳定的愉悦，而是因为它始终在失控边缘运行；它像走钢丝一样必须在戏剧性的深渊上保持平衡。食人族最动人的地方，恰恰在于它把这种危险变成了场面调度的动力：角色在相遇中迷失，在庆典中暴露，在仪式中走向吞噬，电影在这一过程中持续生产一种既优雅又残酷的美学张力。
+In its review of *The Cannibals*, *Cahiers du cinéma* understands Oliveira as one of the few contemporary directors still capable of turning cinema back into a “celebration”. Celebration here means more than the balls, weddings, and banquets depicted in the story. It describes an entire conception of cinema: through music, sets, performance, structures of looking, and ritualized actions, the film organizes the screen into a sensory feast that keeps turning and expanding upon itself. *The Cannibals* is therefore more than an opera adaptation, a black comedy, or a Gothic allegory. It redefines the cinematic experience through the form of carnival. The “pleasure” in Oliveira's films is no superficial lightness, but a pleasure in form that moves alongside danger. Carnival works because it constantly operates on the edge of losing control, rather than because it offers reliable enjoyment; like a tightrope walker, it must balance above a dramatic abyss. What is most moving about *The Cannibals* is precisely the way it makes that danger the driving force of its mise-en-scène. Characters lose themselves in encounters, expose themselves in celebrations, and move toward devouring through ritual. Throughout this process, the film produces an aesthetic tension at once elegant and cruel.
 
-从电影语言上看，《食人族》的核心机制是“观看”先于“解释”。影片开场并未急于交代故事，而是先建立一个由观众、贵族人物与银幕空间互相映照的观看结构。银幕中的人群在看登场者，银幕外的观众也在看这一切，而影片中的主人公随后又彼此凝视、彼此窥视。这样叙事依靠视线的流动、空间的展示和仪式行为的重复展开，整部影片呈现出一种高度自觉的“奇观电影”特征。
+In terms of cinematic language, the central mechanism of *The Cannibals* places “looking” before “explanation”. The opening does not hurry to establish the story. Instead, it constructs a system of looking in which the audience, the aristocratic figures, and the space of the screen reflect one another. The crowd onscreen watches the arriving figures, the audience offscreen watches all of this, and the protagonists subsequently gaze at and spy on one another. The narrative thus unfolds through the circulation of glances, the display of space, and the repetition of ritual acts. The whole film becomes a highly self-conscious “cinema of spectacle”.
 
-手册对 regard-caméra（直视镜头）与 mise en scène（场面调度）的强调尤为关键。玛格丽特的目光不仅是角色的视线，更是电影对自身媒介性的显露：意外、秘密与欲望，最终都不是通过说明，而是通过“看见”来发生。奥利维拉的场面调度因此不是服务于叙事透明性的古典手段，而是一种主动制造距离、延宕揭示、组织奇观的导演实践。它既保留了古典电影对构图、节奏和演员位置的严格控制，又呈现出现代电影对于人工性、表演性与媒介反身性的自觉。
+The emphasis in *Cahiers* on regard-caméra, or looking directly into the camera, and mise-en-scène is particularly important. Margarida's gaze belongs to the character, but it also exposes cinema's own nature as a medium. Surprise, secrecy, and desire ultimately occur through “seeing”, rather than through explanation. Oliveira's mise-en-scène is thus an active directorial practice that creates distance, delays revelation, and organizes spectacle, rather than a classical means of making the narrative transparent. It retains classical cinema's rigorous control over composition, rhythm, and the placement of performers, while expressing modern cinema's awareness of artifice, performance, and the medium's capacity to reflect upon itself.
 
-影片的歌剧化处理进一步强化了这种形式特征。人物“以歌唱代替说话”，意味着语言不再承担自然主义交流功能，而被提升为一种仪式声音、装饰声音与评论性声音。这让我想起于伊耶-斯特劳布的电影。影片前半段实际上是一场“目光”与“声音”的双重竞赛：一方面是人物之间的循环的凝视网络，另一方面是歌唱对行动的不断包裹、解释与悬置。于是叙事不再是线性的事件链，而更接近一场被音乐托举起来的漂浮的表演。
+The film's operatic treatment reinforces these formal characteristics. When characters “sing instead of speaking”, language ceases to function as naturalistic communication and becomes ritual sound, ornamental sound, and commentary. This reminds me of the films of Huillet and Straub. The first half is effectively a double contest between “gaze” and “voice”: a circulating network of glances among the characters on one side, and singing that continually envelops, explains, and suspends action on the other. Narrative becomes less a linear chain of events than a floating performance borne aloft by music.
 
-而《食人族》的真正激进之处，不在于它把电影做成一场歌剧式盛宴的创作思路本身，而在于它让这场盛宴自然地滑向恐怖。子爵身体秘密的暴露不仅仅是廉价的惊吓设计，更是一种由爱情内部逻辑所触发的事件。角色相信爱、信任爱，他才揭开自身的不可见之物。恐怖不是爱情的外部中断，而是爱情自身的极限后果。影片最惊人的地方，正是它让歌剧、浪漫、黑色幽默与身体恐怖之间不存在生硬断裂，而是构成一种流动的类型变形。
+What is truly radical about *The Cannibals*, however, is less the idea of making cinema into an operatic feast than the way that feast slips naturally into horror. The revelation of the viscount's bodily secret is more than a cheap shock. It is an event triggered by love's internal logic. He reveals what has remained invisible about himself because he believes in love and trusts it. Horror is love's ultimate consequence, rather than an interruption from outside. The film's most astonishing achievement is to make opera, romance, black humour, and body horror flow into one another, transforming genre without any abrupt break.
 
-这也解释了为什么影评会将奥利维拉与柯南伯格并置。两者都触及对“他者身体”的强迫凝视，也都让欲望与恐怖围绕身体展开。柯南伯格往往让人物困在对身体真相的偏执追逐之中，拒绝欲望的发生。而《食人族》则更进一步：他允许人物真正进入奇观，甚至让他们以吞食的方式与奇观合一。由此，身体不再只是恐怖的对象，也成为美学的极端隐喻——一种可以被观看、被欲望、甚至被消费的存在。
+This also explains why the review places Oliveira alongside Cronenberg. Both explore a compulsive gaze directed at “the other's body”, and both make the body the centre of desire and horror. Cronenberg often traps his characters in an obsessive pursuit of the truth of the body, refusing to let desire take place. *The Cannibals* goes further: Oliveira allows his characters to enter the spectacle itself, even to become one with it through eating. The body becomes both an object of horror and an extreme aesthetic metaphor: something that can be looked at, desired, and even consumed.
 
-影片后半段“误食子爵”的情节并非单纯的怪诞桥段，而是将美学、阶级、欲望与生存本能压缩到同一意象中的极端时刻。贵族盛宴最终揭示出其本质乃是吞噬，文明礼仪在最精致的形式中转化为最原始的暴力。评论因此指出，角色真正遗憾的竟不是犯下食人之罪，而是未能充分享受那具身体的味道。这个近乎残忍的笑话，将“审美愉悦”与“吞食冲动”联结起来，使美不再是超然静观的对象，而成为一种饥饿、一种匮乏、一种生命需要。
+The accidental eating of the viscount in the second half is more than a grotesque plot device. It is an extreme moment that compresses aesthetics, class, desire, and the instinct for survival into a single image. The aristocratic feast finally reveals its essence as devouring, as civilized manners turn into primal violence within their most exquisite forms. As the review observes, the characters' real regret is not that they have committed cannibalism, but that they failed to appreciate the body's flavour fully. This almost cruel joke connects “aesthetic pleasure” with “the urge to devour”. Beauty ceases to be an object of detached contemplation and becomes a hunger, a lack, a necessity of life.
 
-而奥利维拉并未让影片停留在讽刺与恐怖层面，而是通过结尾的变形、复活与继续舞蹈，把整部电影推向一种幽灵般的抒情性。雕像的笑声、角色的复归、子爵的不可复活，共同构成了一种既轻盈又哀伤的终场结构。最精彩的表演已经焚毁，庆典仍在继续。这里的“尽管如此仍要庆祝”，并不是一种廉价的乐观，而是一种经由死亡、吞噬与消逝之后仍坚持形式欢乐的电影伦理。也正是在这一层面上，《食人族》超出了类型片的范畴，成为一部关于电影自身的寓言：电影之所以动人，不是因为它能排除黑暗，而是因为它能在黑暗中继续发明节庆。
+Oliveira does not leave the film at the level of satire and horror. Through the transformations, resurrections, and continued dancing of its ending, he moves the whole work toward a ghostly lyricism. The statue's laughter, the characters' return, and the impossibility of the viscount's resurrection together form a conclusion at once light and sorrowful. The finest performance has burned away, yet the celebration continues. This insistence on “celebrating nonetheless” expresses a cinematic ethic that persists in the joy of form after death, devouring, and disappearance. It is far from easy optimism. On this level, *The Cannibals* exceeds the boundaries of genre and becomes an allegory of cinema itself: cinema moves us because, even in darkness, it can continue to invent celebrations.

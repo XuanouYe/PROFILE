@@ -1,13 +1,13 @@
 ---
-title: 城堡之旅：寻找维斯康蒂镜头中的路德维希
+title: "A Journey Through Castles: In Search of Ludwig Through Visconti's Camera"
 slug: film-article-2025-03-23-ludwig-a-journey-through-castles
 aliases:
   - ludwig-a-journey-through-castles
 publicationDate: 2025-03-23
-excerpt: 排版2023年刊的时候，我产生了写一篇影迷游记的想法。
+excerpt: "While laying out the 2023 annual issue, I had the idea of writing a cinephile's travelogue."
 draft: false
 featured: false
-language: zh-CN
+language: en
 metadata:
   Film: |-
     Ludwig
@@ -19,442 +19,442 @@ longform: true
 rating: null
 ---
 
-排版2023年刊的时候，我产生了写一篇影迷游记的想法。到8月初重看《路德维希》，这篇影迷游记的构思初现雏形。然后我就去了慕尼黑交换，游览了影片提到的所有与路德维希二世有关的建筑，注意到他们除了模仿法国宫廷的装饰以外，还有许多特色的瓦格纳主题。瓦格纳歌剧、宫殿建筑以及维斯康蒂的影像美学在这部历史剧中融合为有趣的整体性格，观众的视角在历史游移，通过实地考察这部电影，我看到了许多。
+While laying out the 2023 annual issue, I had the idea of writing a cinephile's travelogue. When I rewatched *Ludwig* in early August, the idea began to take shape. I then went to Munich on an exchange programme and visited all the buildings associated with Ludwig II mentioned in the film. Beyond their imitations of French court decoration, I noticed many distinctive Wagnerian themes. Wagner's operas, palace architecture, and Visconti's visual aesthetics merge into a fascinating whole in this historical drama. The viewer's perspective drifts through history. Investigating the film on location allowed me to see a great deal.
 
-开始的片头字幕，理查德·瓦格纳最后一首未发表的钢琴作品《哀歌》（Elegy for piano in A flat major, WWV 93）出现了几个音符。第一个场景提供了场所 - 影像的介质，天花板有天使画像，路德维希不知何处的卧室。给出场景，再给出角色，这个明确的脚步就像瓦格纳的哀歌，贯穿了影片的首尾。不过这儿还没有过多展示，而是作为功能性的存在。年轻的路德维希与神职人员告解，即将成为国王，故事正式开始，整体的叙事基调已经形成。
+A few notes from Richard Wagner's last unpublished piano work, the *Elegy in A-flat major, WWV 93*, accompany the opening credits. The first scene provides a place, the medium of the images: a bedroom of Ludwig's, somewhere, with angels painted on the ceiling. First the setting, then the character. Like Wagner's elegy, this clearly measured progression runs through the film from beginning to end. Here, however, there is little display; the setting serves a functional purpose. The young Ludwig confesses to a clergyman. He is about to become king. The story formally begins, its overall narrative tone already established.
 
-影片始终存在一个明确的动作：场景复现，与前文角色的话语产生联系。第2个场景的路德维希正式加冕巴伐利亚国王，这是影片第一次用场景作为前文台词的答句。场景发生在后文经常出现的觐见室，交付出影片的重要材料，如同奏鸣曲开头的呈示。随后路德维希与管家的简单对话指出了影片关于瓦格纳与伊丽莎白的两个线索：路德维希要求管家提供瓦格纳的下落，而管家却指出了前往巴特伊舍尔探亲度假的行程，话语后隐隐铺垫着罗恩格林的前奏。首个场景通过两层含义的话语的错落，引导出其后若干场景延展的方向：随后我们看到路德维希在巴特伊舍尔和Sissi的见面与行走，同时瓦格纳入住王宫，又一次语词与场景的对答。
+A clear operation persists throughout the film: settings recur, connecting with the characters' earlier words. In the second scene, Ludwig is formally crowned King of Bavaria. This is the first time a scene answers previous dialogue. It takes place in the audience chamber that will recur later, introducing important material like the exposition of a sonata. A brief exchange between Ludwig and his steward then establishes the film's two strands, Wagner and Elisabeth. Ludwig asks for information about Wagner's whereabouts, while the steward reminds him of his planned family holiday in Bad Ischl. The prelude to *Lohengrin* is faintly audible beneath their words. This initial scene, through the displacement between two layers of dialogue, indicates the directions subsequent scenes will develop. We then see Ludwig meeting and walking with Sissi in Bad Ischl while Wagner takes up residence at the palace: another exchange between words and setting.
 
-到首个演员直接面对观众的幕间讲述前，维斯康蒂没有给出对应场景的情节过于具体的进行。路德维希抵达奥地利的巴特伊舍尔，马戏篷中骑马的Sissi出场。两人谈话聊天，散步到大理石城堡（Marmorschlössel）的附近。配乐以几近标题式的佐料——舒曼的童年情景——第1首和第2首支撑起第三个场景的动态。而第四个场景则快速地给出了巴特伊舍尔皇帝别墅（Kaiservilla）前院花园早晨的景观，就很快地切换至慕尼黑，瓦格纳与冯·彪罗夫妇在王宫的对话。
+Before the first interlude in which an actor addresses the audience directly, Visconti avoids developing the events in these settings in much detail. Ludwig arrives in Bad Ischl, Austria, and Sissi appears riding in a circus tent. The two converse and walk toward the Marmorschlössel, the Marble Palace. The first two pieces of Schumann's *Scenes from Childhood* support the movement of this third scene, almost as descriptive headings. The fourth briefly presents the morning gardens in front of the Kaiservilla in Bad Ischl before quickly cutting to Munich, where Wagner speaks with the von Bülows at the palace.
 
-![路德维希与伊丽莎白在大理石城堡侧廊交谈的远景](/assets/notion/c85feca8-f7a0-82d0-a6eb-0161766781fa.png "路德维希与伊丽莎白在大理石城堡侧廊交谈的远景")
+![Long shot of Ludwig and Elisabeth talking in the side arcade of the Marble Palace](/assets/notion/c85feca8-f7a0-82d0-a6eb-0161766781fa.png "Long shot of Ludwig and Elisabeth talking in the side arcade of the Marble Palace")
 
-![路德维希与伊丽莎白在大理石城堡侧廊交谈的大远景](/assets/notion/b31feca8-f7a0-83c3-bb8a-81d454a61cb9.png "路德维希与伊丽莎白在大理石城堡侧廊交谈的大远景")
+![Extreme long shot of Ludwig and Elisabeth talking in the side arcade of the Marble Palace](/assets/notion/b31feca8-f7a0-83c3-bb8a-81d454a61cb9.png "Extreme long shot of Ludwig and Elisabeth talking in the side arcade of the Marble Palace")
 
-![大理石城堡的正面，门口竟然出现艾未未的名字](/assets/douban/ludwig/p100733192.webp "大理石城堡的正面，门口竟然出现艾未未的名字")
+![The front of the Marble Palace: unexpectedly, Ai Weiwei's name appears at the entrance](/assets/douban/ludwig/p100733192.webp "The front of the Marble Palace: unexpectedly, Ai Weiwei's name appears at the entrance")
 
-![大理石城堡的侧廊（1）](/assets/douban/ludwig/p100733191.webp "大理石城堡的侧廊（1）")
+![The side arcade of the Marble Palace (1)](/assets/douban/ludwig/p100733191.webp "The side arcade of the Marble Palace (1)")
 
-![大理石城堡的侧廊（2）](/assets/douban/ludwig/p100733190.webp "大理石城堡的侧廊（2）")
+![The side arcade of the Marble Palace (2)](/assets/douban/ludwig/p100733190.webp "The side arcade of the Marble Palace (2)")
 
-![路德维希与伊丽莎白在皇帝别墅的花园](/assets/notion/116feca8-f7a0-823e-b8b5-81d133aae0da.png "路德维希与伊丽莎白在皇帝别墅的花园")
+![Ludwig and Elisabeth in the Kaiservilla gardens](/assets/notion/116feca8-f7a0-823e-b8b5-81d133aae0da.png "Ludwig and Elisabeth in the Kaiservilla gardens")
 
-![巴特伊舍尔皇帝别墅的远景](/assets/douban/ludwig/p100733225.webp "巴特伊舍尔皇帝别墅的远景")
+![Long view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733225.webp "Long view of the Kaiservilla in Bad Ischl")
 
-这一幕的情节都给出了相应场景的有限视角，或许仅仅作为视觉的提示，呈示出主题以供下文逐渐在此展开。而维斯康蒂借此出色地完成了角色的立法，有效地通过对话铺设出该时间线伊丽莎白与理查德瓦格纳所有的背景信息：厌倦王宫生活的年轻皇后【注1】已经完成“皇后的命运”篇中知名的希腊旅行，而瓦格纳则在瑞士结束了特里斯坦与伊索尔德的写作，准备在巴伐利亚举行迟到六年的首演。三两个场景在这部长篇制作中快速地搭建起了形象，简单地复制，以角色的语言初步呈现出性格与气质，两者令路德维希钦佩的截然不同的高傲。
+The events in this act offer only limited views of their settings, perhaps serving as visual cues that introduce themes to be developed there later. Through them, Visconti establishes his characters brilliantly. Dialogue efficiently supplies the background of Elisabeth and Richard Wagner at this point in the timeline. The young empress, weary of court life [Note 1], has already made the famous journey to Greece depicted in *Sissi: The Fateful Years of an Empress*. Wagner has completed *Tristan und Isolde* in Switzerland and is preparing for its premiere in Bavaria, six years late. Within this long production, two or three scenes swiftly establish these figures. Their words sketch their personalities and temperaments, those two entirely different forms of pride that Ludwig admires.
 
-【注1】文章将以“国王”代指路德维希“巴伐利亚国王”的身份，以“皇后”代指伊丽莎白作为“奥地利皇帝”弗朗茨妻子的身份，以示权力及统治范围的区别。
+[Note 1] This article uses “king” for Ludwig in his capacity as King of Bavaria, and “empress” for Elisabeth as the wife of Franz, Emperor of Austria, to distinguish their respective powers and domains.
 
-![《城堡之旅》原文配图](/assets/notion/b47feca8-f7a0-82d0-8432-01848a405ae7.png)
+![Illustration from A Journey Through Castles](/assets/notion/b47feca8-f7a0-82d0-8432-01848a405ae7.png)
 
-瓦格纳出场的场景应该是他在王宫的临时住所，《特里斯坦与伊索尔德》首演成功后，路德维希与瓦格纳见面讨论建立拜罗伊特剧院的场景也发生在此处。
+The setting of Wagner's first appearance is presumably his temporary accommodation at the palace. After the successful premiere of *Tristan und Isolde*, Ludwig and Wagner also meet here to discuss building the Bayreuth theatre.
 
-## Part I：王宫
+## Part I: The Residenz
 
-直到路德维希与索菲公主的婚姻失败，路德维希离开慕尼黑城区的情节，慕尼黑王宫（München Residenz）始终具载着重要的情节。 王宫位于慕尼黑的市中心，从影片开始就被局部提及。随着情节的发展，王宫内的各个场景被敞开，摄影机逐渐展现出“王宫”的全貌。这些部分中，我们看到叙事的能量涌出，维斯康蒂将他们塑形为整体的节拍，在影片的各个节点时不时地发生变奏。
+Until Ludwig's engagement to Princess Sophie fails and he leaves central Munich, the Munich Residenz remains the setting for important events. Situated in the city centre, it is introduced in fragments from the start. As the story develops, its individual spaces open up, and the camera gradually reveals the “palace” as a whole. Narrative energy surges through these passages. Visconti shapes them into an overall rhythm, introducing variations at different points in the film.
 
-乘坐地铁到Odeonsplatz站，出站步行若干距离就到了慕尼黑王宫。欧洲的建筑修复似乎与国内修旧如旧的思路不同，现实的王宫经过第二次世界大战的破坏，重新修复之后，室内已经没有那样浓厚的色彩。王宫放置几幅复原了旧时房间全景的绘画，ii作为参观的参考，与之对比，如今几乎只剩重新刷漆的墙壁，简洁的门框，以及按秩序而绝非日常生活习惯放置的供展示的家具。物件形成现代的近乎诡异的景观展览空间，我们妄想通过镜子与壁绘折射历史的穿梭，提及现代性对王宫的侵入。电影的布景仅能在绘画中看到，除此之外，他们与王宫只有整体结构的相仿。
+Take the underground to Odeonsplatz and walk a short distance to reach the Munich Residenz. European architectural restoration seems different from the Chinese principle of restoring old buildings to look old. Damaged during the Second World War and subsequently reconstructed, the palace no longer has such richly coloured interiors. A few paintings reconstructing panoramic views of the old rooms provide points of reference. Compared with them, what remains today is mostly repainted walls, plain doorframes, and furniture arranged for orderly display rather than everyday life. These objects form a modern, almost uncanny exhibition space. We try to imagine history passing through the reflections of mirrors and painted walls, invoking modernity's intrusion into the palace. The film's settings can be found only in those paintings; otherwise, they resemble the present palace only in their overall structure.
 
-![慕尼黑王宫的角落](/assets/douban/ludwig/p100733379.webp "慕尼黑王宫的角落")
+![A corner of the Munich Residenz](/assets/douban/ludwig/p100733379.webp "A corner of the Munich Residenz")
 
-第11个场景。路德维希回到慕尼黑，影片发生了国王与瓦格纳的首次对话。随着弹琴演奏，镜头给出特写，然后后拉，室内的空间以初次出现时沙发与三角钢琴前的固定镜头为支点，打开了更多观看的位置。瓦格纳在第一幕出现时对路德维希的赞许提及了后者对瓦格纳的尊敬态度，而这里，场景再次提及前文的对话。
+Scene eleven. Ludwig returns to Munich, and the king and Wagner have their first conversation in the film. As the piano is played, the camera gives us a close-up, then pulls back. Taking the original static view of the sofa and grand piano as its anchor, the interior opens to more viewing positions. When Wagner appeared in the first act, his praise of Ludwig mentioned the latter's reverence for him. Here, the scene again recalls that earlier conversation.
 
-随后是展开部。场景的安排不全按照历史情节的时间顺序进行，而是更连贯地给出角色行动的逻辑以筑成更完整的局部。拜罗伊特剧院的讨论后，维斯康蒂将瓦格纳的线索继续推进，到约第12、13个场景，路德维希处理瓦格纳与冯·彪罗夫妇的绯闻事件，设计了整段高度戏剧性的对话。几次争端的波折，瓦格纳满意地离开路德维希的办公室，马上场景又切换到瓦格纳的住所：若干天后的瓦格纳收到了被迫离开慕尼黑的通知。从入主到离开，瓦格纳上楼的动作变为下楼，摄影机运动的方向随之改变，角色与空间的关系以微弱的波动逆转。
+Then comes the development. Scenes are not arranged entirely according to historical chronology. Instead, the film presents a more continuous logic of character action, constructing more complete local sequences. After the discussion of the Bayreuth theatre, Visconti continues the Wagner strand. Around scenes twelve and thirteen, Ludwig deals with the scandal involving Wagner and the von Bülows through a highly dramatic exchange. Following several turns in the dispute, Wagner leaves Ludwig's office satisfied. The film immediately cuts to Wagner's accommodation: a few days later, he receives notice that he must leave Munich. His arrival is reversed into departure, his ascent of the stairs into a descent. The camera changes direction accordingly, subtly reversing the relationship between character and space.
 
-![路德维希的办公室在影片中首次出现](/assets/notion/94cfeca8-f7a0-82dc-8d41-810c688f3282.png "路德维希的办公室在影片中首次出现")
+![The first appearance of Ludwig's office in the film](/assets/notion/94cfeca8-f7a0-82dc-8d41-810c688f3282.png "The first appearance of Ludwig's office in the film")
 
-第12个场景呈现了路德维希办公的空间以及门口觐见的等候空间，算上门童与瓦格纳，三五个演员在空间中走动，正反两个方向以平视与轻微的俯角毫无遮挡地拍出了厅堂的空旷。而同样的空间在第21个场景再次出现时则挤满了物件，又与开篇随着奥芬巴赫《拉·佩丽柯儿》序曲出现的加冕仪式场景的视角相异。与索菲公主订下婚约，全家在王宫再次聚会，前景与中景的饰品与演员互相遮挡，各自占据影像的部分，甚至所有的动作都携带了些许冗余的观感。遥远的对比。
+Scene twelve presents Ludwig's office and the waiting area outside it. Including the footman and Wagner, a handful of actors move through the space. Eye-level and slightly elevated views from opposite directions reveal the hall's emptiness without obstruction. When the same space returns in scene twenty-one, it is crowded with objects, from a perspective different again from the opening coronation accompanied by the overture to Offenbach's *La Périchole*. The family gathers at the palace once more following the engagement to Princess Sophie. Ornaments and actors in the foreground and middle distance obscure one another, each occupying part of the image. Even the movements seem slightly excessive. A comparison across a great distance.
 
-![办公室门外的觐见室（1）](/assets/notion/8abfeca8-f7a0-83dd-8327-81469abb5238.png "办公室门外的觐见室（1）")
+![The audience chamber outside the office (1)](/assets/notion/8abfeca8-f7a0-83dd-8327-81469abb5238.png "The audience chamber outside the office (1)")
 
-![办公室门外的觐见室（2）](/assets/notion/169feca8-f7a0-8356-b23a-817da486974a.png "办公室门外的觐见室（2）")
+![The audience chamber outside the office (2)](/assets/notion/169feca8-f7a0-8356-b23a-817da486974a.png "The audience chamber outside the office (2)")
 
-角色内外行动，不同的视角不断打开角色在其中运作戏剧性的方式。现实的王宫会客厅其实没有如此空旷的空间，影片中对应的油画亦无从找寻。可以断定这些关键的段落，维斯康蒂没有选择在王宫实景拍摄（王宫的房间四周都是镜子与白墙），而是用替代性的场地、装饰性的道具布景尽可能还原历史现场，奢华的织物、古董家具与金箔装饰物、吊灯，高大的窗户提供光照与更具层次的空间感。还原历史贵族生活的影像在制作上理应难度较大，而这样的题材之于维斯康蒂的作品序列却并不少见。
+As the characters move in and out, different perspectives continually disclose new ways for drama to operate within the setting. The actual palace reception rooms are not this spacious, and I could not find the paintings seen in the film. We can conclude that Visconti did not shoot these key sequences in the Residenz itself, whose rooms are surrounded by mirrors and white walls. Instead, he used substitute locations, decorative props, and sets to reconstruct the historical environment as closely as possible: luxurious fabrics, antique furniture, gilded ornaments, chandeliers, and tall windows providing light and a layered sense of space. Recreating aristocratic life on film must be a demanding production task, yet such subjects recur throughout Visconti's work.
 
-![翻译片尾的滚动字幕，维斯康蒂对巴伐利亚政府对影片拍摄的支持表示了感谢。致辞提到了后文出现的新老天鹅堡、林德霍夫宫、海伦基姆宫以及奥地利巴特伊舍尔的皇帝别墅，而没有慕尼黑王宫。至此可以断定维斯康蒂没有在王宫取景。](/assets/notion/67ffeca8-f7a0-822d-a27c-0161895ef38e.png "翻译片尾的滚动字幕，维斯康蒂对巴伐利亚政府对影片拍摄的支持表示了感谢。致辞提到了后文出现的新老天鹅堡、林德霍夫宫、海伦基姆宫以及奥地利巴特伊舍尔的皇帝别墅，而没有慕尼黑王宫。至此可以断定维斯康蒂没有在王宫取景。")
+![A translation of the closing credits: Visconti thanks the Bavarian government for its support during filming. The acknowledgments mention Neuschwanstein, Hohenschwangau, Linderhof, Herrenchiemsee, and the Kaiservilla in Bad Ischl, Austria, but omit the Munich Residenz. We can therefore conclude that Visconti did not film at the Residenz.](/assets/notion/67ffeca8-f7a0-822d-a27c-0161895ef38e.png "A translation of the closing credits: Visconti thanks the Bavarian government for its support during filming. The acknowledgments mention Neuschwanstein, Hohenschwangau, Linderhof, Herrenchiemsee, and the Kaiservilla in Bad Ischl, Austria, but omit the Munich Residenz. We can therefore conclude that Visconti did not film at the Residenz.")
 
-![办公室门外的会客厅（3）](/assets/notion/e66feca8-f7a0-82f1-8ee0-8173b26912c3.png "办公室门外的会客厅（3）")
+![The reception room outside the office (3)](/assets/notion/e66feca8-f7a0-82f1-8ee0-8173b26912c3.png "The reception room outside the office (3)")
 
-![办公室门外的会客厅（4）。画面中的伊丽莎白转身走进路德维希的办公室，为引出路德维希城堡的场景作了铺垫（见Part V：路德维希城堡）](/assets/notion/21bfeca8-f7a0-826d-8931-812c797f338d.png "办公室门外的会客厅（4）。画面中的伊丽莎白转身走进路德维希的办公室，为引出路德维希城堡的场景作了铺垫（见Part V：路德维希城堡）")
+![The reception room outside the office (4). Elisabeth turns and enters Ludwig's office, preparing the introduction of his castles. See Part V: Ludwig's Castles.](/assets/notion/21bfeca8-f7a0-826d-8931-812c797f338d.png "The reception room outside the office (4). Elisabeth turns and enters Ludwig's office, preparing the introduction of his castles. See Part V: Ludwig's Castles.")
 
-在此之后，影片围绕订婚的事件在王宫重复地展开情节。第23个场景，被驱逐的拜访的女演员作为故事弧线以外的波折，角色不断在房门处出现/离开，引出了王宫的卧室以及浴池等更多的房间（而这些房间在现在的王宫都不存在 / 没有开放）。而后瓦格纳回到王宫与公主相见，珍宝的特写，许多镜面。经过几次过渡，维斯康蒂再次给出角色与王宫空间的简单变奏。
+The engagement subsequently provides the occasion for repeated scenes in the palace. In scene twenty-three, the expulsion of a visiting actress creates a disturbance outside the main story arc. Characters continually appear and disappear at doorways, introducing further rooms, including the bedroom and bath—rooms that either no longer exist in the present palace or are not open to visitors. Wagner then returns to meet the princess. Close-ups of jewels, numerous mirrors. After several transitions, Visconti once again offers simple variations on the characters and the palace space.
 
-![《城堡之旅》原文配图](/assets/notion/5c5feca8-f7a0-8302-86fd-8117b1e8ae8d.png)
+![Illustration from A Journey Through Castles](/assets/notion/5c5feca8-f7a0-8302-86fd-8117b1e8ae8d.png)
 
-![《城堡之旅》原文配图](/assets/notion/3d0feca8-f7a0-8204-aa67-8165bb543938.png)
+![Illustration from A Journey Through Castles](/assets/notion/3d0feca8-f7a0-8204-aa67-8165bb543938.png)
 
-![影片中路德维希的卧室：搭建的场景使用了路德维希喜欢的蓝色色调，这在宁芬堡宫、林德霍夫宫等国王的寝房也能看出。装饰部分源自当年的沙皇俄国，却整体符合法国皇室的风格。](/assets/notion/cb8feca8-f7a0-83e3-a927-012893527a22.png "影片中路德维希的卧室：搭建的场景使用了路德维希喜欢的蓝色色调，这在宁芬堡宫、林德霍夫宫等国王的寝房也能看出。装饰部分源自当年的沙皇俄国，却整体符合法国皇室的风格。")
+![Ludwig's bedroom in the film. The set uses his favoured blue, also visible in his bedrooms at Nymphenburg and Linderhof. Some decorations derive from tsarist Russia, but the overall style follows the French court.](/assets/notion/cb8feca8-f7a0-83e3-a927-012893527a22.png "Ludwig's bedroom in the film. The set uses his favoured blue, also visible in his bedrooms at Nymphenburg and Linderhof. Some decorations derive from tsarist Russia, but the overall style follows the French court.")
 
-![路德维希在王宫的“卫生间”](/assets/notion/711feca8-f7a0-8300-8386-01a08edfef81.png "路德维希在王宫的“卫生间”")
+![Ludwig in the palace bathroom](/assets/notion/711feca8-f7a0-8300-8386-01a08edfef81.png "Ludwig in the palace bathroom")
 
-稍作停顿，随着特里斯坦与伊索尔德序曲的几小节弦乐段落，镜头扫过这些珍饰，随后路德维希为王后带上了冕冠。王宫边的珍宝馆展出了这个镶有珍宝的王后冠，低调地放在国王冠的背后。
+A brief pause. To a few bars of strings from the prelude to *Tristan und Isolde*, the camera passes over the jewels. Ludwig then places the crown on his bride-to-be's head. The treasury beside the Residenz displays this jewel-encrusted queen's crown, discreetly positioned behind the king's crown.
 
-![《城堡之旅》原文配图](/assets/notion/ea5feca8-f7a0-83f6-8db4-01b50d7c2799.png)
+![Illustration from A Journey Through Castles](/assets/notion/ea5feca8-f7a0-83f6-8db4-01b50d7c2799.png)
 
-![王后珍饰的特写（1）](/assets/notion/a54feca8-f7a0-834e-b55b-01c6ead34d09.png "王后珍饰的特写（1）")
+![Close-up of the queen's jewels (1)](/assets/notion/a54feca8-f7a0-834e-b55b-01c6ead34d09.png "Close-up of the queen's jewels (1)")
 
-![路德维希为王后戴上冕冠，准备瓦格纳的觐见](/assets/notion/e50feca8-f7a0-83c3-ae59-8185154ecdca.png "路德维希为王后戴上冕冠，准备瓦格纳的觐见")
+![Ludwig places the crown on his bride-to-be ahead of the audience with Wagner](/assets/notion/e50feca8-f7a0-83c3-ae59-8185154ecdca.png "Ludwig places the crown on his bride-to-be ahead of the audience with Wagner")
 
-![珍宝馆的王后冠，背后镶有红宝石的王冠也在影片开头的加冕仪式出现。](/assets/douban/ludwig/p100733399.webp "珍宝馆的王后冠，背后镶有红宝石的王冠也在影片开头的加冕仪式出现。")
+![The queen's crown in the treasury. The ruby-set crown behind it also appears in the opening coronation scene.](/assets/douban/ludwig/p100733399.webp "The queen's crown in the treasury. The ruby-set crown behind it also appears in the opening coronation scene.")
 
-![影片开头9分钟左右的王冠特写](/assets/notion/12bfeca8-f7a0-82be-a687-81ce7da0bf17.png "影片开头9分钟左右的王冠特写")
+![Close-up of the crown about nine minutes into the film](/assets/notion/12bfeca8-f7a0-82be-a687-81ce7da0bf17.png "Close-up of the crown about nine minutes into the film")
 
-![路德维希与国王王冠](/assets/notion/ea2feca8-f7a0-82a1-9eb0-8154ea05d7bd.png "路德维希与国王王冠")
+![Ludwig and the king's crown](/assets/notion/ea2feca8-f7a0-82a1-9eb0-8154ea05d7bd.png "Ludwig and the king's crown")
 
-影片后半段当然还有部分情节发生在这个空间，更多的角色被填充在此处，发生着陛下缺席的仪式、祷告、亲子的安抚以及灾难的告示。到了巴伐利亚战败，这里被填充的不再是进行时态的戏剧，而是撤走了所有戏剧后，俾斯麦的战争机器作为麦格芬的悲剧氛围。
+Some events in the second half also take place here. More characters fill the space: ceremonies conducted in His Majesty's absence, prayers, consolation between parent and child, announcements of disaster. By the time Bavaria is defeated, the room no longer contains drama in the present tense. Once all drama has been withdrawn, what remains is a tragic atmosphere, with Bismarck's war machine serving as a MacGuffin.
 
-![《城堡之旅》原文配图](/assets/notion/4d6feca8-f7a0-8289-b82a-815fb2b5050f.png)
+![Illustration from A Journey Through Castles](/assets/notion/4d6feca8-f7a0-8289-b82a-815fb2b5050f.png)
 
-![《城堡之旅》原文配图](/assets/notion/ee2feca8-f7a0-82f2-a389-011bef3b7f21.png)
+![Illustration from A Journey Through Castles](/assets/notion/ee2feca8-f7a0-82f2-a389-011bef3b7f21.png)
 
 <p>
-王宫部分的最后，顺带提下位于宫殿与王宫花园之间的老皇宫剧院（Cuvilliés Theater）。这个剧院到现在还有演出，平常的下午特定时间开放，可供游客参观。影片中，Joseph Kainz在此处出演罗密欧与朱丽叶，得到了路德维希的赏识。  
+To close this section on the Residenz, a brief mention of the Cuvilliés Theatre, situated between the palace and the court gardens. It still hosts performances and opens to tourists at specified times in the afternoon. In the film, Joseph Kainz performs Romeo and Juliet here and wins Ludwig's admiration.
 </p>
 
-![Joseph Kainz在老皇宫剧院后台的片段](/assets/notion/377feca8-f7a0-8354-9770-819030b0c62a.png "Joseph Kainz在老皇宫剧院后台的片段")
+![Joseph Kainz backstage at the Cuvilliés Theatre](/assets/notion/377feca8-f7a0-8354-9770-819030b0c62a.png "Joseph Kainz backstage at the Cuvilliés Theatre")
 
-![如今的老皇宫剧院，作为参观只能进入观众席而无法看到影片舞台后的视角](/assets/douban/ludwig/p100733406.webp "如今的老皇宫剧院，作为参观只能进入观众席而无法看到影片舞台后的视角")
+![The Cuvilliés Theatre today. Visitors can enter only the auditorium and cannot see the backstage perspective shown in the film.](/assets/douban/ludwig/p100733406.webp "The Cuvilliés Theatre today. Visitors can enter only the auditorium and cannot see the backstage perspective shown in the film.")
 
-这个场景之前，瓦格纳在瑞士的特里布申为妻子演奏，然后瓦格纳便再也没有出现。维斯康蒂在此以这位音乐家的史学收缩了影像叙事的时间：国王宫殿已经建设完成，路德维希在认识Joseph Kainz后很快就将其带到了林德霍夫宫。而后文伊丽莎白也到访了林德霍夫宫，影片再次提及瓦格纳——音乐室的钢琴被蒙上了黑色的纱布，国王为悼念瓦格纳不再聆听音乐。
+Before this scene, Wagner plays for his wife at Tribschen in Switzerland, after which he never appears again. Visconti compresses the film's narrative time through the musician's historical chronology. The king's palaces have been completed, and soon after meeting Joseph Kainz, Ludwig takes him to Linderhof. When Elisabeth later visits Linderhof, Wagner is invoked again: the piano in the music room is draped in black gauze. In mourning for Wagner, the king no longer listens to music.
 
-## Part II：巴特伊舍尔
+## Part II: Bad Ischl
 
-不知是否为维斯康蒂有意为之，即使历史存在事件的对应，影片在第一幕以后分明地在王宫之外与王宫以内分别进行了瓦格纳与Sissi这两个主题的发展，与幕间侍卫面对观众的全局视角话语产生了时间的轻微错位：在话语的引导下，观众得知路德维希在瓦格纳抵达后立即从巴特伊舍尔返回了慕尼黑，影像却在Sissi的部分停留了许久，发展出伊丽莎白私下/公开两次撮合路德维希与苏菲公主的重要情节。而后甚至略过《特里斯坦与伊索尔德》首演这个重要的节点，以Sissi的缺席，安排了路德维希与她在玫瑰岛的会见。
+Whether or not Visconti intended it, after the first act the Wagner and Sissi themes clearly develop inside and outside the Residenz respectively, even where historical events correspond. This creates a slight temporal displacement from the guards' comprehensive accounts addressed to the audience during the interludes. Their words tell us that Ludwig returned from Bad Ischl to Munich immediately after Wagner's arrival, yet the images linger with Sissi, developing two important occasions on which Elisabeth tries to bring Ludwig and Princess Sophie together, first privately and then publicly. The film even passes over the premiere of *Tristan und Isolde*, an important milestone, arranging a meeting between Ludwig and Elisabeth on Rose Island around her absence from that event.
 
-慕尼黑到萨尔茨堡需要约2小时火车的行程。再从萨尔茨堡火车站坐1.5小时公交车到巴特伊舍尔，我们就抵达了目前作为历史博物馆对公众开放的皇帝别墅。影片拍摄别墅的情节发生在冬季，宫殿门前的草地覆盖了积雪，我抵达参观时奥地利处于在气候差不多的冬季【注2】，不过积雪已经被打扫，整个小镇保存了《茜茜公主》电影拍摄时的景观，宁静地运行。
+Munich to Salzburg takes about two hours by train. Another hour and a half by bus from Salzburg station brings us to Bad Ischl and the Kaiservilla, now open to the public as a historical museum. The villa scenes were filmed in winter, with snow covering the lawn in front of the palace. I visited Austria in similar winter conditions [Note 2], although the snow had been cleared. The town quietly preserves the scenery familiar from the *Sissi* films.
 
-【注2】遗憾的是，如今皇帝别墅（包括慕尼黑周边其他的国王宫殿）门口的喷泉都以冬季维护的目的被木板罩了起来（也许为了避免被雪水破坏），我们无法看到影片出现的那些雕塑。读者如果想看影片以及宣传图册中的完整的宫殿全景，可以考虑夏季前往。
+[Note 2] Unfortunately, the fountains in front of the Kaiservilla, like those at the other royal palaces around Munich, are covered with wooden boards for winter maintenance, perhaps to protect them from snowmelt. We therefore cannot see the sculptures shown in the film. Readers wishing to see the complete palace views familiar from the film and promotional brochures might consider visiting in summer.
 
-![《城堡之旅》原文配图](/assets/notion/e89feca8-f7a0-8330-a4bf-018bc29c1344.png)
+![Illustration from A Journey Through Castles](/assets/notion/e89feca8-f7a0-8330-a4bf-018bc29c1344.png)
 
-![《城堡之旅》原文配图](/assets/notion/d6afeca8-f7a0-830d-b983-012ca2a07a8d.png)
+![Illustration from A Journey Through Castles](/assets/notion/d6afeca8-f7a0-830d-b983-012ca2a07a8d.png)
 
-![路德维希在皇帝别墅的外景，远到近的三组镜头](/assets/notion/b7dfeca8-f7a0-8395-9c11-0147af7d473a.png "路德维希在皇帝别墅的外景，远到近的三组镜头")
+![Ludwig outside the Kaiservilla: three views moving from distant to close](/assets/notion/b7dfeca8-f7a0-8395-9c11-0147af7d473a.png "Ludwig outside the Kaiservilla: three views moving from distant to close")
 
-![巴特伊舍尔皇帝别墅的近景](/assets/douban/ludwig/p100733460.webp "巴特伊舍尔皇帝别墅的近景")
+![Close view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733460.webp "Close view of the Kaiservilla in Bad Ischl")
 
-![巴特伊舍尔皇帝别墅的远景](/assets/douban/ludwig/p100733462.webp "巴特伊舍尔皇帝别墅的远景")
+![Long view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733462.webp "Long view of the Kaiservilla in Bad Ischl")
 
-![皇帝别墅门廊的视角，Viktor Tilgner建造的大理石喷泉被木板短暂封装【注3】。影片积雪融化的位置与笔者抵达时呈现出有趣的相似：草坡的积雪较少，而靠近道路的位置积雪较多](/assets/douban/ludwig/p100733476.webp "皇帝别墅门廊的视角，Viktor Tilgner建造的大理石喷泉被木板短暂封装【注3】。影片积雪融化的位置与笔者抵达时呈现出有趣的相似：草坡的积雪较少，而靠近道路的位置积雪较多")
+![View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [Note 3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.](/assets/douban/ludwig/p100733476.webp "View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [Note 3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.")
 
-【注3】特里斯坦与伊索尔德的首演在1865年，而喷泉的建造时间为1884年。故事发生的年代这些建筑大多尚未最终成型，而维斯康蒂选择实地拍摄，其实会导致部分场景不太符合历史事实。
+[Note 3] *Tristan und Isolde* premiered in 1865, while the fountain was built in 1884. Many of these buildings had not yet assumed their final form at the time of the story. Visconti's decision to film on location therefore produces some historical inaccuracies.
 
-![短暂被木板封装的窃贼雕塑](/assets/douban/ludwig/p100733477.webp "短暂被木板封装的窃贼雕塑")
+![The thief sculpture temporarily enclosed in wooden boards](/assets/douban/ludwig/p100733477.webp "The thief sculpture temporarily enclosed in wooden boards")
 
-别墅中的装饰可以看到与电影几乎相同的场景布置，那些皇帝的旧时私人生活，就这样原封不动地成为了展览。那些宫殿与这个建造年代较早的奥地利皇帝别墅相比，装饰性更强，呈现出两位君王各自的审美偏好。弗朗茨的皇帝别墅在皇帝生活的空间，遍布了许多猎捕的成果，这和《茜茜公主》影片所塑造的形象挺一致。不过这样的空间没有发挥更多的功能性，除了《路德维希》两位公主的对话，我们通过各个角度的镜像，窥视到她们交谈过程中梳妆、观看与被看的关系。
+The villa's decoration offers arrangements almost identical to those in the film. The emperor's former private life has become an exhibition, seemingly untouched. Compared with this earlier Austrian imperial villa, Ludwig's palaces are more ornate, revealing the two monarchs' different aesthetic preferences. Franz's living quarters in the Kaiservilla are filled with hunting trophies, quite consistent with his portrayal in the *Sissi* films. Yet this space serves few additional functions in *Ludwig*, beyond the conversation between the two princesses. Through reflections from various angles, we glimpse the relationship among dressing, looking, and being looked at as they talk.
 
-![《城堡之旅》原文配图](/assets/notion/b72feca8-f7a0-83b8-b2d2-01cb3386ac7c.png)
+![Illustration from A Journey Through Castles](/assets/notion/b72feca8-f7a0-83b8-b2d2-01cb3386ac7c.png)
 
-![灰色沙龙右侧的皇后书房](/assets/notion/fd8feca8-f7a0-82e7-a696-011ff4de4e85.png "灰色沙龙右侧的皇后书房")
+![The empress's study to the right of the Grey Salon](/assets/notion/fd8feca8-f7a0-82e7-a696-011ff4de4e85.png "The empress's study to the right of the Grey Salon")
 
-![《城堡之旅》原文配图](/assets/notion/058feca8-f7a0-8345-b977-814f0666abf2.png)
+![Illustration from A Journey Through Castles](/assets/notion/058feca8-f7a0-8345-b977-814f0666abf2.png)
 
-![影片中出现的红色屏风](/assets/douban/ludwig/p100733478.webp "影片中出现的红色屏风")
+![The red screen seen in the film](/assets/douban/ludwig/p100733478.webp "The red screen seen in the film")
 
-![南侧的红色沙龙为官方的接待室](/assets/notion/1b2feca8-f7a0-827f-8520-81cbf7a1b08c.png "南侧的红色沙龙为官方的接待室")
+![The Red Salon on the south side serves as the official reception room](/assets/notion/1b2feca8-f7a0-827f-8520-81cbf7a1b08c.png "The Red Salon on the south side serves as the official reception room")
 
-![别墅的官方接待室“红色沙龙”，四个角都放置白色大理石的天使雕像](/assets/douban/ludwig/p100733482.webp "别墅的官方接待室“红色沙龙”，四个角都放置白色大理石的天使雕像")
+![The Red Salon, the official reception room of the villa, with white marble angel sculptures in all four corners](/assets/douban/ludwig/p100733482.webp "The Red Salon, the official reception room of the villa, with white marble angel sculptures in all four corners")
 
-![路德维希与装饰的狩猎战利品](/assets/notion/cd6feca8-f7a0-83d5-87d8-0118a716714b.png "路德维希与装饰的狩猎战利品")
+![Ludwig and the decorative hunting trophies](/assets/notion/cd6feca8-f7a0-83d5-87d8-0118a716714b.png "Ludwig and the decorative hunting trophies")
 
-![装饰了很多标本的阶梯，通往存放了更多狩猎战利品的走廊](/assets/douban/ludwig/p100733483.webp "装饰了很多标本的阶梯，通往存放了更多狩猎战利品的走廊")
+![A staircase decorated with numerous specimens leads to a corridor holding still more hunting trophies](/assets/douban/ludwig/p100733483.webp "A staircase decorated with numerous specimens leads to a corridor holding still more hunting trophies")
 
-逛巴特伊舍尔还遇到了《茜茜公主》中的许多场景，承载了那些茜茜与弗朗茨偶遇的浪漫段落，童话般美好的影像。这次旅行还牵连了挺多更早的迷影记忆，包括路过萨尔茨堡看到的那些与《音乐之声》相关的景色：又想起了中学窝在房间重新看完三部茜茜公主与《路德维希》的那段时光。
+Walking around Bad Ischl, I also encountered many settings from *Sissi*, places that carry those romantic chance meetings between Sissi and Franz, images as beautiful as a fairy tale. This journey reached back into many earlier cinephile memories, including the scenery associated with *The Sound of Music* that I passed in Salzburg. I thought again of my schooldays, shut away in my room, rewatching the three *Sissi* films and *Ludwig*.
 
-## Part III：施塔恩贝格湖
+## Part III: Lake Starnberg
 
-路德维希准备离开巴特伊舍尔前，与Sissi提到了“波森霍芬”与“玫瑰岛”。玫瑰岛（Roseninsel）与波森霍芬（Possenhofen）城堡位于施塔恩贝格湖（Starnbergsee）畔，相隔2.2公里。
+Before leaving Bad Ischl, Ludwig mentions “Possenhofen” and “Rose Island” to Sissi. Rose Island, or Roseninsel, and Possenhofen Castle stand 2.2 kilometres apart on the shores of Lake Starnberg.
 
-![《城堡之旅》原文配图](/assets/notion/2c1feca8-f7a0-8327-9120-81bdc4a53426.png)
+![Illustration from A Journey Through Castles](/assets/notion/2c1feca8-f7a0-8327-9120-81bdc4a53426.png)
 
-![《城堡之旅》原文配图](/assets/notion/476feca8-f7a0-82f8-b1ed-8191eb3c66b7.png)
+![Illustration from A Journey Through Castles](/assets/notion/476feca8-f7a0-82f8-b1ed-8191eb3c66b7.png)
 
-冬天的S6开始全线运营，市区到湖区乘坐公共交通仅需40分钟。如今的施塔恩贝格湖周边属于德国富人居住区，许多慕尼黑有钱阶级会在此地置办家产，当地甚至看不见联排的建筑，而都是坐拥周边开阔草坪的独栋别墅。当地不从事什么生产活动，人均收入却到达了全德前三水平。帕森霍芬现属于私人产业，前几年听说作为公寓出售过部分房间，除了路边偶尔可见的与帕森霍芬历史相关的介绍，没有任何的旅游开发，只能看到令人艳羡的当地富人们享受的清净生活。
+The S6 begins operating along its full route in winter, putting the lake only forty minutes from the city by public transport. The area around Lake Starnberg is now an affluent German residential district, where many wealthy Munich residents own property. There are scarcely any terraced houses, only detached villas surrounded by broad lawns. Little is produced locally, yet per-capita income ranks among Germany's top three. Possenhofen is now privately owned; I heard that some rooms were sold as apartments a few years ago. Apart from occasional roadside information about its history, there is no tourist development, only the enviably tranquil lives of its wealthy residents.
 
-影片将特里斯坦与伊索尔德的首演作为话语呈现的背景，首演后路德维希与茜茜公主在玫瑰岛见面，通过对话，我们得知皇后没有前往慕尼黑参加演出。首次前往施塔恩贝格湖，我先抵达了帕森霍芬附近的居民聚集区，而后沿着湖畔散步到玫瑰岛的码头。湖畔没什么游客，适合周末前往，舒服地滞留。现在玫瑰岛的渡轮仅在夏季短暂开通，不过就算登岛也没什么好看。
+The film presents the premiere of *Tristan und Isolde* through dialogue as background. After it, Ludwig meets Sissi on Rose Island, and their conversation tells us that the empress did not attend the performance in Munich. On my first visit to Lake Starnberg, I arrived in the residential area near Possenhofen, then walked along the shore to the Rose Island jetty. There were few tourists. It is a comfortable place to spend time on a weekend. The ferry to Rose Island now operates only during a short summer season, though there is little to see even if one reaches the island.
 
-皇后登岛的场景，可以听到划船以及轻微的水声，船划过湖面，调转方向，站在码头的视角看到湖面的船远处出现，然后靠岸。皇后涉过长长的码头，到达国王小屋旁侧，直到国王走出小屋，叫出皇后的名字“Elisabeth”……维斯康蒂始终用配乐提示着这些动作所组成的时间，持续地溶解到特里斯坦与伊索尔德著名的爱之死片段的前2分钟时长。很静、很慢的节奏，和当地的吹拂到现在的微风与湖面的波纹共享，被影片呈现。而后皇后进入国王的小屋，配乐稍弱——但仍在继续甚至进行到配器的改变的段落。现在到玫瑰岛湖边散步，踱着泥路铺着的落叶，还是能感受到这样清晰的节奏。随后我们在电影里听到巴国国王与奥地利皇后的争执，好像也没有那么紧张。
+As the empress approaches the island, we hear rowing and the faint sound of water. The boat crosses the lake and turns. From the jetty, we see it appear in the distance and come ashore. The empress crosses the long jetty and reaches the side of the king's cottage. Eventually he emerges and calls her name: “Elisabeth”... Visconti uses the music throughout to mark the time composed by these movements, dissolving them continuously into the first two minutes of the famous *Liebestod* from *Tristan und Isolde*. The film presents a very quiet, very slow rhythm, shared by the breeze that still blows there and the ripples on the lake. The empress enters the cottage, and the music softens, yet continues even into a change of orchestration. Walking beside Rose Island today, treading fallen leaves on the earthen paths, I can still feel that clear rhythm. The argument we then hear in the film between the Bavarian king and the Austrian empress does not seem so tense after all.
 
-![《城堡之旅》原文配图](/assets/notion/acdfeca8-f7a0-8233-b041-01aa9afe9407.png)
+![Illustration from A Journey Through Castles](/assets/notion/acdfeca8-f7a0-8233-b041-01aa9afe9407.png)
 
-![皇后乘船登岛的远景跟拍](/assets/notion/1f4feca8-f7a0-828d-a1ec-81cfc247d02a.png "皇后乘船登岛的远景跟拍")
+![A long tracking shot of the empress approaching the island by boat](/assets/notion/1f4feca8-f7a0-828d-a1ec-81cfc247d02a.png "A long tracking shot of the empress approaching the island by boat")
 
-![在阴天的湖边望向玫瑰岛的所在地（1）](/assets/douban/ludwig/p100733520.webp "在阴天的湖边望向玫瑰岛的所在地（1）")
+![Looking toward Rose Island from the lakeshore on an overcast day (1)](/assets/douban/ludwig/p100733520.webp "Looking toward Rose Island from the lakeshore on an overcast day (1)")
 
-![在阴天的湖边望向玫瑰岛的所在地（2）](/assets/douban/ludwig/p100733521.webp "在阴天的湖边望向玫瑰岛的所在地（2）")
+![Looking toward Rose Island from the lakeshore on an overcast day (2)](/assets/douban/ludwig/p100733521.webp "Looking toward Rose Island from the lakeshore on an overcast day (2)")
 
-![路德维希与伊丽莎白在玫瑰岛“国王小屋”的外景](/assets/notion/5c8feca8-f7a0-831b-8d0b-8161ae96d3a1.png "路德维希与伊丽莎白在玫瑰岛“国王小屋”的外景")
+![Ludwig and Elisabeth outside the king's cottage on Rose Island](/assets/notion/5c8feca8-f7a0-831b-8d0b-8161ae96d3a1.png "Ludwig and Elisabeth outside the king's cottage on Rose Island")
 
-![伊丽莎白在玫瑰岛“国王小屋”的内景。现在游客无法进入小屋。](/assets/notion/e22feca8-f7a0-8397-92d1-816251bc5ae2.png "伊丽莎白在玫瑰岛“国王小屋”的内景。现在游客无法进入小屋。")
+![Elisabeth inside the king's cottage on Rose Island. Visitors cannot enter the cottage today.](/assets/notion/e22feca8-f7a0-8397-92d1-816251bc5ae2.png "Elisabeth inside the king's cottage on Rose Island. Visitors cannot enter the cottage today.")
 
 <p>
-这个场景之后，路德维希回到王宫与瓦格纳见面，讨论建立拜罗伊特剧院的相关事宜。而玫瑰岛在影片第二次出现已经是瓦格纳离开后若干年，再次进宫，与订婚的公主会见后的约第26个场景。已经取代了Volk的侍从理查德·霍尼格首先在幕间出现，话语交代与国王的关系，两人乘坐蒸汽船（区别于前文公主所乘坐的手划船）抵达岛屿，玫瑰岛国王小屋的内景进一步打开。 
+After this scene, Ludwig returns to the Residenz to discuss the Bayreuth theatre with Wagner. Rose Island next appears years after Wagner's departure, around scene twenty-six, after his return to court and meeting with the betrothed princess. Richard Hornig, the attendant who has replaced Volk, first appears in an interlude explaining his relationship with the king. The two reach the island by steamboat, unlike the rowboat that brought the empress earlier, and the interior of the king's cottage opens up further.
 </p>
 
-理查德·霍尼格所提到的被开除的Volk，国王的首次见面，发生在帕森霍芬城堡首次出现的段落。路德维希走出帕森霍芬城堡，伴随着爱之死，遇见裸泳的Volk，然后配乐变得安静。维斯康蒂谨慎而自私地在此赋予了路德维希那些隐秘的作者性标志，带着自我怀疑与认同的情绪，含蓄地凝视着男性的身体。而后路德维希得知巴伐利亚战败的消息，影片又呈现了有关政治与艺术价值的精彩对话。
+Ludwig's first meeting with Volk, whose dismissal Richard Hornig mentions, occurs when Possenhofen Castle first appears. Ludwig leaves the castle to the sound of the *Liebestod* and encounters Volk swimming naked. The music then falls quiet. Here Visconti cautiously, possessively invests Ludwig with his own concealed authorial signatures, a restrained gaze upon the male body carrying both self-doubt and identification. Ludwig subsequently learns of Bavaria's defeat, and the film offers another brilliant exchange on political and artistic value.
 
-![摄影机后拉至上而下扫过帕森霍芬的建筑外景，配乐仍为“爱之死”的片段](/assets/notion/635feca8-f7a0-83c0-8562-81a0e2cfd73b.png "摄影机后拉至上而下扫过帕森霍芬的建筑外景，配乐仍为“爱之死”的片段")
+![The camera pulls back and sweeps downward across the exterior of Possenhofen, still accompanied by the Liebestod](/assets/notion/635feca8-f7a0-83c0-8562-81a0e2cfd73b.png "The camera pulls back and sweeps downward across the exterior of Possenhofen, still accompanied by the Liebestod")
 
-![路德维希与夜晚的帕森霍芬](/assets/notion/1c3feca8-f7a0-82f7-984e-010912c972c5.png "路德维希与夜晚的帕森霍芬")
+![Ludwig at Possenhofen at night](/assets/notion/1c3feca8-f7a0-82f7-984e-010912c972c5.png "Ludwig at Possenhofen at night")
 
-![路德维希散步至夜晚的施塔恩贝格湖](/assets/notion/6c8feca8-f7a0-835f-8241-81038815b594.png "路德维希散步至夜晚的施塔恩贝格湖")
+![Ludwig walks to Lake Starnberg at night](/assets/notion/6c8feca8-f7a0-835f-8241-81038815b594.png "Ludwig walks to Lake Starnberg at night")
 
-![花园外视角下如今的帕森霍芬（1）](/assets/douban/ludwig/p100733522.webp "花园外视角下如今的帕森霍芬（1）")
+![Possenhofen today, seen from outside the garden (1)](/assets/douban/ludwig/p100733522.webp "Possenhofen today, seen from outside the garden (1)")
 
-![花园外视角下如今的帕森霍芬（2）](/assets/douban/ludwig/p100733527.webp "花园外视角下如今的帕森霍芬（2）")
+![Possenhofen today, seen from outside the garden (2)](/assets/douban/ludwig/p100733527.webp "Possenhofen today, seen from outside the garden (2)")
 
-![路边对帕森霍芬的介绍：Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden.（如今的帕森霍芬为私人产业只能外边参观）](/assets/douban/ludwig/p100733528.webp "路边对帕森霍芬的介绍：Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden.（如今的帕森霍芬为私人产业只能外边参观）")
+![Roadside information about Possenhofen: Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden. The castle is now privately owned and can be viewed only from outside.](/assets/douban/ludwig/p100733528.webp "Roadside information about Possenhofen: Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden. The castle is now privately owned and can be viewed only from outside.")
 
-![天鹅堡到施塔恩贝格湖的”路德维希国王之路“](/assets/douban/ludwig/p100733529.webp "天鹅堡到施塔恩贝格湖的”路德维希国王之路“")
+![The King Ludwig Way from Neuschwanstein to Lake Starnberg](/assets/douban/ludwig/p100733529.webp "The King Ludwig Way from Neuschwanstein to Lake Starnberg")
 
-![如今的施塔恩贝格湖畔（1）](/assets/douban/ludwig/p100733531.webp "如今的施塔恩贝格湖畔（1）")
+![The shore of Lake Starnberg today (1)](/assets/douban/ludwig/p100733531.webp "The shore of Lake Starnberg today (1)")
 
-![如今的施塔恩贝格湖畔（2）](/assets/douban/ludwig/p100733532.webp "如今的施塔恩贝格湖畔（2）")
+![The shore of Lake Starnberg today (2)](/assets/douban/ludwig/p100733532.webp "The shore of Lake Starnberg today (2)")
 
-![如今的施塔恩贝格湖畔（3）](/assets/douban/ludwig/p100733534.webp "如今的施塔恩贝格湖畔（3）")
+![The shore of Lake Starnberg today (3)](/assets/douban/ludwig/p100733534.webp "The shore of Lake Starnberg today (3)")
 
-![玫瑰岛附近的草地如今开发了高尔夫球场](/assets/douban/ludwig/p100733535.webp "玫瑰岛附近的草地如今开发了高尔夫球场")
+![The grassland near Rose Island has been developed into a golf course](/assets/douban/ludwig/p100733535.webp "The grassland near Rose Island has been developed into a golf course")
 
-![玫瑰岛附近的教堂](/assets/douban/ludwig/p100733536.webp "玫瑰岛附近的教堂")
+![A church near Rose Island](/assets/douban/ludwig/p100733536.webp "A church near Rose Island")
 
-和维斯康蒂合作了《路德维希》《魂断威尼斯》《无辜》《家族的肖像》的配乐Franco Mannino担任了《路德维希》的钢琴独奏和乐团指挥，配合维斯康蒂在影片对瓦格纳的使用，产生了比《魂断威尼斯》的马勒第五交响曲慢板乐章更可怖的致幻效果。
+Franco Mannino, who collaborated with Visconti on the music for *Ludwig*, *Death in Venice*, *The Innocent*, and *Conversation Piece*, serves as piano soloist and orchestral conductor for *Ludwig*. Working with Visconti's use of Wagner, he produces a hallucinatory effect more frightening than the Adagietto from Mahler's Fifth Symphony in *Death in Venice*.
 
-影片最后，路德维希与医生溺死于帕森霍芬的施塔恩贝格湖畔，蒙太奇被谨慎地使用，众人在雨中举着火把寻找路德维希的情节，漫长地等到了终止。路德维希的尸体的脸部特写被定格，然后片尾字幕，音乐留存了下来，钢琴演奏的瓦格纳哀歌又变为管弦乐的特里斯坦与伊索尔德序曲，所有过去的重新在脸庞处浮现。
+At the end, Ludwig and the doctor drown in Lake Starnberg near Possenhofen. Montage is used sparingly. The prolonged search for Ludwig, with people carrying torches through the rain, finally ends. A close-up of his dead face freezes, then the closing credits begin. The music remains: Wagner's piano elegy becomes the orchestral prelude to *Tristan und Isolde*, and everything that has passed surfaces once more in that face.
 
-## Part IV：宁芬堡宫
+## Part IV: Nymphenburg Palace
 
-宁芬堡宫（Schloss Nymphenburg）是路德维希的出生地，位于慕尼黑北部。乘坐180路公交车可以抵达。到了公交车站，步行进入城堡门前，就是巨大的草坪和公共广场。影片的约第18，19个场景，路德维希回到慕尼黑，著名的宁芬堡宫首次在影片中出现。维斯康蒂用镜头呈现了路德维希从马车抵达到走入室内的整个过程。漫长的过渡句，随后路德维希与母亲讨论婚姻事，母亲又与霍夫曼交谈。看起来很繁复琐碎的整段叙事，笼罩着宁芬堡宫华丽的内饰。
+Nymphenburg Palace, Ludwig's birthplace, stands in northern Munich and can be reached by the number 180 bus. From the bus stop, a walk to the palace entrance brings you to an enormous lawn and public square. Around scenes eighteen and nineteen, Ludwig returns to Munich and the famous palace first appears. Visconti shows the entire process from his arrival by carriage to his entry indoors. A long transitional phrase, followed by Ludwig discussing marriage with his mother, who then speaks with Hoffmann. Nymphenburg's ornate interiors envelop this seemingly elaborate, trivial stretch of narrative.
 
-![路德维希乘坐马车抵达宁芬堡宫时的大远景](/assets/notion/077feca8-f7a0-83b9-96ba-81659a9bdb40.png "路德维希乘坐马车抵达宁芬堡宫时的大远景")
+![Extreme long shot of Ludwig arriving at Nymphenburg by carriage](/assets/notion/077feca8-f7a0-83b9-96ba-81659a9bdb40.png "Extreme long shot of Ludwig arriving at Nymphenburg by carriage")
 
-首先呈现宁芬堡宫的外景，路德维希所乘坐的马车停在宫殿门前，处于几乎看不见的远景的位置。画面的主体被上方的宫殿和下方的草坪占据。我抵达宁芬堡时的天气同样阴沉，宫殿前的草坪停满了鸽子与鸭子：
+First, an exterior view of Nymphenburg. Ludwig's carriage stops in front of the palace, almost invisible in the long shot. The palace above and the lawn below dominate the image. The weather was similarly overcast when I visited, with pigeons and ducks covering the lawn:
 
-![宁芬堡宫门前的草坪](/assets/douban/ludwig/p100733586.webp "宁芬堡宫门前的草坪")
+![The lawn in front of Nymphenburg Palace](/assets/douban/ludwig/p100733586.webp "The lawn in front of Nymphenburg Palace")
 
-影片中的路德维希通过门前的阶梯平台进入了宫殿的门厅。现在的游客无法登上阶梯，只能从一楼的空间通过售票和纪念品商店，再经过狭窄的螺旋侧边楼梯进入门厅。据我推测，楼下的空间及楼梯在当时都是供仆人以及宫廷的厨师们使用，贵族们不会通过那种路径进入宫殿。而当下的设置除了给出售纪念品/检票提供方便的位置，也是为了避免在门厅设置检票处以破坏宫殿空间的整体视觉。
+In the film, Ludwig enters the palace hall from the landing at the top of the exterior stairs. Visitors today cannot use these stairs. They must pass through the ticket office and souvenir shop on the ground floor, then climb a narrow spiral side staircase into the hall. I suspect these lower rooms and stairs originally served the servants and court cooks; aristocrats would not have entered this way. Besides providing convenient places for souvenir sales and ticket checks, the present arrangement avoids disrupting the palace's visual unity with a ticket barrier in the hall.
 
-![《城堡之旅》原文配图](/assets/notion/3f7feca8-f7a0-834f-a60d-018b60562e4d.png)
+![Illustration from A Journey Through Castles](/assets/notion/3f7feca8-f7a0-834f-a60d-018b60562e4d.png)
 
-下马车后，剪辑略过了上楼梯的过程，直接从阶梯的平台进入了宫殿。无法复刻机位和侍从的位置，我给这紧闭的大门拍了张特写。
+After Ludwig leaves the carriage, the editing skips the ascent of the stairs, taking him directly from the landing into the palace. Unable to reproduce the camera position or the attendant's placement, I took a close-up of the locked door.
 
-![宁芬堡宫紧闭的大门](/assets/douban/ludwig/p100733590.webp "宁芬堡宫紧闭的大门")
+![The locked entrance to Nymphenburg Palace](/assets/douban/ludwig/p100733590.webp "The locked entrance to Nymphenburg Palace")
 
-摄影机从上往下移动，呈现门厅两层楼高的空间。同时路德维希从左侧往右侧行走，充分利用门厅的空旷，将时间被摄影机端视的动作占据，呈现古典的速度。而实际上路德维希需要往左走，才能抵达接下来发生对话的王后的房间。
+The camera moves downward to reveal the hall's two-storey height. Meanwhile, Ludwig walks from left to right, fully using its emptiness. The camera's sustained contemplation occupies time, establishing a classical pace. In reality, however, he would need to turn left to reach the queen's rooms, where the next conversation takes place.
 
-![路德维希行走的远景，前景的木桌放置着门厅南北两侧装饰的瓷器](/assets/notion/e70feca8-f7a0-83d1-897d-81588e51c107.png "路德维希行走的远景，前景的木桌放置着门厅南北两侧装饰的瓷器")
+![Long shot of Ludwig walking. The wooden table in the foreground holds porcelain ornaments from the north and south sides of the hall.](/assets/notion/e70feca8-f7a0-83d1-897d-81588e51c107.png "Long shot of Ludwig walking. The wooden table in the foreground holds porcelain ornaments from the north and south sides of the hall.")
 
-![两层楼高的门厅](/assets/douban/ludwig/p100733591.webp "两层楼高的门厅")
+![The two-storey hall](/assets/douban/ludwig/p100733591.webp "The two-storey hall")
 
-![门厅的天花板有约翰·巴普蒂斯特·齐默尔曼创作的巨型壁画](/assets/notion/923feca8-f7a0-8224-a715-012312a2beab.png "门厅的天花板有约翰·巴普蒂斯特·齐默尔曼创作的巨型壁画")
+![The enormous ceiling fresco by Johann Baptist Zimmermann in the hall](/assets/notion/923feca8-f7a0-8224-a715-012312a2beab.png "The enormous ceiling fresco by Johann Baptist Zimmermann in the hall")
 
-![《城堡之旅》原文配图](/assets/notion/fa9feca8-f7a0-837a-94f1-811afdb617eb.png)
+![Illustration from A Journey Through Castles](/assets/notion/fa9feca8-f7a0-837a-94f1-811afdb617eb.png)
 
-路德维希从门厅走到起居室与侍女对话。门厅隔着北廊，位于起居室的南侧，而影片的路德维希却从起居室北侧的走廊走到了这个房间。导演改变了角色行走的路线，通过再次穿过整个房间的动作，以一个镜头摆动的跟拍呈现了“美人画廊”的整体，同时不至于因为两侧墙壁的巨大镜子穿帮。
+Ludwig moves from the hall to the sitting room to speak with a lady-in-waiting. Separated from it by the north gallery, the hall is south of the sitting room; in the film, however, he enters from the corridor to its north. The director changes his route so that he crosses the entire room once more. A single panning shot follows him, presenting the Gallery of Beauties as a whole while avoiding reflections of the crew in the enormous mirrors on either side.
 
-![宁芬堡宫的美人画廊，多数肖像的位置与影片竟不一样](/assets/douban/ludwig/p100733593.webp "宁芬堡宫的美人画廊，多数肖像的位置与影片竟不一样")
+![The Gallery of Beauties at Nymphenburg. Surprisingly, most portraits occupy different positions from those in the film.](/assets/douban/ludwig/p100733593.webp "The Gallery of Beauties at Nymphenburg. Surprisingly, most portraits occupy different positions from those in the film.")
 
-![《城堡之旅》原文配图](/assets/notion/f6dfeca8-f7a0-8271-a1fc-0136dcbe8efb.png)
+![Illustration from A Journey Through Castles](/assets/notion/f6dfeca8-f7a0-8271-a1fc-0136dcbe8efb.png)
 
-影片中王后觐见厅的家具放在了房间正中，而按照宫廷的礼仪，现实的觐见厅的家具都在放置在靠墙的位置。女仆和国王两次穿过房间，摄影机再次巧妙地躲开了两个巨大的镜子，牺牲了角度和空间，却没有破坏画面的华丽感。各种装饰性的镶金边的瓶罐与灯座呈现出法式宫廷的风格。
+In the film, the furniture in the queen's audience chamber stands in the middle of the room. Court etiquette, however, placed it against the walls. The maid and the king each cross the room, and the camera again cleverly avoids the two huge mirrors. Angle and space are sacrificed without compromising the image's splendour. Gilt-edged decorative vessels and lamp stands display the style of the French court.
 
-![《城堡之旅》原文配图](/assets/notion/ac8feca8-f7a0-828e-98cc-017a52611733.png)
+![Illustration from A Journey Through Castles](/assets/notion/ac8feca8-f7a0-828e-98cc-017a52611733.png)
 
-路德维希进入王后的卧室，惊醒了王后。现在卧室的床（包括慕尼黑其他王宫所有卧室）都放着很高的床垫和保护罩，而影片中王后睡觉的位置比这低得多。
+Ludwig enters the queen's bedroom and wakes her. Today the bed, like those in all the other palace bedrooms around Munich, carries a very high mattress and protective covering. The position in which the queen sleeps in the film is much lower.
 
-![王后的卧室](/assets/douban/ludwig/p100733596.webp "王后的卧室")
+![The queen's bedroom](/assets/douban/ludwig/p100733596.webp "The queen's bedroom")
 
-![影片中路德维希的行走路线](/assets/notion/415feca8-f7a0-8310-8125-815bc5d55db1.png "影片中路德维希的行走路线")
+![Ludwig's route through the palace in the film](/assets/notion/415feca8-f7a0-8310-8125-815bc5d55db1.png "Ludwig's route through the palace in the film")
 
-![宁芬堡宫背后有个公共广场，有许多雕塑，广场再往后有个巨大的茎状水池。四周是广阔的森林湿地空间，许多附近的居民将这里作为公园散步](/assets/notion/7affeca8-f7a0-83c5-9228-815e552efcf1.png "宁芬堡宫背后有个公共广场，有许多雕塑，广场再往后有个巨大的茎状水池。四周是广阔的森林湿地空间，许多附近的居民将这里作为公园散步")
+![Behind Nymphenburg is a public square with numerous sculptures, followed by a large, elongated pool. Extensive woodland and wetlands surround it; many local residents walk here as in a park.](/assets/notion/7affeca8-f7a0-83c5-9228-815e552efcf1.png "Behind Nymphenburg is a public square with numerous sculptures, followed by a large, elongated pool. Extensive woodland and wetlands surround it; many local residents walk here as in a park.")
 
-![宁芬堡宫背部的视角](/assets/douban/ludwig/p100733597.webp "宁芬堡宫背部的视角")
+![Rear view of Nymphenburg Palace](/assets/douban/ludwig/p100733597.webp "Rear view of Nymphenburg Palace")
 
-## Part V：路德维希城堡
+## Part V: Ludwig's Castles
 
-![《城堡之旅》原文配图](/assets/notion/7c0feca8-f7a0-83c9-8bc6-81331f89e360.png)
+![Illustration from A Journey Through Castles](/assets/notion/7c0feca8-f7a0-83c9-8bc6-81331f89e360.png)
 
-第21个场景。茜茜进入路德维希的办公室，看到了路德维希的城堡设计。路德维希统治后期的代表作，巴伐利亚的著名景点新天鹅堡（Schloss Neuschwanstein）、林德霍夫宫（Schloss Linderhof）以及位于基姆湖的海伦基姆宫（Schloss Herrenchiemsee）被影片初次提及。婚姻的失败作为矛盾发展的节点，这一场景之前的战争危机，在幕间的休息过后，转变为王室的财政危机。几位政府成员面对观众的话语开始不断提及这三座建筑，影片的冲突开始往那儿汇聚。
+Scene twenty-one. Sissi enters Ludwig's office and sees his castle designs. The film first mentions the signature projects of his later reign: Neuschwanstein Castle and Linderhof Palace, famous Bavarian attractions, and Herrenchiemsee Palace on Lake Chiemsee. The failed engagement marks a turning point in the conflict. After the intermission, the military crisis preceding this scene becomes a crisis in royal finances. Several government officials repeatedly refer to these three buildings in their addresses to the audience, and the film's conflicts begin to converge upon them.
 
-幕间，大臣的陈述提及了林德霍夫宫、新天鹅堡与海伦基姆宫的修建。Sissi前往林德霍夫宫和海伦基姆宫的情节在随后展开。林德霍夫宫位于南部的Ettal，比起其他两座宫殿，前往林德霍夫的公共交通最为复杂。乘坐1小时40分钟的RB前往Ettal，再换乘2班公交车，约30分钟就可以抵达宫殿。
+In an interlude, a minister describes the construction of Linderhof, Neuschwanstein, and Herrenchiemsee. Sissi's visits to Linderhof and Herrenchiemsee follow. Linderhof stands in Ettal to the south, and is the most complicated of the three to reach by public transport. An hour and forty minutes on a regional RB train toward Ettal, followed by two buses taking roughly another thirty minutes, brings you to the palace.
 
-Ettal是巴伐利亚的山区，多数公交站点仅为附近村庄的几口停靠，偶尔有个小镇，不过都隔得挺远。公交车每小时1班，没人等待就不靠站，速度很快。即使在哪站脑子一热下了公交，附近的田边都有露天的啤酒花园，可以消磨到下一班车抵达的时间。
+Ettal is in the Bavarian mountains. Most bus stops serve only a few households in nearby villages. There is an occasional town, but they are far apart. Buses run hourly, pass stops where no one is waiting, and travel fast. Even if you impulsively get off somewhere, there are open-air beer gardens beside the fields where you can pass the time until the next bus.
 
-路途孤身一人，到了宫殿附近却常能遇到同行。可能是自驾的游客，可能是报团跟车游的老年团。远离民众居住的场所，宫殿以及周边的景色都保存得与过去一致。不过正如前文所说，所有的喷泉和雕塑在冬季都不供欣赏。
+I travelled alone, yet near the palace I often encountered other visitors, perhaps arriving by car or with coach parties of older tourists. Far from residential areas, the palace and its surroundings preserve their earlier appearance. As mentioned above, however, the fountains and sculptures cannot be enjoyed in winter.
 
-![宫殿花园都透明罩住的雕塑](/assets/douban/ludwig/p100734092.webp "宫殿花园都透明罩住的雕塑")
+![Sculptures in the palace gardens under transparent covers](/assets/douban/ludwig/p100734092.webp "Sculptures in the palace gardens under transparent covers")
 
-海伦基姆宫位于基姆湖的岛屿，市区到基姆湖车程约1小时，拥有月票可以乘坐RE免费前往。我们在慕尼黑初雪第二天的早晨抵达湖区，镇上的建筑还残留着些许雪迹，登船之前的天气阴沉，湖边等到中午，云层被吹散，登上船后我们看到湖泊的低压变为了晴朗的天光，景色变得很美。
+Herrenchiemsee stands on an island in Lake Chiemsee. The lake is about an hour from the city, and a monthly travel pass allows the journey on a regional RE train at no additional cost. We arrived the morning after Munich's first snowfall. Traces of snow remained on the town's buildings. Before we boarded, the weather was gloomy. We waited by the lake until noon, when the clouds dispersed. From the boat, we watched the oppressive sky above the lake give way to clear daylight. The scenery became beautiful.
 
-![登船之前的天气阴沉，遇到了路德维希二世的铁塑](/assets/douban/ludwig/p100734097.webp "登船之前的天气阴沉，遇到了路德维希二世的铁塑")
+![Under gloomy skies before boarding, we encountered an iron sculpture of Ludwig II](/assets/douban/ludwig/p100734097.webp "Under gloomy skies before boarding, we encountered an iron sculpture of Ludwig II")
 
-![登船之前的天气](/assets/douban/ludwig/p100734099.webp "登船之前的天气")
+![The weather before boarding](/assets/douban/ludwig/p100734099.webp "The weather before boarding")
 
-![乘船的过程，天气逐渐晴朗](/assets/douban/ludwig/p100734324.webp "乘船的过程，天气逐渐晴朗")
+![The sky gradually clears during the boat journey](/assets/douban/ludwig/p100734324.webp "The sky gradually clears during the boat journey")
 
-![基姆湖景色（1）](/assets/douban/ludwig/p100734329.webp "基姆湖景色（1）")
+![Lake Chiemsee (1)](/assets/douban/ludwig/p100734329.webp "Lake Chiemsee (1)")
 
-![基姆湖景色（2）](/assets/douban/ludwig/p100734330.webp "基姆湖景色（2）")
+![Lake Chiemsee (2)](/assets/douban/ludwig/p100734330.webp "Lake Chiemsee (2)")
 
-天鹅堡位于福森小镇旁的霍恩施万高，慕尼黑乘坐RE到福森再转乘公交到新天鹅堡山脚，乘坐公共交通需要两个半小时。天鹅堡是慕尼黑周边最热门的景点，周边以及福森小镇的旅游开发都很完备。从山脚前往新天鹅堡可以登山也可以乘坐马车上山，马车的轮毂都装有减速电机，没有彻底仿古的省力型装置。盘山一路从仰视到平视，二十四个角度看天鹅堡，很壮观。
+Neuschwanstein stands in Hohenschwangau, near Füssen. An RE train from Munich to Füssen, followed by a bus to the foot of the hill, takes two and a half hours by public transport. It is the most popular attraction around Munich, and tourist facilities both nearby and in Füssen are well developed. From the bottom, one can walk or take a horse-drawn carriage uphill. The carriage wheels are fitted with reduction motors, a labour-saving device that stops short of complete historical imitation. The winding ascent changes the view from low angle to eye level: Neuschwanstein from twenty-four angles. Spectacular.
 
-![天鹅堡外景（1）](/assets/douban/ludwig/p100734145.webp "天鹅堡外景（1）")
+![Exterior of Neuschwanstein (1)](/assets/douban/ludwig/p100734145.webp "Exterior of Neuschwanstein (1)")
 
-![天鹅堡外景（2）](/assets/douban/ludwig/p100734144.webp "天鹅堡外景（2）")
+![Exterior of Neuschwanstein (2)](/assets/douban/ludwig/p100734144.webp "Exterior of Neuschwanstein (2)")
 
-![站在天鹅堡的庭院前看山下的景色](/assets/douban/ludwig/p100734332.webp "站在天鹅堡的庭院前看山下的景色")
+![Looking down the mountain from in front of the Neuschwanstein courtyard](/assets/douban/ludwig/p100734332.webp "Looking down the mountain from in front of the Neuschwanstein courtyard")
 
-官网介绍联合国教科文组织预计在2025年将新天鹅堡、林德霍夫宫以及海伦基姆宫收录进世界文化遗产名录，我们拭目以待。
+The official website says that UNESCO is expected to add Neuschwanstein, Linderhof, and Herrenchiemsee to the World Heritage List in 2025. We shall see.
 
-### (i) 林德霍夫宫
+### (i) Linderhof Palace
 
-Joseph Kainz随路德维希到林德霍夫宫，我们首次看到林德霍夫宫内部的场景。这个彻底臣服于路德维希的艺术偶像却揭开了君主的自私，他们抵达林德霍夫宫，进入Venus石窟，极端的艺术理想主义变为符号，悬挂在Linderhof宫过度的法式装饰之中。
+Joseph Kainz accompanies Ludwig to Linderhof, giving us our first view of its interior. Yet this artistic idol, who submits completely to Ludwig, exposes the monarch's selfishness. They arrive and enter the Venus Grotto. Extreme artistic idealism becomes a sign suspended amid Linderhof's excessive French decoration.
 
-![《城堡之旅》原文配图](/assets/notion/064feca8-f7a0-83b7-80ba-017a86ae0227.png)
+![Illustration from A Journey Through Castles](/assets/notion/064feca8-f7a0-83b7-80ba-017a86ae0227.png)
 
-![《城堡之旅》原文配图](/assets/notion/ed5feca8-f7a0-82ac-97ad-81b24df2c449.png)
+![Illustration from A Journey Through Castles](/assets/notion/ed5feca8-f7a0-82ac-97ad-81b24df2c449.png)
 
-![路德维希抵达林德霍夫宫，远到近的三组镜头](/assets/notion/f92feca8-f7a0-8355-b423-01e9b039351c.png "路德维希抵达林德霍夫宫，远到近的三组镜头")
+![Ludwig arrives at Linderhof: three views moving from distant to close](/assets/notion/f92feca8-f7a0-8355-b423-01e9b039351c.png "Ludwig arrives at Linderhof: three views moving from distant to close")
 
-![林德霍夫宫的外立面](/assets/douban/ludwig/p100734072.webp "林德霍夫宫的外立面")
+![The facade of Linderhof Palace](/assets/douban/ludwig/p100734072.webp "The facade of Linderhof Palace")
 
-![林德霍夫宫前方的花园部分。Flora喷泉暂未开放](/assets/douban/ludwig/p100734066.webp "林德霍夫宫前方的花园部分。Flora喷泉暂未开放")
+![Part of the garden in front of Linderhof. The Flora Fountain is temporarily closed.](/assets/douban/ludwig/p100734066.webp "Part of the garden in front of Linderhof. The Flora Fountain is temporarily closed.")
 
-![《城堡之旅》原文配图](/assets/notion/6b4feca8-f7a0-8314-9461-01068779603b.png)
+![Illustration from A Journey Through Castles](/assets/notion/6b4feca8-f7a0-8314-9461-01068779603b.png)
 
-影片的空间很巧妙地转换，影像再次发生了差错。路德维希从马车进入林德霍夫城堡的动作之后，镜头就切换到林德霍夫宫后方的Venus石窟，随着弦乐拉出的汤豪瑟《晚星颂》，角色在这里出现【注4】。我们看到当年前所未有的人造钟乳石洞穴，灵感是瓦格纳汤豪瑟的场景，路德维希还加入了额外的供电以确保彩色灯光的照明。路德维希则在石窟水池划船出现，危险、铺张而畸形的艺术理想主义抵达了顶峰。
+The film shifts space deftly, introducing another spatial discrepancy. After Ludwig moves from the carriage into Linderhof, the camera cuts to the Venus Grotto behind the palace. The characters appear there to the strings' rendering of “O du mein holder Abendstern” from *Tannhäuser* [Note 4]. We see an artificial stalactite cave unprecedented in its time, inspired by Wagner's *Tannhäuser*. Ludwig also installed an additional electricity supply to provide coloured lighting. He appears rowing on the grotto's pool. A dangerous, extravagant, distorted artistic idealism reaches its apex.
 
-【注4】现实的Venus石窟在宫殿后方，需要攀登一段距离才能找到入口。石窟2017年至今还在维护，以解决供电、流水风化以及蝙蝠等洞穴生物的问题。到2025年夏季，Venus石窟重新对公众开放。
+[Note 4] The actual Venus Grotto is behind the palace; reaching its entrance requires an uphill walk. It has been under restoration since 2017 to address its electricity supply, water erosion, and cave-dwelling creatures such as bats. It reopens to the public in summer 2025.
 
-![伊丽莎白皇后参观Venus石窟，甚至在洞穴中看到了天鹅](/assets/notion/f55feca8-f7a0-8289-8726-01a6ea36ca50.png "伊丽莎白皇后参观Venus石窟，甚至在洞穴中看到了天鹅")
+![Empress Elisabeth visits the Venus Grotto and even sees swans inside](/assets/notion/f55feca8-f7a0-8289-8726-01a6ea36ca50.png "Empress Elisabeth visits the Venus Grotto and even sees swans inside")
 
-这充满幻想与神秘色彩的段落之后，影片开始给出路德维希和Joseph Kainz的互动，艺术的话语交锋，进行排演，君王应该如何统治？路德维希已经彻底掉入瓦格纳的病态与颓废，尼采的瓦格纳批判的例证。
+After this passage of fantasy and mystery, the film presents Ludwig and Joseph Kainz interacting: exchanges about art, rehearsals, the question of how a monarch should rule. Ludwig has fallen completely into Wagnerian morbidity and decadence, an illustration of Nietzsche's critique of Wagner.
 
-![《城堡之旅》原文配图](/assets/notion/69efeca8-f7a0-825f-afcf-81342c8f2c3e.png)
+![Illustration from A Journey Through Castles](/assets/notion/69efeca8-f7a0-825f-afcf-81342c8f2c3e.png)
 
-![《城堡之旅》原文配图](/assets/notion/753feca8-f7a0-8395-a869-81e8773c73aa.png)
+![Illustration from A Journey Through Castles](/assets/notion/753feca8-f7a0-8395-a869-81e8773c73aa.png)
 
-![路德维希与Joseph Kainz在林德霍夫宫](/assets/notion/e3ffeca8-f7a0-82a1-8182-01a960cf811c.png "路德维希与Joseph Kainz在林德霍夫宫")
+![Ludwig and Joseph Kainz at Linderhof](/assets/notion/e3ffeca8-f7a0-82a1-8182-01a960cf811c.png "Ludwig and Joseph Kainz at Linderhof")
 
-![深蓝色调的国王卧室](/assets/douban/ludwig/p100734096.webp "深蓝色调的国王卧室")
+![The king's bedroom in deep blue](/assets/douban/ludwig/p100734096.webp "The king's bedroom in deep blue")
 
-而当国王与Joseph Kainz不知在何处漂泊，幕间的话语再次提示了国王历来已久的统治与财政危机。不过即使常常提及，影片始终没有让危机以可见的形式持续发展，很明确的详略处理。我们始终处在路德维希的位置，观看的动作不自觉地将我们的注意力引导至美学的层面，就像路德维希那样，盲目地沉浸在理想主义的迷雾，即使有人反复提醒也毫不在意。
+As the king and Joseph Kainz wander somewhere unknown, the interlude again reminds us of the longstanding crises of government and finance. Despite these frequent references, the film never allows the crises to develop continuously in visible form. Its choice of what to elaborate and what to abbreviate is clear. We remain in Ludwig's position. The act of looking unconsciously draws our attention toward aesthetics. Like him, we are blindly immersed in the fog of idealism, indifferent even to repeated warnings.
 
-而忽然我们又离开了路德维希的身边，他的行踪变得神秘，观众看不见他所处的位置。取而代之的是伊丽莎白再次到访巴伐利亚的段落，影像切换进邻国皇后的旁观者视角，好像变得更加清晰。Sissi抵达林德霍夫宫，再到海伦基姆湖，再到天鹅堡，叙事在此经历了很长的一段间歇，我们才在天鹅堡的房间看到已经异常的路德维希。而这个间歇的段落，却有如此的密度的景观，短暂地爆发。声音从前一个场景延续到下一个场景，宫殿以相似的形式和节奏出现在我们眼前。皇后抵达的天气都是有些转暖的冬季，即使树木有些枯槁，王宫的景观却很震撼。
+Then, suddenly, we leave Ludwig's side. His movements become mysterious, his whereabouts invisible to us. Instead, Elisabeth visits Bavaria once more. The film shifts to the neighbouring empress's perspective as an observer, and things seem clearer. Sissi reaches Linderhof, then Herrenchiemsee, then Neuschwanstein. A long interval in the narrative passes before we see Ludwig, now altered, in a room at Neuschwanstein. Yet this interval briefly erupts with an extraordinary density of scenery. Sound continues from one scene into the next, and the palaces appear before us in similar forms and rhythms. The empress always arrives in winter weather that is beginning to turn mild. Even with the trees somewhat bare, the palaces are overwhelming.
 
-摄影机产生室外到室内的视线轨迹，长时间地记录下皇后的一段行走，即使路线有些改变，不过还是尽可能地以跟拍和适度的远景呈现了那些宫殿的陈设。影像随着节奏稳定的步伐，变成了路德维希欲望与追求的展览。
+The camera traces a line of sight from outdoors to indoors, recording a long stretch of the empress's walk. Though the route is altered, tracking shots and judicious long shots show as much of the palace furnishings as possible. With her steadily paced footsteps, the images become an exhibition of Ludwig's desires and aspirations.
 
-Sissi在白天抵达林德霍夫宫，影像提供了冬天的日景。前后花园的雕塑短暂停留，我们从室外走到室内，看到镜厅天花板下摆的镜头，Sissi和侍从在仰视的摄影机的左侧入画。然后，走过Gobelin房间的立式钢琴，又从左侧出画。行走的轨迹好像有些奇怪，却呈现了复杂的房间结构。皇后的中景跟拍，我们看到宫廷风格的内饰。到了地下的维纳斯石窟，又是远景，伊丽莎白被石窟微弱的光线勉强照亮，往前推到特写，在节拍的末段看到清楚的表情。
+Sissi reaches Linderhof during the day, giving us winter daylight. After pausing briefly on the sculptures in the front and rear gardens, we move indoors. The camera tilts down from the ceiling of the Hall of Mirrors; Sissi and her attendant enter from the left of the low-angle frame. They pass the upright piano in the Gobelin Room and leave again to the left. The route seems strange, yet reveals the rooms' complex arrangement. A medium tracking shot of the empress shows us the courtly decoration. In the underground Venus Grotto, we return to a long shot. Elisabeth is barely illuminated by the weak light. The camera moves into a close-up, allowing her expression to become clear at the end of the phrase.
 
-![《城堡之旅》原文配图](/assets/notion/ffcfeca8-f7a0-8308-859f-018e92502a4d.png)
+![Illustration from A Journey Through Castles](/assets/notion/ffcfeca8-f7a0-8308-859f-018e92502a4d.png)
 
-![《城堡之旅》原文配图](/assets/notion/9a7feca8-f7a0-836e-8a5f-819872ce8866.png)
+![Illustration from A Journey Through Castles](/assets/notion/9a7feca8-f7a0-836e-8a5f-819872ce8866.png)
 
-![《城堡之旅》原文配图](/assets/notion/4cafeca8-f7a0-82c4-a42d-01deb9deffb5.png)
+![Illustration from A Journey Through Castles](/assets/notion/4cafeca8-f7a0-82c4-a42d-01deb9deffb5.png)
 
-![皇后在林德霍夫宫的花园](/assets/notion/c32feca8-f7a0-834b-8570-019e18c5a1cf.png "皇后在林德霍夫宫的花园")
+![The empress in the Linderhof gardens](/assets/notion/c32feca8-f7a0-834b-8570-019e18c5a1cf.png "The empress in the Linderhof gardens")
 
-![林德霍夫宫后方的花园部分](/assets/douban/ludwig/p100734032.webp "林德霍夫宫后方的花园部分")
+![Part of the garden behind Linderhof](/assets/douban/ludwig/p100734032.webp "Part of the garden behind Linderhof")
 
-![林德霍夫宫花园附近的建筑](/assets/douban/ludwig/p100734048.webp "林德霍夫宫花园附近的建筑")
+![A building near the Linderhof gardens](/assets/douban/ludwig/p100734048.webp "A building near the Linderhof gardens")
 
-![皇后在林德霍夫宫的楼梯](/assets/notion/e7dfeca8-f7a0-8354-aa50-8110ecb965a0.png "皇后在林德霍夫宫的楼梯")
+![The empress on the Linderhof staircase](/assets/notion/e7dfeca8-f7a0-8354-aa50-8110ecb965a0.png "The empress on the Linderhof staircase")
 
-![皇后在镜厅右侧移动到左侧，我们看到左侧镜子前的骑马雕像以及象牙吊灯。](/assets/notion/a76feca8-f7a0-8308-a052-812eedaf770f.png "皇后在镜厅右侧移动到左侧，我们看到左侧镜子前的骑马雕像以及象牙吊灯。")
+![The empress moves from right to left in the Hall of Mirrors. We see the equestrian statue before the mirror on the left, and the ivory chandelier.](/assets/notion/a76feca8-f7a0-8308-a052-812eedaf770f.png "The empress moves from right to left in the Hall of Mirrors. We see the equestrian statue before the mirror on the left, and the ivory chandelier.")
 
-![镜厅每个墙都有巨大的镜子，跟拍没有呈示太多水平的细节，摄影机仅仅谨慎地调转方向，避免穿帮。](/assets/notion/bc0feca8-f7a0-8339-9cb8-8179f6681f03.png "镜厅每个墙都有巨大的镜子，跟拍没有呈示太多水平的细节，摄影机仅仅谨慎地调转方向，避免穿帮。")
+![Huge mirrors cover every wall in the Hall of Mirrors. The tracking shot reveals few horizontal details; the camera changes direction cautiously to avoid exposing the crew.](/assets/notion/bc0feca8-f7a0-8339-9cb8-8179f6681f03.png "Huge mirrors cover every wall in the Hall of Mirrors. The tracking shot reveals few horizontal details; the camera changes direction cautiously to avoid exposing the crew.")
 
-走上楼梯，我们首先穿过东/西侧的Gobelin房间，再看到书房、镜厅、卧室等后续的房间。而维斯康蒂再次改变了角色的动线，皇后走上楼梯，径直穿过镜厅，再走进Gobelin房间，然后转身就到了Venus洞窟。
+Climbing the stairs in the actual palace, we first pass through an eastern or western Gobelin Room, then reach the study, Hall of Mirrors, bedroom, and other rooms. Visconti again changes the character's route. The empress climbs the stairs, passes directly through the Hall of Mirrors into the Gobelin Room, then turns and finds herself in the Venus Grotto.
 
-![皇后在Gobelin房间【注5】。Pianino Aeolodikon的黑色纱布对应瓦格纳的逝世。](/assets/notion/fabfeca8-f7a0-82b6-8bde-01d84149287f.png "皇后在Gobelin房间【注5】。Pianino Aeolodikon的黑色纱布对应瓦格纳的逝世。")
+![The empress in the Gobelin Room [Note 5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.](/assets/notion/fabfeca8-f7a0-82b6-8bde-01d84149287f.png "The empress in the Gobelin Room [Note 5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.")
 
-【注5】Gobelin房间为放置法国奢侈品挂毯工坊（Manufacture des Gobelins）产品的房间，通常出现在欧洲17-19世纪的宫殿和豪华建筑。林德霍夫的东、西侧均设置Gobelin房间，不过没有Gobelins挂毯，西侧的Gobelin房间有孔雀瓷饰，还有独特的乐器Pianino Aeolodikon，被称为“音乐室”。
+[Note 5] Gobelin rooms were intended to display products of the French luxury tapestry workshop, the Manufacture des Gobelins, and commonly appear in European palaces and grand buildings of the seventeenth to nineteenth centuries. Linderhof has Gobelin rooms on both its eastern and western sides, although neither contains Gobelins tapestries. The western room, with porcelain peacock ornaments and the unusual Pianino Aeolodikon, is known as the Music Room.
 
-![林德霍夫宫的楼梯](/assets/douban/ludwig/p100734065.webp "林德霍夫宫的楼梯")
+![The staircase at Linderhof](/assets/douban/ludwig/p100734065.webp "The staircase at Linderhof")
 
-![林德霍夫宫的觐见室](/assets/douban/ludwig/p100734335.webp "林德霍夫宫的觐见室")
+![The audience chamber at Linderhof](/assets/douban/ludwig/p100734335.webp "The audience chamber at Linderhof")
 
-![林德霍夫宫的Gobelin房间，室内陈设孔雀雕像以及Pianino Aeolodikon](/assets/douban/ludwig/p100733856.webp "林德霍夫宫的Gobelin房间，室内陈设孔雀雕像以及Pianino Aeolodikon")
+![The Gobelin Room at Linderhof, with a peacock sculpture and the Pianino Aeolodikon](/assets/douban/ludwig/p100733856.webp "The Gobelin Room at Linderhof, with a peacock sculpture and the Pianino Aeolodikon")
 
-![林德霍夫宫镜厅的天花板壁画](/assets/douban/ludwig/p100733978.webp "林德霍夫宫镜厅的天花板壁画")
+![The ceiling fresco in the Hall of Mirrors at Linderhof](/assets/douban/ludwig/p100733978.webp "The ceiling fresco in the Hall of Mirrors at Linderhof")
 
-![林德霍夫宫镜厅的骑马雕像](/assets/douban/ludwig/p100733977.webp "林德霍夫宫镜厅的骑马雕像")
+![The equestrian statue in the Hall of Mirrors at Linderhof](/assets/douban/ludwig/p100733977.webp "The equestrian statue in the Hall of Mirrors at Linderhof")
 
-![林德霍夫宫镜厅的象牙吊灯](/assets/douban/ludwig/p100733972.webp "林德霍夫宫镜厅的象牙吊灯")
+![The ivory chandelier in the Hall of Mirrors at Linderhof](/assets/douban/ludwig/p100733972.webp "The ivory chandelier in the Hall of Mirrors at Linderhof")
 
-### (ii) 海伦基姆宫
+### (ii) Herrenchiemsee Palace
 
-![《城堡之旅》原文配图](/assets/notion/6affeca8-f7a0-8312-8ac5-01bb92822db1.png)
+![Illustration from A Journey Through Castles](/assets/notion/6affeca8-f7a0-8312-8ac5-01bb92822db1.png)
 
-室外给出同样的拍法：雕塑的仰拍特写，而后拉近给出海伦基姆宫的全景，Sissi乘坐的马车从画面右侧进入，再从室外走到室内。前个场景——林德霍夫宫的维纳斯石窟——应景的瓦格纳《唐豪瑟》选段“晚星颂”持续到不知道哪个时刻，连续放完了整首，在此处终止。长长的镜厅走廊足够让维斯康蒂使用大远景镜头表现远处的罗密施耐德，然后影像时间几乎经历了伊丽莎白从一侧走到另一侧的全部时间，跟拍，局部的展示，才静止下来，落到王后满意的特写。
+Outside, the same filming pattern returns: a low-angle close-up of a sculpture, then a movement inward to reveal the whole palace. Sissi's carriage enters from the right, and we pass from outdoors to indoors. The fitting selection from Wagner's *Tannhäuser*, “O du mein holder Abendstern”, continues from the previous scene in Linderhof's Venus Grotto. At some point it has played through in full; it ends here. The long Hall of Mirrors allows Visconti to place Romy Schneider far away in an extreme long shot. Cinematic time then preserves almost the entire duration of Elisabeth's passage from one side to the other. Tracking, partial views, and finally stillness: a close-up of the empress's satisfied face.
 
-![宫殿前的喷泉。](/assets/douban/ludwig/p100734325.webp "宫殿前的喷泉。")
+![The fountain in front of the palace](/assets/douban/ludwig/p100734325.webp "The fountain in front of the palace")
 
-![宫殿门前的景观。](/assets/douban/ludwig/p100734336.webp "宫殿门前的景观。")
+![The view in front of the palace entrance](/assets/douban/ludwig/p100734336.webp "The view in front of the palace entrance")
 
-![《城堡之旅》原文配图](/assets/notion/1a3feca8-f7a0-822e-baf8-81c9a918bd0b.png)
+![Illustration from A Journey Through Castles](/assets/notion/1a3feca8-f7a0-822e-baf8-81c9a918bd0b.png)
 
-![摄影机刻意避开了玻璃顶棚，俯拍的一楼摇到仰拍的二楼，留存住Elisabeth楼梯行走的时间](/assets/notion/974feca8-f7a0-8213-98e0-01f3c9429d16.png "摄影机刻意避开了玻璃顶棚，俯拍的一楼摇到仰拍的二楼，留存住Elisabeth楼梯行走的时间")
+![The camera deliberately avoids the glass roof, panning from a high-angle view of the lower floor to a low-angle view of the upper floor, preserving the time of Elisabeth's ascent.](/assets/notion/974feca8-f7a0-8213-98e0-01f3c9429d16.png "The camera deliberately avoids the glass roof, panning from a high-angle view of the lower floor to a low-angle view of the upper floor, preserving the time of Elisabeth's ascent.")
 
-![如今宫殿的光耀走廊（Prunktreppenshaus），造型源于凡尔赛宫，墙面和地面各种天然和人工大理石的装饰，顶部设计玻璃顶棚结构。](/assets/douban/ludwig/p100734337.webp "如今宫殿的光耀走廊（Prunktreppenshaus），造型源于凡尔赛宫，墙面和地面各种天然和人工大理石的装饰，顶部设计玻璃顶棚结构。")
+![The grand staircase at Herrenchiemsee today, modelled on Versailles. Natural and artificial marble decorate its walls and floors beneath a glass roof.](/assets/douban/ludwig/p100734337.webp "The grand staircase at Herrenchiemsee today, modelled on Versailles. Natural and artificial marble decorate its walls and floors beneath a glass roof.")
 
-![《城堡之旅》原文配图](/assets/notion/f1dfeca8-f7a0-822f-bf84-0186b7b2f838.png)
+![Illustration from A Journey Through Castles](/assets/notion/f1dfeca8-f7a0-822f-bf84-0186b7b2f838.png)
 
-![伊丽莎白从角厅出现，穿过全场98米的镜廊。](/assets/notion/c3ffeca8-f7a0-82f1-b961-01ca5b2f197e.png "伊丽莎白从角厅出现，穿过全场98米的镜廊。")
+![Elisabeth emerges from the corner room and crosses the full 98-metre Hall of Mirrors](/assets/notion/c3ffeca8-f7a0-82f1-b961-01ca5b2f197e.png "Elisabeth emerges from the corner room and crosses the full 98-metre Hall of Mirrors")
 
-![镜廊有35个吊灯和52座烛台，看起来光照充足。](/assets/douban/ludwig/p100734098.webp "镜廊有35个吊灯和52座烛台，看起来光照充足。")
+![With 35 chandeliers and 52 candelabra, the Hall of Mirrors seems abundantly lit](/assets/douban/ludwig/p100734098.webp "With 35 chandeliers and 52 candelabra, the Hall of Mirrors seems abundantly lit")
 
-### (iii) 新天鹅堡
+### (iii) Neuschwanstein Castle
 
-![《城堡之旅》原文配图](/assets/notion/f67feca8-f7a0-8372-9b3b-81c65f1a4ae7.png)
+![Illustration from A Journey Through Castles](/assets/notion/f67feca8-f7a0-8372-9b3b-81c65f1a4ae7.png)
 
-![《城堡之旅》原文配图](/assets/notion/fb1feca8-f7a0-83e5-93d1-81e2471caf2c.png)
+![Illustration from A Journey Through Castles](/assets/notion/fb1feca8-f7a0-83e5-93d1-81e2471caf2c.png)
 
 <p>
-林德霍夫与海伦基姆宫后，维斯康蒂的镜头又跟随Sissi前往新天鹅堡，再次发生同样的动作：仰拍雪山，摆至平视的位置，Sissi乘坐的马车驶入画面。然后伴随着爱之死，影像就像迭奏段落的赋格，再次重复镜头的运动。下马车的中景后省略了第一次走上台阶的动作，摄影机仰拍城堡，Sissi走近，离远，视角缓慢转为平视。 
+After Linderhof and Herrenchiemsee, Visconti's camera follows Sissi to Neuschwanstein. The same movement occurs again: a low-angle view of snowy mountains tilts to eye level, and Sissi's carriage enters the frame. To the Liebestod, the images repeat these camera movements like a fugue of recurring phrases. After a medium shot of her leaving the carriage, the first ascent of the steps is omitted. The camera looks up at the castle. Sissi approaches, moves away, and the perspective slowly becomes level.
 </p>
 
-这次行走的时间还是做了延续，与前2个场景相同，下马车直到登上台阶的整个漫长的时长被保留。而在这皇后的行走的时长中，路德维希的在场为维斯康蒂提供了穿插剪辑宫殿内外的视角。已经入主新天鹅堡的国王透过窗棂看到皇后的这段行走，已经难以忍受现状的不堪，痛苦地拒绝了奥地利皇后的拜访。
+The duration of this walk is again extended. As in the previous two scenes, the entire long stretch from leaving the carriage to climbing the steps is preserved. This time, Ludwig's presence gives Visconti viewpoints for intercutting the palace interior and exterior during the empress's walk. Already living at Neuschwanstein, the king watches her through the window. Unable to bear his circumstances any longer, he painfully refuses the Austrian empress's visit.
 
-然后一次宿醉终于结束了这个冗长的段落，路德维希在Hundinghütte喝的神智不清。这个建于1876年的建筑最初位于Kreuzspitze山下，以瓦格纳《女武神》中Hunding小屋的场景为原型建造。被烧毁后，我们现今只能在林德霍夫宫附近看到Hundinghütte的复制。
+A drunken episode finally ends this lengthy passage. Ludwig drinks himself insensible in the Hundinghütte. Built in 1876, originally at the foot of the Kreuzspitze, this structure was modelled on Hunding's hut in Wagner's *Die Walküre*. After its destruction by fire, only a replica near Linderhof can be seen today.
 
-![路德维希在Hunding小屋](/assets/notion/ef7feca8-f7a0-83e3-807c-01b327c9be92.png "路德维希在Hunding小屋")
+![Ludwig in Hunding's hut](/assets/notion/ef7feca8-f7a0-83e3-807c-01b327c9be92.png "Ludwig in Hunding's hut")
 
-![Hundinghütte的复制](/assets/notion/0b5feca8-f7a0-8392-9116-016f3acd084d.png "Hundinghütte的复制")
+![The replica Hundinghütte](/assets/notion/0b5feca8-f7a0-8392-9116-016f3acd084d.png "The replica Hundinghütte")
 
-![到访新天鹅堡的天气与维斯康蒂拍摄的时间差不多，冬天的树枝干秃，雪初晴后地上的积雪已被清理。空中漂浮着雾气，游客很多。](/assets/douban/ludwig/p100734333.webp "到访新天鹅堡的天气与维斯康蒂拍摄的时间差不多，冬天的树枝干秃，雪初晴后地上的积雪已被清理。空中漂浮着雾气，游客很多。")
+![The weather during my visit to Neuschwanstein resembled that of Visconti's shoot: bare winter branches and cleared snow after the sky had brightened. Mist hung in the air, and there were many tourists.](/assets/douban/ludwig/p100734333.webp "The weather during my visit to Neuschwanstein resembled that of Visconti's shoot: bare winter branches and cleared snow after the sky had brightened. Mist hung in the air, and there were many tourists.")
 
-![新天鹅堡冬日景色](/assets/douban/ludwig/p100734338.webp "新天鹅堡冬日景色")
+![Neuschwanstein in winter](/assets/douban/ludwig/p100734338.webp "Neuschwanstein in winter")
 
-![路德维希在梳妆室的场景（1）](/assets/notion/402feca8-f7a0-8346-8cd4-010cf3b031e0.png "路德维希在梳妆室的场景（1）")
+![Ludwig in the dressing room (1)](/assets/notion/402feca8-f7a0-8346-8cd4-010cf3b031e0.png "Ludwig in the dressing room (1)")
 
-![路德维希在会客室的场景，敞开的门之后可以看到国王书房与会客室之间的戏剧的石窟景观空间。](/assets/notion/37efeca8-f7a0-8375-bb9a-8105944bdb72.png "路德维希在会客室的场景，敞开的门之后可以看到国王书房与会客室之间的戏剧的石窟景观空间。")
+![Ludwig in the sitting room. Beyond the open door, the theatrical grotto between the king's study and sitting room is visible.](/assets/notion/37efeca8-f7a0-8375-bb9a-8105944bdb72.png "Ludwig in the sitting room. Beyond the open door, the theatrical grotto between the king's study and sitting room is visible.")
 
-![保存至今的人工石窟景观，设计灵感为唐豪瑟的Hörselberg场景。](/assets/notion/0e1feca8-f7a0-831d-9d25-011c7ea6e3a6.png "保存至今的人工石窟景观，设计灵感为唐豪瑟的Hörselberg场景。")
+![The surviving artificial grotto, inspired by the Hörselberg scene in Tannhäuser](/assets/notion/0e1feca8-f7a0-831d-9d25-011c7ea6e3a6.png "The surviving artificial grotto, inspired by the Hörselberg scene in Tannhäuser")
 
-![路德维希在会客室的场景（2），画面最左侧为前文提及的理查德·霍尼格。](/assets/notion/d8bfeca8-f7a0-832c-a19d-01b04b862355.png "路德维希在会客室的场景（2），画面最左侧为前文提及的理查德·霍尼格。")
+![Ludwig in the sitting room (2). Richard Hornig, mentioned earlier, stands at the far left.](/assets/notion/d8bfeca8-f7a0-832c-a19d-01b04b862355.png "Ludwig in the sitting room (2). Richard Hornig, mentioned earlier, stands at the far left.")
 
-![保存至今的会客室，L形会客室的凹槽处以柱子与房间其他部分隔开。壁绘与壁炉的陶瓷装饰为罗恩格林的故事形象，蓝色丝绸制成的窗帘绣有天鹅和百合花，还有天鹅形状的花盆。](/assets/notion/1d0feca8-f7a0-8260-afb0-0170c8aa2228.png "保存至今的会客室，L形会客室的凹槽处以柱子与房间其他部分隔开。壁绘与壁炉的陶瓷装饰为罗恩格林的故事形象，蓝色丝绸制成的窗帘绣有天鹅和百合花，还有天鹅形状的花盆。")
+![The surviving sitting room. Columns separate an alcove from the rest of the L-shaped room. The wall paintings and ceramic fireplace ornaments depict Lohengrin. Swans and lilies are embroidered on the blue silk curtains, and there are swan-shaped planters.](/assets/notion/1d0feca8-f7a0-8260-afb0-0170c8aa2228.png "The surviving sitting room. Columns separate an alcove from the rest of the L-shaped room. The wall paintings and ceramic fireplace ornaments depict Lohengrin. Swans and lilies are embroidered on the blue silk curtains, and there are swan-shaped planters.")
 
-王室成员抵达高天鹅堡，路德维希困在新天鹅堡，变为瓦格纳的囚徒。阴暗的雨夜，游离的状态下，场景诡异地将角色围住，无法逃脱泥淖。路德维希被重新带到施塔恩贝格湖，影片在那里结束。
+The royal family arrives at Hohenschwangau. Ludwig remains trapped in Neuschwanstein, a prisoner of Wagner. On a dark, rainy night, in a state of estrangement, the setting eerily closes around him. There is no escaping the mire. Ludwig is taken back to Lake Starnberg, where the film ends.
 
-![王室成员在高天鹅堡的场景](/assets/notion/8ecfeca8-f7a0-83f9-a5e4-8160838ad1d9.png "王室成员在高天鹅堡的场景")
+![The royal family at Hohenschwangau](/assets/notion/8ecfeca8-f7a0-83f9-a5e4-8160838ad1d9.png "The royal family at Hohenschwangau")
 
-![高天鹅堡外景](/assets/douban/ludwig/p100734285.webp "高天鹅堡外景")
+![Exterior of Hohenschwangau](/assets/douban/ludwig/p100734285.webp "Exterior of Hohenschwangau")
 
-![高天鹅堡内景](/assets/notion/bb3feca8-f7a0-82f8-ba57-01900ae0afeb.png "高天鹅堡内景")
+![Interior of Hohenschwangau](/assets/notion/bb3feca8-f7a0-82f8-ba57-01900ae0afeb.png "Interior of Hohenschwangau")
 
-![路德维希在梳妆室的场景（2）](/assets/notion/9b9feca8-f7a0-826a-a6fd-01d0655efd43.png "路德维希在梳妆室的场景（2）")
+![Ludwig in the dressing room (2)](/assets/notion/9b9feca8-f7a0-826a-a6fd-01d0655efd43.png "Ludwig in the dressing room (2)")
 
-![新天鹅堡的梳妆室，紫色丝绸制成的座套和窗帘以金色丝线刺绣着叶子、卷须和成对孔雀等装饰图案。](/assets/notion/ac6feca8-f7a0-8304-a1e4-014ec7722bc2.png "新天鹅堡的梳妆室，紫色丝绸制成的座套和窗帘以金色丝线刺绣着叶子、卷须和成对孔雀等装饰图案。")
+![The dressing room at Neuschwanstein. Purple silk covers and curtains are embroidered in gold thread with leaves, tendrils, and pairs of peacocks.](/assets/notion/ac6feca8-f7a0-8304-a1e4-014ec7722bc2.png "The dressing room at Neuschwanstein. Purple silk covers and curtains are embroidered in gold thread with leaves, tendrils, and pairs of peacocks.")
 
-![路德维希在卧室的场景](/assets/notion/275feca8-f7a0-8364-a220-815c46761e70.png "路德维希在卧室的场景")
+![Ludwig in the bedroom](/assets/notion/275feca8-f7a0-8364-a220-815c46761e70.png "Ludwig in the bedroom")
 
-![新天鹅堡的路德维希二世卧室，壁绘与壁炉的陶瓷装饰为特里斯坦与伊索尔德的故事形象。新哥特式风格的床和座椅为蓝色丝绸，有刺绣的狮子、天鹅、百合和国徽图案。](/assets/notion/72ffeca8-f7a0-8337-8d9c-81008dd6e10e.png "新天鹅堡的路德维希二世卧室，壁绘与壁炉的陶瓷装饰为特里斯坦与伊索尔德的故事形象。新哥特式风格的床和座椅为蓝色丝绸，有刺绣的狮子、天鹅、百合和国徽图案。")
+![Ludwig II's bedroom at Neuschwanstein. Wall paintings and ceramic fireplace ornaments depict Tristan und Isolde. The Gothic Revival bed and chairs are covered in blue silk embroidered with lions, swans, lilies, and coats of arms.](/assets/notion/72ffeca8-f7a0-8337-8d9c-81008dd6e10e.png "Ludwig II's bedroom at Neuschwanstein. Wall paintings and ceramic fireplace ornaments depict Tristan und Isolde. The Gothic Revival bed and chairs are covered in blue silk embroidered with lions, swans, lilies, and coats of arms.")
 
-![王室成员在王座大厅的场景](/assets/notion/60afeca8-f7a0-8341-b625-014a79cf9c80.png "王室成员在王座大厅的场景")
+![The royal family in the Throne Hall](/assets/notion/60afeca8-f7a0-8341-b625-014a79cf9c80.png "The royal family in the Throne Hall")
 
-![新天鹅堡的王座大厅，影片的俯拍视角甚至高于四米高的吊灯，占据了宫殿的三楼和四楼以及整个西段。我们看到地板与天花板对于世界的象征描绘。](/assets/notion/0e8feca8-f7a0-8235-8657-81db52d7d315.png "新天鹅堡的王座大厅，影片的俯拍视角甚至高于四米高的吊灯，占据了宫殿的三楼和四楼以及整个西段。我们看到地板与天花板对于世界的象征描绘。")
+![The Throne Hall at Neuschwanstein occupies the third and fourth storeys and the entire western section of the palace. The film's high-angle view is even higher than the four-metre chandelier. The floor and ceiling depict the world.](/assets/notion/0e8feca8-f7a0-8235-8657-81db52d7d315.png "The Throne Hall at Neuschwanstein occupies the third and fourth storeys and the entire western section of the palace. The film's high-angle view is even higher than the four-metre chandelier. The floor and ceiling depict the world.")
 
-除了以特里斯坦与伊索尔德装饰的卧室和以罗恩格林装饰的会客厅，国王的书房以唐豪瑟的故事场景装饰，以及整个宫殿豪华的空间，均以瓦格纳的歌剧场景为装饰的灵感。瓦格纳的幽灵如同鬼魅，穿梭在影像的建筑无法散去。
+Alongside the bedroom decorated with *Tristan und Isolde* and the sitting room with *Lohengrin*, the king's study is adorned with scenes from *Tannhäuser*. Throughout the palace's luxurious spaces, Wagner's operas provide the decorative inspiration. His ghost haunts the architecture of the images, unable to depart.
 
-2024年11月 - 2025年3月
+November 2024 – March 2025

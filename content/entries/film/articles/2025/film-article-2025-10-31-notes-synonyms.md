@@ -1,13 +1,13 @@
 ---
-title: 笔记：同义词
+title: "Notes: Synonyms"
 slug: film-article-2025-10-31-notes-synonyms
 aliases:
   - notes-synonyms
 publicationDate: 2025-10-31
-excerpt: 校对了武汉放映的字幕，然后在武汉的china premiere上第二次看了《是的》。
+excerpt: "After proofreading the subtitles for the Wuhan screening, I watched Yes for a second time at its Chinese premiere there."
 draft: false
 featured: false
-language: zh-CN
+language: en
 metadata:
   Film: |-
     Yes
@@ -19,6 +19,6 @@ longform: true
 rating:
 ---
 
-校对了武汉放映的字幕，然后在武汉的china premiere上第二次看了《是的》。开头进行一个song battle，一边是快节拍的be my lover，另一边是慢节拍的love me tender love me true，都是关于love的音乐，却很有攻击性。第一部分就在这个song battle的节奏中进行，有些适当的改变，比如客厅的那场戏，关系个人和关系集体的意识，一会是愤怒地跳舞，一会是聆听沉默。就像加沙的炮火同时存在于身体内部和周围的环境之中。还有Y在街头看全民服兵役的以色列公民街头健身，而他坐在长椅上抬头透过树叶看太阳。然后他去健身房看Yasmin跳舞，自己躲在房间弹钢琴。拉皮德生猛的影像风格用在了合适的地方，摄影机可以水平旋转，可以竖直翻转，疯狂可以随时插入悲伤，悲伤也可以随时插入疯狂。第一次看的时候，被那些慢下来进行叙述的段落塞满了情绪，第二次看又是在每次发疯、狂躁的地方想落泪，因为每一次发疯都在反刍那些静默的部分，简直要精神分裂。
+After proofreading the subtitles for the Wuhan screening, I watched *Yes* for a second time at its Chinese premiere there. It begins with a song battle: the fast beat of “Be My Lover” on one side, the slow “Love Me Tender, Love Me True” on the other. Both are songs about love, yet both feel intensely aggressive. The first part unfolds to the rhythm of this battle, with occasional variations. The living-room scene, for instance, moves between individual and collective consciousness, between furious dancing and silent listening. It is as though the shelling of Gaza exists both inside the body and in the surrounding environment. Then there is Y watching Israeli citizens, all subject to military service, exercising in the street, while he sits on a bench and looks up at the sun through the leaves. He goes to the gym to watch Yasmin dance, then hides away in a room to play the piano. Lapid's ferocious visual style finds its proper place here. The camera can spin horizontally or flip vertically; madness can interrupt sorrow at any moment, and sorrow can interrupt madness. On my first viewing, the slower passages of narration overwhelmed me with emotion. On the second, it was every outburst of mania and frenzy that made me want to cry, because each one was chewing over those moments of silence. It almost splits the mind in two.
 
-第二部分“寻找答案”的动线比较明确以后，这个节奏就被放缓了。Y说“勇敢的是说出Yes而不是No”的时候语气是比较确定的，不过这个二元的、Yes和No的怀疑还是贯穿了始终。开头的song battle选择让参谋长赢就是一次确认，以及Y问刚出生的儿子怎么选，问打印店的店员Yes还是No（答案竟然是amen），经过哨站的士兵，都得到了不同的答案。这些地方问得比较抽象，而和Avinoam在游艇上、和Leah在车上的提问则更加具体，抽象和具体的“问”是互相穿插的。只要一开始行走影片就在对抗撕裂，比如献出舌头的动作，给权力舔脚是yes，激吻是no。可以看到一个绝望的摇摆，好像支持战争的哪一方都在支持恐怖，Yes和No变成了同义词。
+Once the second part establishes the clearer trajectory of “searching for answers”, this rhythm slows down. Y sounds fairly certain when he says that saying Yes, rather than No, takes courage, yet doubt about this binary, about Yes and No, runs through the entire film. Letting the chief of staff win the opening song battle is already one such affirmation. Y asks his newborn son what he would choose, asks the print-shop employee Yes or No—the answer, unexpectedly, is amen—and asks the soldiers at a checkpoint. Each gives a different answer. These questions are relatively abstract, while those addressed to Avinoam on the yacht and Leah in the car are more specific. Abstract and concrete acts of questioning alternate. As soon as the journey begins, the film struggles against this tearing apart. Take the act of offering one's tongue: licking the feet of power is yes; a passionate kiss is no. A desperate oscillation becomes visible, as though supporting either side of the war means supporting terror. Yes and No become synonyms.
