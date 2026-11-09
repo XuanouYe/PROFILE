@@ -12,7 +12,7 @@ function render() {
   rows.forEach(row => { row.hidden = !shown.has(row.dataset.slug); });
   document.querySelectorAll('[data-year-group]').forEach(group => { group.hidden = ![...group.querySelectorAll('[data-slug]')].some(row=>!row.hidden); });
   count.textContent = `${shown.size} ${shown.size === 1 ? 'entry' : 'entries'}`;
-  active.textContent = [state.subject || 'All subjects',state.year || 'All years',state.q ? `Search: “${state.q}”` : ''].filter(Boolean).join(' / ');
+  active.textContent = [state.subject || 'All subjects',state.year || 'All years',state.q ? `Search: "${state.q}"` : ''].filter(Boolean).join(' / ');
   document.querySelector('#empty-state').hidden = shown.size !== 0;
   document.querySelector('#reset').hidden = !Object.values(state).some(Boolean);
 }

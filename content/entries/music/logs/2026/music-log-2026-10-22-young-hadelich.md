@@ -19,7 +19,7 @@ metadata:
     
     Felix Mendelssohn：Violin Concerto in E minor, Op. 64（Violin: Augustin Hadelich）
     
-    Anton Bruckner：Symphony in F minor, WAB 99, “Studiensymphonie”（No. 00）
+    Anton Bruckner：Symphony in F minor, WAB 99, "Studiensymphonie"（No. 00）
   Conductor: Simone Young
   Orchestra: Symphonieorchester des Bayerischen Rundfunks
   Venue: Herkulessaal
