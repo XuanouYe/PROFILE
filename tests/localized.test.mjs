@@ -8,6 +8,24 @@ import {matches} from '../public/archive-core.js';
 
 const entry={title:'中文标题',slug:'chinese-article',excerpt:'中文摘要',publicationDate:'2025-10-31',longform:true,subject:'film',language:'zh-CN',draft:false,body:'这是中文正文。',english:null};
 const url=p=>'/PROFILE'+p;
+test('footnotes link body and caption references to formatted endnotes with return links',()=>{
+  const noted={...entry,body:'Text[^4], repeated[^4].\n\n![A view[^5]](/assets/view.png "A caption[^5].")\n\n[^4]: A note with *emphasis* and [a source](https://example.com).\n\n[^5]: A caption note.'};
+  const html=localizedEntry(noted,'en',[noted],url);
+  assert.match(html,/id="note-ref-4-1" href="#note-4"/);
+  assert.match(html,/id="note-ref-4-2" href="#note-4"/);
+  assert.match(html,/<figcaption>A caption<sup class="note-ref"><a id="note-ref-5-1"/);
+  assert.match(html,/alt="A view"/);
+  assert.match(html,/<li id="note-4" value="4" tabindex="-1"><p>A note with <em>emphasis<\/em>/);
+  assert.match(html,/href="#note-ref-4-1" role="doc-backlink"/);
+  assert.match(html,/href="#note-ref-4-2" role="doc-backlink"/);
+  assert.match(html,/href="#note-ref-5-1" role="doc-backlink"/);
+  assert.ok(!html.includes('[^'));
+  assert.ok(html.indexOf('article-notes')>html.indexOf('</figure>'));
+  const plain=localizedEntry({...entry,body:'Undefined[^9]. `Literal[^4]`\n\n[^4]: Unused note.'},'en',[entry],url);
+  assert.match(plain,/Undefined\[\^9\]/);
+  assert.match(plain,/<code>Literal\[\^4\]<\/code>/);
+  assert.ok(!plain.includes('doc-endnotes'));
+});
 test('metadata-only music logs allow an empty review and retain programme, date and rating',()=>{
   const log={...entry,subject:'music',medium:'live',longform:false,excerpt:'',body:'',rating:3.5,metadata:{Programme:'Robert Schumann：Cello Concerto in A minor, Op. 129（Cello: Pablo Ferrández）','Performance date':'2026-10-30',Venue:'Konzerthaus Berlin'}};
   assert.doesNotThrow(()=>validate(log,'metadata-only log'));

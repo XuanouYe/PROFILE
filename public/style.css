@@ -84,3 +84,16 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 @media (max-width: 540px) {
   .details-list .detail-item { grid-template-columns: 105px minmax(0, 1fr); }
 }
+.prose .note-ref{font-family:var(--sans);font-size:.65em;line-height:0;vertical-align:super;white-space:nowrap;margin-left:.12em}
+.note-ref a{color:var(--green);text-decoration:none;padding:4px 3px;scroll-margin-top:80px}
+.note-ref a:hover{text-decoration:underline}
+.note-ref a:target{outline:2px solid var(--green);outline-offset:3px}
+.prose .article-notes{margin-top:56px;padding-top:24px;border-top:1px solid var(--divider);font-size:15px;line-height:1.8;color:var(--muted)}
+.prose .article-notes h2{font-family:var(--sans);font-size:13px;letter-spacing:.08em;text-transform:uppercase;margin:0 0 20px;color:var(--ink)}
+.article-notes ol{margin:0;padding-left:1.6em}
+.article-notes li{padding:8px 12px 8px 6px;scroll-margin-top:32px;border-radius:3px}
+.article-notes li::marker{font-family:var(--sans);font-size:12px;color:var(--green)}
+.article-notes li:target{background:var(--wash);outline:1px solid var(--divider)}
+.prose .article-notes p{margin:0}
+.note-returns{white-space:nowrap}
+.note-return{display:inline-block;padding:2px 6px;color:var(--green);text-decoration:none;font-family:var(--sans);font-size:13px}

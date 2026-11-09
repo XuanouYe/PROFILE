@@ -41,9 +41,7 @@ Before the first interlude in which an actor addresses the audience directly, Vi
 
 ![Long view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733225.webp "Long view of the Kaiservilla in Bad Ischl")
 
-The events in this act offer only limited views of their settings, perhaps serving as visual cues that introduce themes to be developed there later. Through them, Visconti establishes his characters brilliantly. Dialogue efficiently supplies the background of Elisabeth and Richard Wagner at this point in the timeline. The young empress, weary of court life [Note 1], has already made the famous journey to Greece depicted in *Sissi: The Fateful Years of an Empress*. Wagner has completed *Tristan und Isolde* in Switzerland and is preparing for its premiere in Bavaria, six years late. Within this long production, two or three scenes swiftly establish these figures. Their words sketch their personalities and temperaments, those two entirely different forms of pride that Ludwig admires.
-
-[Note 1] This article uses "king" for Ludwig in his capacity as King of Bavaria, and “empress” for Elisabeth as the wife of Franz, Emperor of Austria, to distinguish their respective powers and domains.
+The events in this act offer only limited views of their settings, perhaps serving as visual cues that introduce themes to be developed there later. Through them, Visconti establishes his characters brilliantly. Dialogue efficiently supplies the background of Elisabeth and Richard Wagner at this point in the timeline. The young empress, weary of court life [^1], has already made the famous journey to Greece depicted in *Sissi: The Fateful Years of an Empress*. Wagner has completed *Tristan und Isolde* in Switzerland and is preparing for its premiere in Bavaria, six years late. Within this long production, two or three scenes swiftly establish these figures. Their words sketch their personalities and temperaments, those two entirely different forms of pride that Ludwig admires.
 
 ![Illustration from A Journey Through Castles](/assets/notion/b47feca8-f7a0-82d0-8432-01848a405ae7.png)
 
@@ -107,9 +105,7 @@ Some events in the second half also take place here. More characters fill the sp
 
 ![Illustration from A Journey Through Castles](/assets/notion/ee2feca8-f7a0-82f2-a389-011bef3b7f21.png)
 
-<p>
 To close this section on the Residenz, a brief mention of the Cuvilliés Theatre, situated between the palace and the court gardens. It still hosts performances and opens to tourists at specified times in the afternoon. In the film, Joseph Kainz performs Romeo and Juliet here and wins Ludwig's admiration.
-</p>
 
 ![Joseph Kainz backstage at the Cuvilliés Theatre](/assets/notion/377feca8-f7a0-8354-9770-819030b0c62a.png "Joseph Kainz backstage at the Cuvilliés Theatre")
 
@@ -121,9 +117,7 @@ Before this scene, Wagner plays for his wife at Tribschen in Switzerland, after 
 
 Whether or not Visconti intended it, after the first act the Wagner and Sissi themes clearly develop inside and outside the Residenz respectively, even where historical events correspond. This creates a slight temporal displacement from the guards' comprehensive accounts addressed to the audience during the interludes. Their words tell us that Ludwig returned from Bad Ischl to Munich immediately after Wagner's arrival, yet the images linger with Sissi, developing two important occasions on which Elisabeth tries to bring Ludwig and Princess Sophie together, first privately and then publicly. The film even passes over the premiere of *Tristan und Isolde*, an important milestone, arranging a meeting between Ludwig and Elisabeth on Rose Island around her absence from that event.
 
-Munich to Salzburg takes about two hours by train. Another hour and a half by bus from Salzburg station brings us to Bad Ischl and the Kaiservilla, now open to the public as a historical museum. The villa scenes were filmed in winter, with snow covering the lawn in front of the palace. I visited Austria in similar winter conditions [Note 2], although the snow had been cleared. The town quietly preserves the scenery familiar from the *Sissi* films.
-
-[Note 2] Unfortunately, the fountains in front of the Kaiservilla, like those at the other royal palaces around Munich, are covered with wooden boards for winter maintenance, perhaps to protect them from snowmelt. We therefore cannot see the sculptures shown in the film. Readers wishing to see the complete palace views familiar from the film and promotional brochures might consider visiting in summer.
+Munich to Salzburg takes about two hours by train. Another hour and a half by bus from Salzburg station brings us to Bad Ischl and the Kaiservilla, now open to the public as a historical museum. The villa scenes were filmed in winter, with snow covering the lawn in front of the palace. I visited Austria in similar winter conditions [^2], although the snow had been cleared. The town quietly preserves the scenery familiar from the *Sissi* films.
 
 ![Illustration from A Journey Through Castles](/assets/notion/e89feca8-f7a0-8330-a4bf-018bc29c1344.png)
 
@@ -135,9 +129,7 @@ Munich to Salzburg takes about two hours by train. Another hour and a half by bu
 
 ![Long view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733462.webp "Long view of the Kaiservilla in Bad Ischl")
 
-![View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [Note 3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.](/assets/douban/ludwig/p100733476.webp "View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [Note 3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.")
-
-[Note 3] *Tristan und Isolde* premiered in 1865, while the fountain was built in 1884. Many of these buildings had not yet assumed their final form at the time of the story. Visconti's decision to film on location therefore produces some historical inaccuracies.
+![View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [^3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.](/assets/douban/ludwig/p100733476.webp "View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [^3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.")
 
 ![The thief sculpture temporarily enclosed in wooden boards](/assets/douban/ludwig/p100733477.webp "The thief sculpture temporarily enclosed in wooden boards")
 
@@ -186,7 +178,6 @@ As the empress approaches the island, we hear rowing and the faint sound of wate
 ![Ludwig and Elisabeth outside the king's cottage on Rose Island](/assets/notion/5c8feca8-f7a0-831b-8d0b-8161ae96d3a1.png "Ludwig and Elisabeth outside the king's cottage on Rose Island")
 
 ![Elisabeth inside the king's cottage on Rose Island. Visitors cannot enter the cottage today.](/assets/notion/e22feca8-f7a0-8397-92d1-816251bc5ae2.png "Elisabeth inside the king's cottage on Rose Island. Visitors cannot enter the cottage today.")
-
 
 After this scene, Ludwig returns to the Residenz to discuss the Bayreuth theatre with Wagner. Rose Island next appears years after Wagner's departure, around scene twenty-six, after his return to court and meeting with the betrothed princess. Richard Hornig, the attendant who has replaced Volk, first appears in an interlude explaining his relationship with the king. The two reach the island by steamboat, unlike the rowboat that brought the empress earlier, and the interior of the king's cottage opens up further.
 
@@ -320,9 +311,7 @@ Joseph Kainz accompanies Ludwig to Linderhof, giving us our first view of its in
 
 ![Illustration from A Journey Through Castles](/assets/notion/6b4feca8-f7a0-8314-9461-01068779603b.png)
 
-The film shifts space deftly, introducing another spatial discrepancy. After Ludwig moves from the carriage into Linderhof, the camera cuts to the Venus Grotto behind the palace. The characters appear there to the strings' rendering of "O du mein holder Abendstern" from *Tannhäuser* [Note 4]. We see an artificial stalactite cave unprecedented in its time, inspired by Wagner's *Tannhäuser*. Ludwig also installed an additional electricity supply to provide coloured lighting. He appears rowing on the grotto's pool. A dangerous, extravagant, distorted artistic idealism reaches its apex.
-
-[Note 4] The actual Venus Grotto is behind the palace; reaching its entrance requires an uphill walk. It has been under restoration since 2017 to address its electricity supply, water erosion, and cave-dwelling creatures such as bats. It reopens to the public in summer 2025.
+The film shifts space deftly, introducing another spatial discrepancy. After Ludwig moves from the carriage into Linderhof, the camera cuts to the Venus Grotto behind the palace. The characters appear there to the strings' rendering of "O du mein holder Abendstern" from *Tannhäuser* [^4]. We see an artificial stalactite cave unprecedented in its time, inspired by Wagner's *Tannhäuser*. Ludwig also installed an additional electricity supply to provide coloured lighting. He appears rowing on the grotto's pool. A dangerous, extravagant, distorted artistic idealism reaches its apex.
 
 ![Empress Elisabeth visits the Venus Grotto and even sees swans inside](/assets/notion/f55feca8-f7a0-8289-8726-01a6ea36ca50.png "Empress Elisabeth visits the Venus Grotto and even sees swans inside")
 
@@ -364,9 +353,7 @@ Sissi reaches Linderhof during the day, giving us winter daylight. After pausing
 
 Climbing the stairs in the actual palace, we first pass through an eastern or western Gobelin Room, then reach the study, Hall of Mirrors, bedroom, and other rooms. Visconti again changes the character's route. The empress climbs the stairs, passes directly through the Hall of Mirrors into the Gobelin Room, then turns and finds herself in the Venus Grotto.
 
-![The empress in the Gobelin Room [Note 5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.](/assets/notion/fabfeca8-f7a0-82b6-8bde-01d84149287f.png "The empress in the Gobelin Room [Note 5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.")
-
-[Note 5] Gobelin rooms were intended to display products of the French luxury tapestry workshop, the Manufacture des Gobelins, and commonly appear in European palaces and grand buildings of the seventeenth to nineteenth centuries. Linderhof has Gobelin rooms on both its eastern and western sides, although neither contains Gobelins tapestries. The western room, with porcelain peacock ornaments and the unusual Pianino Aeolodikon, is known as the Music Room.
+![The empress in the Gobelin Room [^5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.](/assets/notion/fabfeca8-f7a0-82b6-8bde-01d84149287f.png "The empress in the Gobelin Room [^5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.")
 
 ![The staircase at Linderhof](/assets/douban/ludwig/p100734065.webp "The staircase at Linderhof")
 
@@ -408,9 +395,7 @@ Outside, the same filming pattern returns: a low-angle close-up of a sculpture, 
 
 ![Illustration from A Journey Through Castles](/assets/notion/fb1feca8-f7a0-83e5-93d1-81e2471caf2c.png)
 
-
 After Linderhof and Herrenchiemsee, Visconti's camera follows Sissi to Neuschwanstein. The same movement occurs again: a low-angle view of snowy mountains tilts to eye level, and Sissi's carriage enters the frame. To the Liebestod, the images repeat these camera movements like a fugue of recurring phrases. After a medium shot of her leaving the carriage, the first ascent of the steps is omitted. The camera looks up at the castle. Sissi approaches, moves away, and the perspective slowly becomes level.
-
 
 The duration of this walk is again extended. As in the previous two scenes, the entire long stretch from leaving the carriage to climbing the steps is preserved. This time, Ludwig's presence gives Visconti viewpoints for intercutting the palace interior and exterior during the empress's walk. Already living at Neuschwanstein, the king watches her through the window. Unable to bear his circumstances any longer, he painfully refuses the Austrian empress's visit.
 
@@ -455,3 +440,13 @@ The royal family arrives at Hohenschwangau. Ludwig remains trapped in Neuschwans
 ![The Throne Hall at Neuschwanstein occupies the third and fourth storeys and the entire western section of the palace. The film's high-angle view is even higher than the four-metre chandelier. The floor and ceiling depict the world.](/assets/notion/0e8feca8-f7a0-8235-8657-81db52d7d315.png "The Throne Hall at Neuschwanstein occupies the third and fourth storeys and the entire western section of the palace. The film's high-angle view is even higher than the four-metre chandelier. The floor and ceiling depict the world.")
 
 Alongside the bedroom decorated with *Tristan und Isolde* and the sitting room with *Lohengrin*, the king's study is adorned with scenes from *Tannhäuser*. Throughout the palace's luxurious spaces, Wagner's operas provide the decorative inspiration. His ghost haunts the architecture of the images, unable to depart.
+
+[^1]: This article uses "king" for Ludwig in his capacity as King of Bavaria, and "empress" for Elisabeth as the wife of Franz, Emperor of Austria, to distinguish their respective powers and domains.
+
+[^2]: Unfortunately, the fountains in front of the Kaiservilla, like those at the other royal palaces around Munich, are covered with wooden boards for winter maintenance, perhaps to protect them from snowmelt. We therefore cannot see the sculptures shown in the film. Readers wishing to see the complete palace views familiar from the film and promotional brochures might consider visiting in summer.
+
+[^3]: *Tristan und Isolde* premiered in 1865, while the fountain was built in 1884. Many of these buildings had not yet assumed their final form at the time of the story. Visconti's decision to film on location therefore produces some historical inaccuracies.
+
+[^4]: The actual Venus Grotto is behind the palace; reaching its entrance requires an uphill walk. It has been under restoration since 2017 to address its electricity supply, water erosion, and cave-dwelling creatures such as bats. It reopens to the public in summer 2025.
+
+[^5]: Gobelin rooms were intended to display products of the French luxury tapestry workshop, the Manufacture des Gobelins, and commonly appear in European palaces and grand buildings of the seventeenth to nineteenth centuries. Linderhof has Gobelin rooms on both its eastern and western sides, although neither contains Gobelins tapestries. The western room, with porcelain peacock ornaments and the unusual Pianino Aeolodikon, is known as the Music Room.
