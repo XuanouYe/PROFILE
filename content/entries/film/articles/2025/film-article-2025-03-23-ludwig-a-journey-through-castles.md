@@ -456,5 +456,3 @@ The royal family arrives at Hohenschwangau. Ludwig remains trapped in Neuschwans
 ![The Throne Hall at Neuschwanstein occupies the third and fourth storeys and the entire western section of the palace. The film's high-angle view is even higher than the four-metre chandelier. The floor and ceiling depict the world.](/assets/notion/0e8feca8-f7a0-8235-8657-81db52d7d315.png "The Throne Hall at Neuschwanstein occupies the third and fourth storeys and the entire western section of the palace. The film's high-angle view is even higher than the four-metre chandelier. The floor and ceiling depict the world.")
 
 Alongside the bedroom decorated with *Tristan und Isolde* and the sitting room with *Lohengrin*, the king's study is adorned with scenes from *Tannhäuser*. Throughout the palace's luxurious spaces, Wagner's operas provide the decorative inspiration. His ghost haunts the architecture of the images, unable to depart.
-
-November 2024 – March 2025
