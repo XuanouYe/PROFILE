@@ -5,7 +5,6 @@ aliases:
   - music-2026-11-05-poga-mueller-schott
 publicationDate: 2026-11-05
 experienceDate: 2026-11-05
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

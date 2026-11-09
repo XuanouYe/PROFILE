@@ -3,7 +3,6 @@ title: Freiburger Barockorchester | Gottfried von der Goltz
 slug: music-log-2025-02-17-freiburger-barockorchester-vivaldi
 publicationDate: 2025-02-17
 experienceDate: 2025-02-17
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

@@ -5,7 +5,6 @@ aliases:
   - music-2026-10-15-rakitina-moreau
 publicationDate: 2026-10-15
 experienceDate: 2026-10-15
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

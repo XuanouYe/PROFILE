@@ -3,7 +3,6 @@ title: Hung-Kuan Chen | Piano Recital
 slug: music-log-2025-10-07-hung-kuan-chen-recital
 publicationDate: 2025-10-07
 experienceDate: 2025-10-07
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

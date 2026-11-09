@@ -5,7 +5,6 @@ aliases:
   - music-2026-10-10-metzmacher-psalms
 publicationDate: 2026-10-10
 experienceDate: 2026-10-10
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

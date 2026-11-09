@@ -36,7 +36,8 @@ test('search covers creator and ignores accents; invalid filter values normalize
 });
 test('content schema rejects bad dates, slugs, subjects and broken field types',()=>{
   const good = entries[0];
-  for(const change of [{publicationDate:'2026-02-30'},{slug:'../unsafe'},{subject:['film','opera']},{subject:'Books'},{format:'Review'},{draft:'false'},{featured:'true'},{experienceDate:'2026-10-10',experienceLabel:undefined},{related:'slug'},{metadata:{cast:{}}}]) assert.throws(()=>validate({...good,...change},'test'));
+  assert.doesNotThrow(()=>validate({...good,experienceDate:'2026-10-10'},'test'));
+  for(const change of [{publicationDate:'2026-02-30'},{slug:'../unsafe'},{subject:['film','opera']},{subject:'Books'},{format:'Review'},{draft:'false'},{featured:'true'},{experienceDate:'2026-02-30'},{related:'slug'},{metadata:{cast:{}}}]) assert.throws(()=>validate({...good,...change},'test'));
 });
 test('draft exclusion, ordering, dates, and explicit relationships',()=>{
   assert.ok(!entries.some(e=>e.draft));

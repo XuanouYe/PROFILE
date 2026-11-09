@@ -5,7 +5,6 @@ aliases:
   - music-2026-04-18-salonen-capucon-mozart
 publicationDate: 2026-04-18
 experienceDate: 2026-04-18
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

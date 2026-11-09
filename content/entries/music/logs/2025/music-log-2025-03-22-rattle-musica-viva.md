@@ -3,7 +3,6 @@ title: Symphonieorchester des Bayerischen Rundfunks | Simon Rattle – musica vi
 slug: music-log-2025-03-22-rattle-musica-viva
 publicationDate: 2025-03-22
 experienceDate: 2025-03-22
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

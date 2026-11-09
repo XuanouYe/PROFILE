@@ -3,7 +3,6 @@ title: Münchner Philharmoniker | Lahav Shani & Clara-Jumi Kang
 slug: music-log-2025-01-29-shani-kang-mendelssohn
 publicationDate: 2025-01-29
 experienceDate: 2025-01-29
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

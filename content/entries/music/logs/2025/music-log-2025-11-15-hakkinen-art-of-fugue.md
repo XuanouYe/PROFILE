@@ -3,7 +3,6 @@ title: Aapo Häkkinen | Die Kunst der Fuge
 slug: music-log-2025-11-15-hakkinen-art-of-fugue
 publicationDate: 2025-11-15
 experienceDate: 2025-11-15
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

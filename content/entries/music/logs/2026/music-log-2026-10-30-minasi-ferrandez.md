@@ -5,7 +5,6 @@ aliases:
   - music-2026-10-30-minasi-ferrandez
 publicationDate: 2026-10-30
 experienceDate: 2026-10-30
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

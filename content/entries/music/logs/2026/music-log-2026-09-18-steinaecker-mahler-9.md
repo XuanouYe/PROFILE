@@ -5,7 +5,6 @@ aliases:
   - music-2026-09-18-steinaecker-mahler-9
 publicationDate: 2026-09-18
 experienceDate: 2026-09-18
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

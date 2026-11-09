@@ -3,7 +3,6 @@ title: Hangzhou Philharmonic Orchestra | Feng Yu & Viktoria Mullova
 slug: music-log-2025-11-28-yu-mullova-berg-schoenberg
 publicationDate: 2025-11-28
 experienceDate: 2025-11-28
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

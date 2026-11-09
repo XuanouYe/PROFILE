@@ -3,7 +3,6 @@ title: Danish National Symphony Orchestra | Fabio Luisi & Khatia Buniatishvili
 slug: music-log-2025-01-21-luisi-buniatishvili
 publicationDate: 2025-01-21
 experienceDate: 2025-01-21
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

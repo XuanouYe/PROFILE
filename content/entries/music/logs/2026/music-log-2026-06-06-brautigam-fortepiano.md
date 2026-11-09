@@ -5,7 +5,6 @@ aliases:
   - music-2026-06-06-brautigam-fortepiano
 publicationDate: 2026-06-06
 experienceDate: 2026-06-06
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

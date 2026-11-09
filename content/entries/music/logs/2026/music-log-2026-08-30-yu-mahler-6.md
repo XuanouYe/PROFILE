@@ -5,7 +5,6 @@ aliases:
   - music-2026-08-30-yu-mahler-6
 publicationDate: 2026-08-30
 experienceDate: 2026-08-30
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

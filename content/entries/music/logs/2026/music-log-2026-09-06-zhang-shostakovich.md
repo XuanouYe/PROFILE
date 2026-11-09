@@ -5,7 +5,6 @@ aliases:
   - music-2026-09-06-zhang-shostakovich
 publicationDate: 2026-09-06
 experienceDate: 2026-09-06
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

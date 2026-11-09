@@ -5,7 +5,6 @@ aliases:
   - music-2026-05-17-delfs-mullova
 publicationDate: 2026-05-17
 experienceDate: 2026-05-17
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

@@ -5,7 +5,6 @@ aliases:
   - music-2026-10-18-gatti-mahler-10
 publicationDate: 2026-10-18
 experienceDate: 2026-10-18
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

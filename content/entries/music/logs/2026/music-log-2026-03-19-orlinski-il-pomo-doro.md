@@ -5,7 +5,6 @@ aliases:
   - music-2026-03-19-orlinski-il-pomo-doro
 publicationDate: 2026-03-19
 experienceDate: 2026-03-19
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

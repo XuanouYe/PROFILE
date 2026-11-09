@@ -3,7 +3,6 @@ title: Bayerisches Staatsorchester | Thomas Guggeis
 slug: music-log-2025-01-11-guggeis-water-programme
 publicationDate: 2025-01-11
 experienceDate: 2025-01-11
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

@@ -5,7 +5,6 @@ aliases:
   - music-2026-01-16-wispelwey-bach
 publicationDate: 2026-01-16
 experienceDate: 2026-01-16
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

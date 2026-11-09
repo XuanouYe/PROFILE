@@ -3,7 +3,6 @@ title: Hangzhou Philharmonic Orchestra | Yang Yang & Viktoria Mullova
 slug: music-log-2025-09-07-yang-mullova-season-opening
 publicationDate: 2025-09-07
 experienceDate: 2025-09-07
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

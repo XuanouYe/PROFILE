@@ -5,7 +5,6 @@ aliases:
   - music-2026-05-24-yang-american-programme
 publicationDate: 2026-05-24
 experienceDate: 2026-05-24
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

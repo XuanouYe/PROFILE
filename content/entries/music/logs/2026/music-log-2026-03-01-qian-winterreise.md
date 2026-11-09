@@ -5,7 +5,6 @@ aliases:
   - music-2026-03-01-qian-winterreise
 publicationDate: 2026-03-01
 experienceDate: 2026-03-01
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

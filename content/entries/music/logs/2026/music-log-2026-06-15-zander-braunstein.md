@@ -5,7 +5,6 @@ aliases:
   - music-2026-06-15-zander-braunstein
 publicationDate: 2026-06-15
 experienceDate: 2026-06-15
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

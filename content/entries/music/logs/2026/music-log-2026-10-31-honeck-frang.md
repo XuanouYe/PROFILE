@@ -5,7 +5,6 @@ aliases:
   - music-2026-10-31-honeck-frang
 publicationDate: 2026-10-31
 experienceDate: 2026-10-31
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

@@ -3,7 +3,6 @@ title: Pepe Romero | Guitar Recital
 slug: music-log-2025-10-25-pepe-romero-nanjing-recital
 publicationDate: 2025-10-25
 experienceDate: 2025-10-25
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

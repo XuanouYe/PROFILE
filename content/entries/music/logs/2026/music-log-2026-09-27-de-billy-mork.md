@@ -5,7 +5,6 @@ aliases:
   - music-2026-09-27-de-billy-mork
 publicationDate: 2026-09-27
 experienceDate: 2026-09-27
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

@@ -5,7 +5,6 @@ aliases:
   - music-2026-10-22-young-hadelich
 publicationDate: 2026-10-22
 experienceDate: 2026-10-22
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

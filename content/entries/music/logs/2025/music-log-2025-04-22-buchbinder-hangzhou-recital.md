@@ -3,7 +3,6 @@ title: Rudolf Buchbinder | Piano Recital
 slug: music-log-2025-04-22-buchbinder-hangzhou-recital
 publicationDate: 2025-04-22
 experienceDate: 2025-04-22
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

@@ -5,7 +5,6 @@ aliases:
   - music-2026-06-26-lu-mahler-9
 publicationDate: 2026-06-26
 experienceDate: 2026-06-26
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

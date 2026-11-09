@@ -5,7 +5,6 @@ aliases:
   - music-2026-10-25-minasi-fujita
 publicationDate: 2026-10-25
 experienceDate: 2026-10-25
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

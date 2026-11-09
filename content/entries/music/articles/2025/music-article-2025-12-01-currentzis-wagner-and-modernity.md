@@ -9,7 +9,6 @@ draft: false
 featured: true
 language: en
 experienceDate: 2025-11-27
-experienceLabel: Attended
 metadata:
   Programme: "Wagner: The Ring Without Words (Der Ring ohne Worte; arr. Lorin Maazel)"
   Conductor: Teodor Currentzis

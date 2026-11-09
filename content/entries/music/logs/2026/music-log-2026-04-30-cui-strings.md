@@ -5,7 +5,6 @@ aliases:
   - music-2026-04-30-cui-strings
 publicationDate: 2026-04-30
 experienceDate: 2026-04-30
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

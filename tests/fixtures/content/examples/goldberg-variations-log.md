@@ -3,7 +3,6 @@ title: Goldberg Variations
 slug: goldberg-variations-log
 publicationDate: 2026-10-19
 experienceDate: 2026-10-18
-experienceLabel: Listened
 excerpt: "A recording-specific entry: one work, one performer, one interpretation."
 draft: false
 workIds:

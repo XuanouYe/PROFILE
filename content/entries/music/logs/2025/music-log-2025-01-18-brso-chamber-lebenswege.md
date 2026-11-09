@@ -3,7 +3,6 @@ title: BRSO Chamber Concert | Lebenswege
 slug: music-log-2025-01-18-brso-chamber-lebenswege
 publicationDate: 2025-01-18
 experienceDate: 2025-01-18
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

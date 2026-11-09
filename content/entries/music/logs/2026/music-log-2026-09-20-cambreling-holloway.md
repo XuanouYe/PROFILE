@@ -5,7 +5,6 @@ aliases:
   - music-2026-09-20-cambreling-holloway
 publicationDate: 2026-09-20
 experienceDate: 2026-09-20
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

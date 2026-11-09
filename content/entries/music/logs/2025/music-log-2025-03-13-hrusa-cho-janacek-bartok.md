@@ -3,7 +3,6 @@ title: Berliner Philharmoniker | Jakub Hrůša & Seong-Jin Cho
 slug: music-log-2025-03-13-hrusa-cho-janacek-bartok
 publicationDate: 2025-03-13
 experienceDate: 2025-03-13
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

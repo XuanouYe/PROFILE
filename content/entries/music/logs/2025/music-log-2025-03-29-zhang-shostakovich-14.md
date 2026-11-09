@@ -3,7 +3,6 @@ title: Hangzhou Philharmonic Orchestra | Guoyong Zhang
 slug: music-log-2025-03-29-zhang-shostakovich-14
 publicationDate: 2025-03-29
 experienceDate: 2025-03-29
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

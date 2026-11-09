@@ -3,7 +3,6 @@ title: Hangzhou Philharmonic Orchestra | Lan Shui & Qian Zhou
 slug: music-log-2025-04-19-shui-zhou-nielsen
 publicationDate: 2025-04-19
 experienceDate: 2025-04-19
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

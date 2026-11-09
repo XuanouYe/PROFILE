@@ -5,7 +5,6 @@ aliases:
   - music-2026-03-18-oramo-bbc
 publicationDate: 2026-03-18
 experienceDate: 2026-03-18
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en
