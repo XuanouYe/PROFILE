@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.sohu.com/a/977007978_121123808
 title: Pieter Wispelwey | Bach Cello Suites
 slug: music-log-2026-01-16-wispelwey-bach
 aliases:

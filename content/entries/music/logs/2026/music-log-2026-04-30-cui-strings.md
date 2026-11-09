@@ -1,7 +1,4 @@
 ---
-# Programme reference: https://www.zjcm.edu.cn/zyxw/zyxw-xydt/202607/74778.html
-# Programme reference: https://www.wisemusicclassical.com/work/44183/Suite-for-Two-Cellos-and-Strings--Gian-Carlo-Menotti/
-# Programme reference: https://www.sonzogno.it/en/work/violoncelles-vibrez-per-2-violoncelli-e-orchestra-d-archi
 title: Chamber Philharmonia ZJCM | Yuanyuan Cui
 slug: music-log-2026-04-30-cui-strings
 aliases:

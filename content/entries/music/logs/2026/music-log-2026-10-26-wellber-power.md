@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.die-hamburgische-staatsoper.de/de?AuffNr=173414
 title: Philharmonisches Staatsorchester Hamburg | Omer Meir Wellber
 slug: music-log-2026-10-26-wellber-power
 aliases:

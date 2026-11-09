@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.ndr.de/orchester_chor/elbphilharmonieorchester/konzerte/ndr-elbphilharmonie-orchester-mit-andris-poga-und-daniel-mueller-schott,poga-100.html
 title: NDR Elbphilharmonie Orchester | Andris Poga
 slug: music-log-2026-11-05-poga-mueller-schott
 aliases:
@@ -24,3 +23,5 @@ metadata:
   Venue: Elbphilharmonie
   Performance date: 2026-11-05
 ---
+
+In memory of Maestro Herbert Blomstedt. 

@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.elbphilharmonie.de/de/programm/symphoniker-hamburg-jennifer-holloway-sylvain-cambreling/28044
 title: Symphoniker Hamburg | Sylvain Cambreling
 slug: music-log-2026-09-20-cambreling-holloway
 aliases:

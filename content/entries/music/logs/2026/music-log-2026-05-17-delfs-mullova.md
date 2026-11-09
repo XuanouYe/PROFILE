@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://ori.hangzhou.com.cn/ornews/content/2026-05/18/content_9224780.htm
 title: Hangzhou Philharmonic Orchestra | Andreas Delfs
 slug: music-log-2026-05-17-delfs-mullova
 aliases:

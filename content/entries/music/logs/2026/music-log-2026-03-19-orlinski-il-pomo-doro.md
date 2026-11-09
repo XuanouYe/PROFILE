@@ -1,7 +1,4 @@
 ---
-# Programme reference: https://www.sohu.com/a/998595925_121123808
-# Programme reference: https://www.operaroyal-versailles.fr/evenement-p/recital-jakub-jozef-orlinski-beyond-2023/
-# Programme reference: https://www.ilpomodoro.org/past-concerts/
 title: Jakub Józef Orliński & Il Pomo d’Oro | Beyond
 slug: music-log-2026-03-19-orlinski-il-pomo-doro
 aliases:

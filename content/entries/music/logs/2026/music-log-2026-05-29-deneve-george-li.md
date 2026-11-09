@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.operabase.com/productions/stephane-deneve-george-li-and-sso-perform-schumann-and-brahms-408149/en
 title: Shanghai Symphony Orchestra | Stéphane Denève
 slug: music-log-2026-05-29-deneve-george-li
 aliases:

@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.bostonphil.org/support/bpyosponsorship
 title: Boston Philharmonic Youth Orchestra | Benjamin Zander
 slug: music-log-2026-06-15-zander-braunstein
 aliases:

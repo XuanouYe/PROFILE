@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://shanghaiconcerts.com/concerts/shanghai-philharmonic-2026-27-opening-concert
 title: Shanghai Philharmonic Orchestra | Yi Zhang
 slug: music-log-2026-09-06-zhang-shostakovich
 aliases:

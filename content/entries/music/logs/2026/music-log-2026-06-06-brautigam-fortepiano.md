@@ -1,6 +1,4 @@
 ---
-# Programme reference: https://www.operabase.com/productions/ronald-brautigam-fortepiano-recital-408161/en
-# Programme reference: https://peking.bjd.com.cn/content/s6a2cc841e4b0e45f3fd300c3.html
 title: Ronald Brautigam | Mozart, Haydn & Beethoven
 slug: music-log-2026-06-06-brautigam-fortepiano
 aliases:

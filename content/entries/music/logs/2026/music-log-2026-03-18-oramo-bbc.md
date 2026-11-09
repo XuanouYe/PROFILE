@@ -1,6 +1,4 @@
 ---
-# Programme reference: https://www.shobserver.cn/sgh/detail?id=1723385
-# Programme reference: https://www.shobserver.cn/wx/detail.do?id=1084553
 title: BBC Symphony Orchestra | Sakari Oramo
 slug: music-log-2026-03-18-oramo-bbc
 aliases:

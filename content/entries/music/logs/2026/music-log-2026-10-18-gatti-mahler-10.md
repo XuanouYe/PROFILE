@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.staatskapelle-dresden.de/konzerte-und-tickets/details/2026-27/2-sinfoniekonzert/
 title: Sächsische Staatskapelle Dresden | Daniele Gatti
 slug: music-log-2026-10-18-gatti-mahler-10
 aliases:

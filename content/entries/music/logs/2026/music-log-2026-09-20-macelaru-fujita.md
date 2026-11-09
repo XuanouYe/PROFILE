@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.wisemusicclassical.com/news/5339/Missy-Mazzoli-to-be-the-first-NDR-Artist-Across-Ensembles-in-season-202627/
 title: NDR Elbphilharmonie Orchester | Cristian Măcelaru
 slug: music-log-2026-09-20-macelaru-fujita
 aliases:

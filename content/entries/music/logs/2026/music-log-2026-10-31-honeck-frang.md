@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.dso-berlin.de/de/konzert/honeck-philharmonie-berlin-30-31-10-2026/
 title: Deutsches Symphonie-Orchester Berlin | Manfred Honeck
 slug: music-log-2026-10-31-honeck-frang
 aliases:

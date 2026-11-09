@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.konzertsuche.de/konzert/young-hadelich-bach-mendelssohn-bartholdy-bruckner-1-abo-b1-residenz-herkulessaal-22-oktober
 title: Symphonieorchester des Bayerischen Rundfunks | Simone Young
 slug: music-log-2026-10-22-young-hadelich
 aliases:

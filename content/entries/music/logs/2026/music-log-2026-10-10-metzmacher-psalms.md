@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.udk-berlin.de/veranstaltung/chichester-psalms/
 title: Deutsches Symphonie-Orchester Berlin | Ingo Metzmacher
 slug: music-log-2026-10-10-metzmacher-psalms
 aliases:

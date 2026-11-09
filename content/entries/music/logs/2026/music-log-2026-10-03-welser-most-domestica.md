@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://files.baskercdn.com/clevelandorchestra/files/2026-27%20Season%20Announcement.pdf
 title: The Cleveland Orchestra | Franz Welser-Möst
 slug: music-log-2026-10-03-welser-most-domestica
 aliases:

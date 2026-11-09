@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://whlyj.sh.gov.cn/yshd/20260528/4e8aa67995f84415b90a892aa5f0ee13.html
 title: Shanghai Symphony Orchestra | Jonathan Nott
 slug: music-log-2026-06-05-nott-wu-man
 aliases:

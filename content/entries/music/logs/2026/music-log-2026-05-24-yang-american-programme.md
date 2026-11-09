@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://ori.hangzhou.com.cn/ornews/content/2026-05/25/content_9228394.htm
 title: Hangzhou Philharmonic Orchestra | Yang Yang
 slug: music-log-2026-05-24-yang-american-programme
 aliases:

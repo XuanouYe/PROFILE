@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.sohu.com/a/990117206_121117453
 title: Chamber Philharmonia ZJCM | Junping Qian
 slug: music-log-2026-03-01-qian-winterreise
 aliases:
