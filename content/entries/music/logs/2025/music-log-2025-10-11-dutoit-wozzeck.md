@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.operabase.com/productions/charles-dutoit-and-sso-performs-wozzeck-concert-version-408088/en
-# Concert-version opera is recorded as a live music event. Listed vocal soloists are not the complete cast.
 title: Shanghai Symphony Orchestra | Charles Dutoit – Wozzeck
 slug: music-log-2025-10-11-dutoit-wozzeck
 publicationDate: 2025-10-11

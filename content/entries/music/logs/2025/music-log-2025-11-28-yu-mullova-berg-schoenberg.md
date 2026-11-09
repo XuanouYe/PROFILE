@@ -1,6 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://ori.hangzhou.com.cn/ornews/content/2025-11/29/content_9134008.htm
 title: Hangzhou Philharmonic Orchestra | Feng Yu & Viktoria Mullova
 slug: music-log-2025-11-28-yu-mullova-berg-schoenberg
 publicationDate: 2025-11-28

@@ -1,6 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.klangforum.at/event/zhejiang-conservatory-of-music-11-000-saiten
 title: Klangforum Wien | Johannes Kalitzke – 11.000 Saiten
 slug: music-log-2025-10-30-kalitzke-haas-11000-saiten
 publicationDate: 2025-10-30

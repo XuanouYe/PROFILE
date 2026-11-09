@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.operabase.com/productions/7th-shanghai-early-music-festival-aapo-hakkinen-plays-the-art-of-fugue-408108/en
-# The event lists selected contrapuncti and canons rather than a complete performance.
 title: Aapo Häkkinen | Die Kunst der Fuge
 slug: music-log-2025-11-15-hakkinen-art-of-fugue
 publicationDate: 2025-11-15

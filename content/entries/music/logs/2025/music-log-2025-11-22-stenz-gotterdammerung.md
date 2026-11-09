@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://ori.hangzhou.com.cn/ornews/content/2025-11/24/content_9130436.htm
-# Concert-version opera is recorded as a live music event. Listed vocal soloists are not the complete cast.
 title: Hangzhou Philharmonic Orchestra | Markus Stenz – Götterdämmerung
 slug: music-log-2025-11-22-stenz-gotterdammerung
 publicationDate: 2025-11-22

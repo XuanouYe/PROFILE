@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.staatsoper.de/en/productions/3-akademiekonzert-2024-25/2025-01-11-2000-14796
-# The overture is in F major, correcting F minor in the annual retrospective.
 title: Bayerisches Staatsorchester | Thomas Guggeis
 slug: music-log-2025-01-11-guggeis-water-programme
 publicationDate: 2025-01-11

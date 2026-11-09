@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://gqx.zjcm.edu.cn/tzgg/202510/49132.html
-# User confirmed the Hangzhou venue. Date and programme are printed in the official recital announcement and its programme image: https://gqx.zjcm.edu.cn/attachment/20251020/50fec574ffdbfb4c213d626e90876af3/800.jpeg .
 title: Hung-Kuan Chen | Piano Recital
 slug: music-log-2025-10-07-hung-kuan-chen-recital
 publicationDate: 2025-10-07

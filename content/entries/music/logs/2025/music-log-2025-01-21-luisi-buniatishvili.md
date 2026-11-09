@@ -1,6 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.muenchenmusik.de/mm/veranstaltungen/danish-national-symphony-orchestra-21125
 title: Danish National Symphony Orchestra | Fabio Luisi & Khatia Buniatishvili
 slug: music-log-2025-01-21-luisi-buniatishvili
 publicationDate: 2025-01-21

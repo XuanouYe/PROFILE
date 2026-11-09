@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://szyyt.com/ennews/index_100000641788629.html
-# The two Shenzhen concerts had different programmes. This entry is the 29 November Wagner concert.
 title: musicAeterna | Teodor Currentzis – Der Ring ohne Worte
 slug: music-log-2025-11-29-currentzis-ring-without-words
 publicationDate: 2025-11-29

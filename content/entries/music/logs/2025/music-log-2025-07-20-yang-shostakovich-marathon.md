@@ -1,8 +1,5 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.dahepiao.com/yanchupiaowu1/yyh/20241216498232.html
-# Full scheduled programme, not a claim of complete attendance. The retrospective says approximately two-thirds attended and specifically mentions Li-Wei Qin and Nancy Zhou; the omitted portion is not identified. Trumpet soloist is not named in the consulted programme.
-title: Hangzhou Philharmonic Orchestra | Yang Yang – Shostakovich Marathon
+title: Hangzhou Philharmonic Orchestra | Yang Yang
 slug: music-log-2025-07-20-yang-shostakovich-marathon
 publicationDate: 2025-07-20
 experienceDate: 2025-07-20

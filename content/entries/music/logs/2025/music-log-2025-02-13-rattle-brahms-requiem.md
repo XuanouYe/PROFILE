@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.brso.de/wp-content/uploads/sites/2/sh-brso-2425-240515-digital-low-compressed.pdf
-# The retrospective explicitly identifies attendance on 13 February.
 title: Symphonieorchester des Bayerischen Rundfunks | Simon Rattle
 slug: music-log-2025-02-13-rattle-brahms-requiem
 publicationDate: 2025-02-13

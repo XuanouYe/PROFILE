@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.brso.de/konzerte/herbert-blomstedt/
-# Nikola Hillebrand replaced Christina Landshamer. Only the attended 10 January performance is recorded.
 title: Symphonieorchester des Bayerischen Rundfunks | Herbert Blomstedt
 slug: music-log-2025-01-10-blomstedt-psalms-lobgesang
 publicationDate: 2025-01-10

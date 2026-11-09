@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.brso.de/en/concerts/chamber-concert-13/
-# The source lists the five musicians but does not identify which violinist played the Klein trio; that assignment is left unspecified.
 title: BRSO Chamber Concert | Lebenswege
 slug: music-log-2025-01-18-brso-chamber-lebenswege
 publicationDate: 2025-01-18

@@ -1,6 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.br-musica-viva.de/wp-content/uploads/sites/5/mv-2425-vorschau-web-aktualisiert-ii.pdf
 title: Symphonieorchester des Bayerischen Rundfunks | Simon Rattle – musica viva
 slug: music-log-2025-03-22-rattle-musica-viva
 publicationDate: 2025-03-22

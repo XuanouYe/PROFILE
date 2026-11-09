@@ -1,8 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.brso.de/konzerte/ivan-fischer-kirill-gerstein/
-# First performance of the repeated programme, as requested.
-title: Symphonieorchester des Bayerischen Rundfunks | Iván Fischer & Kirill Gerstein
 slug: music-log-2025-01-30-fischer-gerstein-brahms-dvorak
 publicationDate: 2025-01-30
 experienceDate: 2025-01-30

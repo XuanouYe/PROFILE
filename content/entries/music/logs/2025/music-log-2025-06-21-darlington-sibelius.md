@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.sina.cn/media/1880577484
-# Source: Hangzhou Philharmonic Orchestra’s official account, 21 June 2025 programme announcement.
 title: Hangzhou Philharmonic Orchestra | Jonathan Darlington
 slug: music-log-2025-06-21-darlington-sibelius
 publicationDate: 2025-06-21

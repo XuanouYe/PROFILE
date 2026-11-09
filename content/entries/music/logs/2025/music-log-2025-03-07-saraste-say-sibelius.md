@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.mphil.de/fileadmin/Redaktion-mphil/Saisonordner/Saison_2425/PDFs/Mphil_JPRO_24-25_www_barrierefrei.pdf
-# First performance; the retrospective places Harding’s concert on the preceding day.
 title: Münchner Philharmoniker | Jukka-Pekka Saraste & Fazıl Say
 slug: music-log-2025-03-07-saraste-say-sibelius
 publicationDate: 2025-03-07

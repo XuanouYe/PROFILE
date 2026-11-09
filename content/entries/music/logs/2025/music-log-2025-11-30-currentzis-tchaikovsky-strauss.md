@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://szyyt.com/enperformance/show_100000777092281.html
-# The two Shenzhen concerts had different programmes. This entry follows the official 30 November programme, including its work order.
 title: musicAeterna | Teodor Currentzis – Tchaikovsky & Strauss
 slug: music-log-2025-11-30-currentzis-tchaikovsky-strauss
 publicationDate: 2025-11-30

@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.berliner-philharmoniker.de/konzerte/kalender/55646/
-# First performance of the repeated programme, as requested.
 title: Berliner Philharmoniker | Jakub Hrůša & Seong-Jin Cho
 slug: music-log-2025-03-13-hrusa-cho-janacek-bartok
 publicationDate: 2025-03-13

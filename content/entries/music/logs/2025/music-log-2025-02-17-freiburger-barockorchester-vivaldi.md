@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://www.berliner-philharmoniker.de/konzerte/kalender/56010/
-# User confirmed attending Freiburger Barockorchester, not The Indian Queen. Programme follows the venue calendar rather than the earlier season announcement. Violinists: Gottfried von der Goltz and Cecilia Bernardini; assignment of individual concertos is not specified.
 title: Freiburger Barockorchester | Gottfried von der Goltz
 slug: music-log-2025-02-17-freiburger-barockorchester-vivaldi
 publicationDate: 2025-02-17
