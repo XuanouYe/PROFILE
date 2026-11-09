@@ -19,7 +19,7 @@ longform: true
 rating: null
 ---
 
-While laying out the 2023 annual issue, I had the idea of writing a cinephile's travelogue. When I rewatched *Ludwig* in early August, the idea began to take shape. I then went to Munich on an exchange programme and visited all the buildings associated with Ludwig II mentioned in the film. Beyond their imitations of French court decoration, I noticed many distinctive Wagnerian themes. Wagner's operas, palace architecture, and Visconti's visual aesthetics merge into a fascinating whole in this historical drama. The viewer's perspective drifts through history. Investigating the film on location allowed me to see a great deal.
+When rewatching *Ludwig* in early August, the idea of writing a cinephile's travelogue began to take shape. I then went to Munich on an exchange programme and visited all the buildings associated with Ludwig II mentioned in the film. Beyond their imitations of French court decoration, I noticed many distinctive Wagnerian themes. Wagner's operas, palace architecture, and Visconti's visual aesthetics merge into a fascinating whole in this historical drama. The viewer's perspective drifts through history. Investigating the film on location allowed me to see a great deal.
 
 A few notes from Richard Wagner's last unpublished piano work, the *Elegy in A-flat major, WWV 93*, accompany the opening credits. The first scene provides a place, the medium of the images: a bedroom of Ludwig's, somewhere, with angels painted on the ceiling. First the setting, then the character. Like Wagner's elegy, this clearly measured progression runs through the film from beginning to end. Here, however, there is little display; the setting serves a functional purpose. The young Ludwig confesses to a clergyman. He is about to become king. The story formally begins, its overall narrative tone already established.
 
@@ -43,7 +43,7 @@ Before the first interlude in which an actor addresses the audience directly, Vi
 
 The events in this act offer only limited views of their settings, perhaps serving as visual cues that introduce themes to be developed there later. Through them, Visconti establishes his characters brilliantly. Dialogue efficiently supplies the background of Elisabeth and Richard Wagner at this point in the timeline. The young empress, weary of court life [Note 1], has already made the famous journey to Greece depicted in *Sissi: The Fateful Years of an Empress*. Wagner has completed *Tristan und Isolde* in Switzerland and is preparing for its premiere in Bavaria, six years late. Within this long production, two or three scenes swiftly establish these figures. Their words sketch their personalities and temperaments, those two entirely different forms of pride that Ludwig admires.
 
-[Note 1] This article uses “king” for Ludwig in his capacity as King of Bavaria, and “empress” for Elisabeth as the wife of Franz, Emperor of Austria, to distinguish their respective powers and domains.
+[Note 1] This article uses "king" for Ludwig in his capacity as King of Bavaria, and “empress” for Elisabeth as the wife of Franz, Emperor of Austria, to distinguish their respective powers and domains.
 
 ![Illustration from A Journey Through Castles](/assets/notion/b47feca8-f7a0-82d0-8432-01848a405ae7.png)
 
@@ -51,7 +51,7 @@ The setting of Wagner's first appearance is presumably his temporary accommodati
 
 ## Part I: The Residenz
 
-Until Ludwig's engagement to Princess Sophie fails and he leaves central Munich, the Munich Residenz remains the setting for important events. Situated in the city centre, it is introduced in fragments from the start. As the story develops, its individual spaces open up, and the camera gradually reveals the “palace” as a whole. Narrative energy surges through these passages. Visconti shapes them into an overall rhythm, introducing variations at different points in the film.
+Until Ludwig's engagement to Princess Sophie fails and he leaves central Munich, the Munich Residenz remains the setting for important events. Situated in the city centre, it is introduced in fragments from the start. As the story develops, its individual spaces open up, and the camera gradually reveals the "palace" as a whole. Narrative energy surges through these passages. Visconti shapes them into an overall rhythm, introducing variations at different points in the film.
 
 Take the underground to Odeonsplatz and walk a short distance to reach the Munich Residenz. European architectural restoration seems different from the Chinese principle of restoring old buildings to look old. Damaged during the Second World War and subsequently reconstructed, the palace no longer has such richly coloured interiors. A few paintings reconstructing panoramic views of the old rooms provide points of reference. Compared with them, what remains today is mostly repainted walls, plain doorframes, and furniture arranged for orderly display rather than everyday life. These objects form a modern, almost uncanny exhibition space. We try to imagine history passing through the reflections of mirrors and painted walls, invoking modernity's intrusion into the palace. The film's settings can be found only in those paintings; otherwise, they resemble the present palace only in their overall structure.
 
@@ -77,7 +77,7 @@ As the characters move in and out, different perspectives continually disclose n
 
 ![The reception room outside the office (4). Elisabeth turns and enters Ludwig's office, preparing the introduction of his castles. See Part V: Ludwig's Castles.](/assets/notion/21bfeca8-f7a0-826d-8931-812c797f338d.png "The reception room outside the office (4). Elisabeth turns and enters Ludwig's office, preparing the introduction of his castles. See Part V: Ludwig's Castles.")
 
-The engagement subsequently provides the occasion for repeated scenes in the palace. In scene twenty-three, the expulsion of a visiting actress creates a disturbance outside the main story arc. Characters continually appear and disappear at doorways, introducing further rooms, including the bedroom and bath—rooms that either no longer exist in the present palace or are not open to visitors. Wagner then returns to meet the princess. Close-ups of jewels, numerous mirrors. After several transitions, Visconti once again offers simple variations on the characters and the palace space.
+The engagement subsequently provides the occasion for repeated scenes in the palace. In scene twenty-three, the expulsion of a visiting actress creates a disturbance outside the main story arc. Characters continually appear and disappear at doorways, introducing further rooms, including the bedroom and bathrooms that either no longer exist in the present palace or are not open to visitors. Wagner then returns to meet the princess. Close-ups of jewels, numerous mirrors. After several transitions, Visconti once again offers simple variations on the characters and the palace space.
 
 ![Illustration from A Journey Through Castles](/assets/notion/5c5feca8-f7a0-8302-86fd-8117b1e8ae8d.png)
 
@@ -163,7 +163,7 @@ Walking around Bad Ischl, I also encountered many settings from *Sissi*, places 
 
 ## Part III: Lake Starnberg
 
-Before leaving Bad Ischl, Ludwig mentions “Possenhofen” and “Rose Island” to Sissi. Rose Island, or Roseninsel, and Possenhofen Castle stand 2.2 kilometres apart on the shores of Lake Starnberg.
+Before leaving Bad Ischl, Ludwig mentions "Possenhofen" and "Rose Island" to Sissi. Rose Island, or Roseninsel, and Possenhofen Castle stand 2.2 kilometres apart on the shores of Lake Starnberg.
 
 ![Illustration from A Journey Through Castles](/assets/notion/2c1feca8-f7a0-8327-9120-81bdc4a53426.png)
 
@@ -173,7 +173,7 @@ The S6 begins operating along its full route in winter, putting the lake only fo
 
 The film presents the premiere of *Tristan und Isolde* through dialogue as background. After it, Ludwig meets Sissi on Rose Island, and their conversation tells us that the empress did not attend the performance in Munich. On my first visit to Lake Starnberg, I arrived in the residential area near Possenhofen, then walked along the shore to the Rose Island jetty. There were few tourists. It is a comfortable place to spend time on a weekend. The ferry to Rose Island now operates only during a short summer season, though there is little to see even if one reaches the island.
 
-As the empress approaches the island, we hear rowing and the faint sound of water. The boat crosses the lake and turns. From the jetty, we see it appear in the distance and come ashore. The empress crosses the long jetty and reaches the side of the king's cottage. Eventually he emerges and calls her name: “Elisabeth”... Visconti uses the music throughout to mark the time composed by these movements, dissolving them continuously into the first two minutes of the famous *Liebestod* from *Tristan und Isolde*. The film presents a very quiet, very slow rhythm, shared by the breeze that still blows there and the ripples on the lake. The empress enters the cottage, and the music softens, yet continues even into a change of orchestration. Walking beside Rose Island today, treading fallen leaves on the earthen paths, I can still feel that clear rhythm. The argument we then hear in the film between the Bavarian king and the Austrian empress does not seem so tense after all.
+As the empress approaches the island, we hear rowing and the faint sound of water. The boat crosses the lake and turns. From the jetty, we see it appear in the distance and come ashore. The empress crosses the long jetty and reaches the side of the king's cottage. Eventually he emerges and calls her name: "Elisabeth"... Visconti uses the music throughout to mark the time composed by these movements, dissolving them continuously into the first two minutes of the famous *Liebestod* from *Tristan und Isolde*. The film presents a very quiet, very slow rhythm, shared by the breeze that still blows there and the ripples on the lake. The empress enters the cottage, and the music softens, yet continues even into a change of orchestration. Walking beside Rose Island today, treading fallen leaves on the earthen paths, I can still feel that clear rhythm. The argument we then hear in the film between the Bavarian king and the Austrian empress does not seem so tense after all.
 
 ![Illustration from A Journey Through Castles](/assets/notion/acdfeca8-f7a0-8233-b041-01aa9afe9407.png)
 
@@ -187,9 +187,8 @@ As the empress approaches the island, we hear rowing and the faint sound of wate
 
 ![Elisabeth inside the king's cottage on Rose Island. Visitors cannot enter the cottage today.](/assets/notion/e22feca8-f7a0-8397-92d1-816251bc5ae2.png "Elisabeth inside the king's cottage on Rose Island. Visitors cannot enter the cottage today.")
 
-<p>
+
 After this scene, Ludwig returns to the Residenz to discuss the Bayreuth theatre with Wagner. Rose Island next appears years after Wagner's departure, around scene twenty-six, after his return to court and meeting with the betrothed princess. Richard Hornig, the attendant who has replaced Volk, first appears in an interlude explaining his relationship with the king. The two reach the island by steamboat, unlike the rowboat that brought the empress earlier, and the interior of the king's cottage opens up further.
-</p>
 
 Ludwig's first meeting with Volk, whose dismissal Richard Hornig mentions, occurs when Possenhofen Castle first appears. Ludwig leaves the castle to the sound of the *Liebestod* and encounters Volk swimming naked. The music then falls quiet. Here Visconti cautiously, possessively invests Ludwig with his own concealed authorial signatures, a restrained gaze upon the male body carrying both self-doubt and identification. Ludwig subsequently learns of Bavaria's defeat, and the film offers another brilliant exchange on political and artistic value.
 
@@ -321,7 +320,7 @@ Joseph Kainz accompanies Ludwig to Linderhof, giving us our first view of its in
 
 ![Illustration from A Journey Through Castles](/assets/notion/6b4feca8-f7a0-8314-9461-01068779603b.png)
 
-The film shifts space deftly, introducing another spatial discrepancy. After Ludwig moves from the carriage into Linderhof, the camera cuts to the Venus Grotto behind the palace. The characters appear there to the strings' rendering of “O du mein holder Abendstern” from *Tannhäuser* [Note 4]. We see an artificial stalactite cave unprecedented in its time, inspired by Wagner's *Tannhäuser*. Ludwig also installed an additional electricity supply to provide coloured lighting. He appears rowing on the grotto's pool. A dangerous, extravagant, distorted artistic idealism reaches its apex.
+The film shifts space deftly, introducing another spatial discrepancy. After Ludwig moves from the carriage into Linderhof, the camera cuts to the Venus Grotto behind the palace. The characters appear there to the strings' rendering of "O du mein holder Abendstern" from *Tannhäuser* [Note 4]. We see an artificial stalactite cave unprecedented in its time, inspired by Wagner's *Tannhäuser*. Ludwig also installed an additional electricity supply to provide coloured lighting. He appears rowing on the grotto's pool. A dangerous, extravagant, distorted artistic idealism reaches its apex.
 
 [Note 4] The actual Venus Grotto is behind the palace; reaching its entrance requires an uphill walk. It has been under restoration since 2017 to address its electricity supply, water erosion, and cave-dwelling creatures such as bats. It reopens to the public in summer 2025.
 
@@ -385,7 +384,7 @@ Climbing the stairs in the actual palace, we first pass through an eastern or we
 
 ![Illustration from A Journey Through Castles](/assets/notion/6affeca8-f7a0-8312-8ac5-01bb92822db1.png)
 
-Outside, the same filming pattern returns: a low-angle close-up of a sculpture, then a movement inward to reveal the whole palace. Sissi's carriage enters from the right, and we pass from outdoors to indoors. The fitting selection from Wagner's *Tannhäuser*, “O du mein holder Abendstern”, continues from the previous scene in Linderhof's Venus Grotto. At some point it has played through in full; it ends here. The long Hall of Mirrors allows Visconti to place Romy Schneider far away in an extreme long shot. Cinematic time then preserves almost the entire duration of Elisabeth's passage from one side to the other. Tracking, partial views, and finally stillness: a close-up of the empress's satisfied face.
+Outside, the same filming pattern returns: a low-angle close-up of a sculpture, then a movement inward to reveal the whole palace. Sissi's carriage enters from the right, and we pass from outdoors to indoors. The fitting selection from Wagner's *Tannhäuser*, "O du mein holder Abendstern", continues from the previous scene in Linderhof's Venus Grotto. At some point it has played through in full; it ends here. The long Hall of Mirrors allows Visconti to place Romy Schneider far away in an extreme long shot. Cinematic time then preserves almost the entire duration of Elisabeth's passage from one side to the other. Tracking, partial views, and finally stillness: a close-up of the empress's satisfied face.
 
 ![The fountain in front of the palace](/assets/douban/ludwig/p100734325.webp "The fountain in front of the palace")
 
