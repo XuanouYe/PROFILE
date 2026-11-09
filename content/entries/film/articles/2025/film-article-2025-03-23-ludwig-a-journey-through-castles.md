@@ -409,9 +409,9 @@ Outside, the same filming pattern returns: a low-angle close-up of a sculpture, 
 
 ![Illustration from A Journey Through Castles](/assets/notion/fb1feca8-f7a0-83e5-93d1-81e2471caf2c.png)
 
-<p>
+
 After Linderhof and Herrenchiemsee, Visconti's camera follows Sissi to Neuschwanstein. The same movement occurs again: a low-angle view of snowy mountains tilts to eye level, and Sissi's carriage enters the frame. To the Liebestod, the images repeat these camera movements like a fugue of recurring phrases. After a medium shot of her leaving the carriage, the first ascent of the steps is omitted. The camera looks up at the castle. Sissi approaches, moves away, and the perspective slowly becomes level.
-</p>
+
 
 The duration of this walk is again extended. As in the previous two scenes, the entire long stretch from leaving the carriage to climbing the steps is preserved. This time, Ludwig's presence gives Visconti viewpoints for intercutting the palace interior and exterior during the empress's walk. Already living at Neuschwanstein, the king watches her through the window. Unable to bear his circumstances any longer, he painfully refuses the Austrian empress's visit.
 
