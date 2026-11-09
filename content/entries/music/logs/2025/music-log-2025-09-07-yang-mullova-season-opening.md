@@ -1,7 +1,4 @@
 ---
-# Retrospective: https://www.douban.com/note/878322286/
-# Reference: https://ori.hangzhou.com.cn/ornews/content/2025-09/08/content_9078481.htm
-# The season opening took place on 7 September, correcting 10 September in the retrospective.
 title: Hangzhou Philharmonic Orchestra | Yang Yang & Viktoria Mullova
 slug: music-log-2025-09-07-yang-mullova-season-opening
 publicationDate: 2025-09-07
