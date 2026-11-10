@@ -7,7 +7,7 @@ draft: false
 language: en
 subject: opera
 longform: false
-rating: 3
+rating: 2
 metadata:
   Opera: L’Enfant et les Sortilèges
   Director: Suzanne Andrade & Esme Appleton
