@@ -135,13 +135,16 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
   padding-top: 48px;
 }
 
-.recent-section .section-heading {
-  padding-top: 0;
+.recent-section {
+  --first-log-padding: 24px;
+  --log-heading-gap: calc(var(--first-log-padding) + 9px);
 }
 
-.recent-section .section-heading h2 {
+.recent-section .section-heading::before {
+  content: "";
+  display: block;
   border-top: 1px solid var(--divider);
-  padding-top: 8px;
+  margin-bottom: var(--log-heading-gap);
 }
 
 .masthead-inner,
@@ -189,7 +192,7 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 
 .recent-section :is(.log-row:first-child, .quiet-empty) {
   border-top: 0;
-  padding-top: 24px;
+  padding-top: var(--first-log-padding);
 }
 
 @media (max-width: 540px) {
@@ -199,6 +202,11 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 
   .selected-articles > .lead-article {
     padding-top: 37px;
+  }
+
+  .recent-section {
+    /* The date and subject sit above the title on narrow screens. */
+    --log-heading-gap: calc(var(--first-log-padding) + 37px);
   }
 
   .recent-section .log-row {
