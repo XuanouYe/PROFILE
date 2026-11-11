@@ -19,6 +19,6 @@ metadata:
     Alexander Zemlinsky：Die Seejungfrau — Fantasia for Orchestra
   Conductor: Thomas Guggeis
   Orchestra: Bayerisches Staatsorchester
-  Venue: Nationaltheater München
+  Venue: Bayerische Staatsoper
   Performance date: 2025-01-11
 ---

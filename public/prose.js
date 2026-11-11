@@ -1,10 +1,10 @@
-const prose = document.querySelector('.prose');
+const justifiedBlocks = ':is(.prose p, .prose li, .excerpt, .row-main p):not(:lang(zh))';
 const spacesByBlock = new Map();
-const walker = document.createTreeWalker(prose, NodeFilter.SHOW_TEXT);
+const walker = document.createTreeWalker(document.querySelector('main'), NodeFilter.SHOW_TEXT);
 
 for (let node = walker.nextNode(); node; node = walker.nextNode()) {
   const block = node.parentElement.closest('p, li, code, pre, figcaption');
-  if (!block?.matches('p:not(:lang(zh)), li:not(:lang(zh))')) continue;
+  if (!block?.matches(justifiedBlocks)) continue;
 
   for (const match of node.data.matchAll(/[ \t\r\n\f]+/g)) {
     const space = document.createRange();
@@ -15,38 +15,41 @@ for (let node = walker.nextNode(); node; node = walker.nextNode()) {
   }
 }
 
-function updateHyphenation() {
-  for (const block of spacesByBlock.keys()) block.classList.remove('auto-hyphenate');
+function updateHyphenation(blocks) {
+  for (const block of blocks) block.classList.remove('auto-hyphenate');
 
   // Compare the same rendered spaces before and after removing justification.
-  const justifiedWidths = new Map();
-  for (const [block, spaces] of spacesByBlock) {
-    justifiedWidths.set(block, spaces.map(space => space.getBoundingClientRect().width));
-  }
+  const measurements = blocks.map(block => {
+    const spaces = spacesByBlock.get(block);
+    const widths = spaces.map(space => space.getBoundingClientRect().width);
+    return { block, spaces, widths };
+  });
 
-  prose.classList.add('measure-word-spacing');
-  const blocksToHyphenate = [];
-  for (const [block, spaces] of spacesByBlock) {
-    const widths = justifiedWidths.get(block);
-    const hasWideGap = spaces.some((space, index) => {
+  for (const block of blocks) block.classList.add('measure-word-spacing');
+  const blocksToHyphenate = measurements.filter(({ spaces, widths }) =>
+    spaces.some((space, index) => {
       if (widths[index] === 0) return false;
       const naturalWidth = space.getBoundingClientRect().width;
       return naturalWidth > 0 && widths[index] >= 2 * naturalWidth;
-    });
-    if (hasWideGap) blocksToHyphenate.push(block);
-  }
-  prose.classList.remove('measure-word-spacing');
-
-  for (const block of blocksToHyphenate) block.classList.add('auto-hyphenate');
+    })
+  );
+  for (const block of blocks) block.classList.remove('measure-word-spacing');
+  for (const { block } of blocksToHyphenate) block.classList.add('auto-hyphenate');
 }
 
 if (spacesByBlock.size) {
-  let measuredWidth;
-  new ResizeObserver(([entry]) => {
-    const width = entry.contentRect.width;
-    if (width === measuredWidth) return;
-    measuredWidth = width;
-    updateHyphenation();
-  }).observe(prose);
-  document.fonts.ready.then(updateHyphenation);
+  document.fonts.ready.then(() => {
+    const widths = new WeakMap();
+    const observer = new ResizeObserver(entries => {
+      const resized = [];
+      for (const { target, contentRect } of entries) {
+        const { width } = contentRect;
+        if (width === widths.get(target)) continue;
+        widths.set(target, width);
+        if (width > 0) resized.push(target);
+      }
+      if (resized.length) updateHyphenation(resized);
+    });
+    for (const block of spacesByBlock.keys()) observer.observe(block);
+  });
 }

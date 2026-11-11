@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises';
+import {createHash} from 'node:crypto';
 import path from 'node:path';
 import {fileURLToPath} from 'node:url';
 import {loadEntries, escape as esc, subjects} from './content.mjs';
@@ -11,6 +12,12 @@ if (base && !/^\/[a-zA-Z0-9_/-]+$/.test(base)) throw new Error('basePath must be
 const out = path.resolve(root, process.env.OUTPUT_DIR || 'dist');
 if (out !== path.join(root,'dist') && !out.startsWith(path.join(root,'.preview') + path.sep)) throw new Error('Output must be dist or inside .preview');
 const url = value => `${base}${value}`;
+async function versionedAsset(name) {
+  const contents = await fs.readFile(path.join(root,'public',name));
+  const version = createHash('sha256').update(contents).digest('hex').slice(0,12);
+  return url(`/assets/${name}?v=${version}`);
+}
+const [styleUrl, proseUrl] = await Promise.all(['style.css','prose.js'].map(versionedAsset));
 const entries = await loadEntries(process.env.CONTENT_ROOT ? path.resolve(process.env.CONTENT_ROOT) : root, process.env.INCLUDE_EXAMPLES === undefined ? config.includeExamples : process.env.INCLUDE_EXAMPLES === 'true');
 const date = value => new Intl.DateTimeFormat('en-GB',{day:'numeric',month:'short',year:'numeric',timeZone:'UTC'}).format(new Date(value));
 const time = value => value ? `<time datetime="${value}">${date(value)}</time>` : '<span>Undated</span>';
@@ -20,7 +27,7 @@ const subjectLinks = entry => esc(entry.subject);
 const badge = entry => entry.demo ? '<span class="demo-tag">Example</span>' : '';
 function layout(title, description, body, {page='',script='',lang='en'}={}) {
   return `<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}${title === config.title ? '' : ` | ${esc(config.title)}`}</title><meta name="description" content="${esc(description)}"><meta name="theme-color" content="#FAFAF7"><link rel="stylesheet" href="${url('/assets/style.css')}">${script ? `<script type="module" src="${url(`/assets/${script}`)}"></script>` : ''}</head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}${title === config.title ? '' : ` | ${esc(config.title)}`}</title><meta name="description" content="${esc(description)}"><meta name="theme-color" content="#FAFAF7"><link rel="stylesheet" href="${styleUrl}"><script type="module" src="${proseUrl}"></script>${script ? `<script type="module" src="${url(`/assets/${script}`)}"></script>` : ''}</head>
 <body><a class="skip" href="#main">Skip to content</a><div class="site-shell">
 <header class="site-header"><a class="wordmark" href="${url('/life/')}">${esc(config.title)}</a></header>
 <main id="main" tabindex="-1">${body}</main>
@@ -58,7 +65,7 @@ function legacyRedirect(route) { const target=esc(url(route)); return `<!doctype
 await write('life/articles/en',legacyRedirect('/life/articles/'));
 for (const entry of entries) {
   const localized=entry.language==='zh-CN';
-  await write(`life/${entry.slug}`,layout(entry.title,entry.excerpt,localizedEntry(entry,'en',entries,url),{lang:entry.language||'en',script:'prose.js'}));
+  await write(`life/${entry.slug}`,layout(entry.title,entry.excerpt,localizedEntry(entry,'en',entries,url),{lang:entry.language||'en'}));
   if(localized && entry.longform) await write(`life/${entry.slug}/en`,legacyRedirect(`/life/${entry.slug}/`));
   for (const alias of entry.aliases || []) {
     await write(`life/${alias}`,legacyRedirect(`/life/${entry.slug}/`));

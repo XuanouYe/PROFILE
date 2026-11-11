@@ -14,6 +14,6 @@ metadata:
   Programme: Georg Friedrich Haas：11.000 Saiten — Concerto for 50 Pianos and Chamber Orchestra
   Conductor: Johannes Kalitzke
   Orchestra: Klangforum Wien & 50 pianists
-  Venue: Zhejiang Conservatory of Music – Basketball Hall
+  Venue: Zhejiang Conservatory of Music
   Performance date: 2025-10-30
 ---

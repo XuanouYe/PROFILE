@@ -21,6 +21,6 @@ metadata:
     Antonio Vivaldi：Flute Concerto in A minor, RV 440（Flute: Daniela Lieb）
   Conductor: Gottfried von der Goltz
   Orchestra: Freiburger Barockorchester
-  Venue: Philharmonie Berlin – Kammermusiksaal
+  Venue: Philharmonie Berlin
   Performance date: 2025-02-17
 ---

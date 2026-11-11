@@ -17,7 +17,7 @@ metadata:
     Béla Bartók：A kékszakállú herceg vára, Op. 11, Sz. 48, BB 62 (Contralto: Jennifer Johnston; Baritone: Gerald Finley; Narrator: Christiane von Poelnitz)
   Conductor: Klaus Mäkelä
   Orchestra: Koninklijk Concertgebouworkest
-  Venue: Elbphilharmonie, Großer Saal
+  Venue: Elbphilharmonie
   Performance date: 2026-11-10
 ---
 
