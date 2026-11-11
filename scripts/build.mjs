@@ -42,7 +42,10 @@ function row(entry) {
 const examplesNotice = entries.some(e=>e.demo) ? '<aside class="example-notice"><span class="notice-marker" aria-hidden="true"></span><p>Sample notebook <span>These entries demonstrate the site. They are not personal viewing or listening history.</span></p></aside>' : '';
 const selected = entries.filter(e=>e.longform && e.featured);
 const logs = entries.filter(e=>!e.longform && (e.excerpt.trim() || e.body.trim())).slice(0,config.recentLimit || 6);
-const home = `<section class="intro"><h1>Film, music, opera.</h1><p>${esc(config.description)}</p></section>${examplesNotice}
+const home = `<div class="home-hero">
+<h1 class="home-title">${esc(config.title)}</h1>
+<img src="${url('/assets/cinema-hero.webp')}" width="2172" height="724" alt="An old cinema with rows of seats, a red curtain, and a projector casting light onto the screen." fetchpriority="high">
+</div>${examplesNotice}
 <section class="selected-section" aria-labelledby="selected-heading"><div class="section-heading"><h2 id="selected-heading">Selected articles</h2><a href="${url('/life/articles/')}">All articles <span aria-hidden="true">↗</span></a></div>${selected.length ? `<div class="selected-articles">${selected.map((e,i)=>feature(e,i===0)).join('')}</div>` : '<p class="quiet-empty">No articles selected yet. New writing will appear here.</p>'}</section>
 <section class="recent-section" aria-labelledby="recent-heading"><div class="section-heading"><h2 id="recent-heading">Recent log</h2><a href="${archive()}">All log entries <span aria-hidden="true">↗</span></a></div><p class="section-note">${logs.some(e=>!e.publicationDate)?'Undated records retain their order in the original notebook.':'Recent additions, ordered by publication date.'}</p>${logs.length ? `<ul class="log-list">${logs.map(e=>row(e)).join('')}</ul>`:'<p class="quiet-empty">No records published yet.</p>'}<a class="archive-link" href="${archive()}">Explore the complete archive <span aria-hidden="true">↗</span></a></section>${config.current?.text ? `<section class="current"><h2>Currently</h2><p>${esc(config.current.text)}</p></section>`:''}`;
 const years = [...new Set(entries.filter(e=>e.publicationDate).map(e=>e.publicationDate.slice(0,4)))];
