@@ -45,6 +45,6 @@ export function localizedEntry(entry,lang,entries,url) {
   <div class="entry-layout"><aside class="entry-details"><h2>Details</h2><dl class="details-list">${details}</dl></aside><div class="prose" lang="${language}">${body}</div></div>
   ${related.length?`<section class="related"><h2>Related entries</h2><ul>${related.map(e=>`<li><a href="${url(`/life/${e.slug}/`)}" lang="${contentLanguage(e)}">${esc(view(e).title)}</a></li>`).join('')}</ul></section>`:''}
   ${entry.translation?`<section class="entry-credits"><h2>Credits</h2><dl>${Object.entries(entry.translation).filter(([key])=>key!=='sourceUrl').map(([k,v])=>`<dt>${esc(creditNames[k]||k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></section>`:''}
-  ${article?`<footer class="entry-share" data-share-path="${esc(url(`/life/${entry.slug}/`))}" hidden><button type="button">Share</button><span role="status"></span></footer>`:''}
+  <footer class="entry-share" data-share-path="${esc(url(`/life/${entry.slug}/`))}" hidden><button type="button">Share</button><span role="status"></span></footer>
   </article>`;
 }

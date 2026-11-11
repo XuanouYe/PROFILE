@@ -1,9 +1,9 @@
 const shareControls = document.querySelector('.entry-share');
 
 if (shareControls && typeof navigator.share === 'function') {
-  const articleTitle = shareControls.closest('article').querySelector('h1');
+  const entryTitle = shareControls.closest('article').querySelector('h1');
   const shareData = {
-    title: articleTitle.textContent,
+    title: entryTitle.textContent,
     url: new URL(shareControls.dataset.sharePath, location.origin).href,
   };
 
@@ -16,7 +16,7 @@ if (shareControls && typeof navigator.share === 'function') {
       try {
         await navigator.share(shareData);
       } catch (error) {
-        if (error.name !== 'AbortError') status.textContent = 'Could not share this article.';
+        if (error.name !== 'AbortError') status.textContent = 'Could not share this page.';
       }
     });
     shareControls.hidden = false;
