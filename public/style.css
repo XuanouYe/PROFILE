@@ -20,6 +20,7 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 .prose:lang(zh) img { max-height: 820px; object-fit: contain; }
 .prose:lang(zh) figcaption { font-family: var(--songti); font-size: 14px; line-height: 1.8; }
 .localized-entry .entry-header { max-width: 760px; padding-top: 42px; padding-bottom: 46px; }
+.localized-entry:not(.log-entry) .entry-header { padding-top: 19px; }
 .localized-entry .entry-header h1 { font-size: clamp(30px,3.4vw,43px); line-height: 1.55; max-width: 21em; }
 .localized-entry.log-entry .entry-header h1 { font-size: clamp(27px,3vw,38px); }
 .localized-entry .entry-details { position: sticky; top: 30px; }

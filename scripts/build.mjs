@@ -45,7 +45,7 @@ const selected = entries.filter(e=>e.longform && e.featured);
 const logs = entries.filter(e=>!e.longform && (e.excerpt.trim() || e.body.trim())).slice(0,config.recentLimit || 6);
 const home = `${examplesNotice ? `<div class="site-shell">${examplesNotice}</div>` : ''}
 <section class="selected-section" aria-labelledby="selected-heading">
-<div class="section-heading-band"><div class="site-shell section-heading"><h2 id="selected-heading"><a href="${url('/life/articles/')}">Selected articles</a></h2></div></div>
+<div class="section-heading-band"><div class="site-shell section-heading"><h2 id="selected-heading"><a href="${url('/life/articles/')}">Articles</a></h2></div></div>
 <div class="site-shell">${selected.length ? `<div class="selected-articles">${selected.map((e,i)=>feature(e,i===0)).join('')}</div>` : '<p class="quiet-empty">No articles selected yet. New writing will appear here.</p>'}</div>
 </section>
 <section class="recent-section" aria-labelledby="recent-heading">
