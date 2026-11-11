@@ -1,5 +1,12 @@
 import {marked, Marked} from 'marked';
 import {escape as esc, detailFields} from './content.mjs';
+import {queryFor} from '../public/archive-core.js';
+
+export const archiveUrl = (url, filters = {}) => url('/life/archive/') + queryFor(filters);
+
+export function subjectLink(subject, url) {
+  return `<a class="subject-link" href="${esc(archiveUrl(url, {subject}))}">${esc(subject)}</a>`;
+}
 
 // The interface is English; language attributes describe the writing itself.
 const view = entry => entry.english || entry;
@@ -7,7 +14,7 @@ const contentLanguage = entry => entry.english ? 'en' : entry.language || 'en';
 export function articleIndex(entries,lang,url) {
   const articles=entries.filter(e=>e.longform);
   return `<section class="page-intro article-index-intro"><div><h1>Articles</h1><p>Writing on film, music, and opera.</p></div></section>
-  ${articles.length?`<p class="article-index-count">${articles.length} ${articles.length===1?'article':'articles'}</p><div class="article-index-list">${articles.map(entry=>`<article class="article-index-item"><div class="index-meta"><time datetime="${entry.publicationDate}">${entry.publicationDate}</time><span>${esc(entry.subject)}</span></div><div lang="${contentLanguage(entry)}"><h2><a href="${url(`/life/${entry.slug}/`)}">${esc(view(entry).title)}</a></h2><p class="excerpt">${esc(view(entry).excerpt)}</p></div></article>`).join('')}</div>`:'<section class="quiet-empty"><p>No articles published yet.</p></section>'}
+  ${articles.length?`<p class="article-index-count">${articles.length} ${articles.length===1?'article':'articles'}</p><div class="article-index-list">${articles.map(entry=>`<article class="article-index-item"><div class="index-meta"><time datetime="${entry.publicationDate}">${entry.publicationDate}</time>${subjectLink(entry.subject,url)}</div><div lang="${contentLanguage(entry)}"><h2><a href="${url(`/life/${entry.slug}/`)}">${esc(view(entry).title)}</a></h2><p class="excerpt">${esc(view(entry).excerpt)}</p></div></article>`).join('')}</div>`:'<section class="quiet-empty"><p>No articles published yet.</p></section>'}
 `;
 }
 export function localizedEntry(entry,lang,entries,url) {
@@ -41,7 +48,7 @@ export function localizedEntry(entry,lang,entries,url) {
   const creditNames={sourceLanguage:'Source language',translator:'Transcription / translation',originalAuthor:'Original author',sourceTitle:'Source title'};
   const related=entries.filter(e=>e.slug!==entry.slug&&((entry.related||[]).includes(e.slug)||(e.related||[]).includes(entry.slug)||(entry.performanceIds||[]).some(id=>(e.performanceIds||[]).includes(id))||(!(entry.performanceIds?.length)&&!(e.performanceIds?.length)&&(entry.workIds||[]).some(id=>(e.workIds||[]).includes(id)))));
   const dateHtml=entry.publicationDate?`Published <time datetime="${entry.publicationDate}">${date(entry.publicationDate)}</time>`:'Publication date not supplied';
-  return `<article class="entry localized-entry ${article?'':'log-entry'}"><header class="entry-header"><div class="entry-kind"><span>${esc(entry.subject)}</span></div><h1 lang="${language}">${esc(content.title)}</h1><p class="publication">${dateHtml}</p></header>
+  return `<article class="entry localized-entry ${article?'':'log-entry'}"><header class="entry-header"><div class="entry-kind">${subjectLink(entry.subject,url)}</div><h1 lang="${language}">${esc(content.title)}</h1><p class="publication">${dateHtml}</p></header>
   <div class="entry-layout"><aside class="entry-details"><h2>Details</h2><dl class="details-list">${details}</dl></aside><div class="prose" lang="${language}">${body}</div></div>
   ${related.length?`<section class="related"><h2>Related entries</h2><ul>${related.map(e=>`<li><a href="${url(`/life/${e.slug}/`)}" lang="${contentLanguage(e)}">${esc(view(e).title)}</a></li>`).join('')}</ul></section>`:''}
   ${entry.translation?`<section class="entry-credits"><h2>Credits</h2><dl>${Object.entries(entry.translation).filter(([key])=>key!=='sourceUrl').map(([k,v])=>`<dt>${esc(creditNames[k]||k)}</dt><dd>${esc(v)}</dd>`).join('')}</dl></section>`:''}
