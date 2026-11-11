@@ -19,8 +19,7 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 .prose:lang(zh) h2 { margin-top: 2em; line-height: 1.5; }
 .prose:lang(zh) img { max-height: 820px; object-fit: contain; }
 .prose:lang(zh) figcaption { font-family: var(--songti); font-size: 14px; line-height: 1.8; }
-.localized-entry .entry-header { max-width: 760px; padding-top: 42px; padding-bottom: 46px; }
-.localized-entry:not(.log-entry) .entry-header { padding-top: 19px; }
+.localized-entry .entry-header { max-width: 760px; padding-top: 19px; padding-bottom: 46px; }
 .localized-entry .entry-header h1 { font-size: clamp(30px,3.4vw,43px); line-height: 1.55; max-width: 21em; }
 .localized-entry.log-entry .entry-header h1 { font-size: clamp(27px,3vw,38px); }
 .localized-entry .entry-details { position: sticky; top: 30px; }
@@ -63,7 +62,7 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
   .index-end { margin-left: 0; }
   .entry-toolbar { gap: 10px; }
   .language-nav a { padding: 6px 10px; }
-  .localized-entry .entry-header { padding-top: 30px; padding-bottom: 32px; }
+  .localized-entry .entry-header { padding-bottom: 32px; }
   .localized-entry .entry-header h1 { font-size: 29px; line-height: 1.6; }
   .prose:lang(zh) { font-size: 18px; line-height: 1.95; }
   .lead-article h3:lang(zh) { font-size: 28px; }
