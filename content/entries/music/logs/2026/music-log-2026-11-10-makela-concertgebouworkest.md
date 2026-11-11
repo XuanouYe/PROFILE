@@ -12,9 +12,9 @@ medium: live
 rating: 4
 metadata:
   Programme: |-
-    Antonín Dvořák：Symphony No. 7 in D minor, Op. 70, B. 141
+    Antonín Dvořák：Symphony No.7 in D minor, Op.70, B.141
     
-    Béla Bartók：A kékszakállú herceg vára, Op. 11, Sz. 48, BB 62 (Contralto: Jennifer Johnston; Baritone: Gerald Finley; Narrator: Christiane von Poelnitz)
+    Béla Bartók：A kékszakállú herceg vára, Op.11, Sz.48, BB 62 (Contralto: Jennifer Johnston; Baritone: Gerald Finley; Narrator: Christiane von Poelnitz)
   Conductor: Klaus Mäkelä
   Orchestra: Koninklijk Concertgebouworkest
   Venue: Elbphilharmonie, Großer Saal
