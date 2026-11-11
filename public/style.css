@@ -131,25 +131,30 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
   padding-block: 8px;
 }
 
-.selected-section {
-  padding-top: 48px;
-}
-
+.selected-section,
 .recent-section {
   --first-log-padding: 24px;
-  --log-heading-gap: calc(var(--first-log-padding) + 9px);
+  --section-heading-gap: calc(var(--first-log-padding) + 9px);
+}
+
+.selected-section .section-heading {
+  padding-top: var(--section-heading-gap);
 }
 
 .recent-section .section-heading::before {
   content: "";
   display: block;
   border-top: 1px solid var(--divider);
-  margin-bottom: var(--log-heading-gap);
+  margin-bottom: var(--section-heading-gap);
 }
 
-.masthead-inner,
-.section-heading h2 {
+.masthead-inner {
   font: var(--heading-size)/1.2 var(--serif);
+}
+
+.section-heading h2 {
+  font: 400 17px/26px var(--sans);
+  color: var(--muted);
 }
 
 .masthead-inner h1 {
@@ -196,17 +201,14 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 }
 
 @media (max-width: 540px) {
-  .selected-section {
-    padding-top: 69px;
+  .selected-section,
+  .recent-section {
+    /* The date and subject sit above the first log title on narrow screens. */
+    --section-heading-gap: calc(var(--first-log-padding) + 37px);
   }
 
   .selected-articles > .lead-article {
     padding-top: 37px;
-  }
-
-  .recent-section {
-    /* The date and subject sit above the title on narrow screens. */
-    --log-heading-gap: calc(var(--first-log-padding) + 37px);
   }
 
   .recent-section .log-row {
