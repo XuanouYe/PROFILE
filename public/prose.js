@@ -1,3 +1,28 @@
+const shareControls = document.querySelector('.entry-share');
+
+if (shareControls && typeof navigator.share === 'function') {
+  const articleTitle = shareControls.closest('article').querySelector('h1');
+  const shareData = {
+    title: articleTitle.textContent,
+    url: new URL(shareControls.dataset.sharePath, location.origin).href,
+  };
+
+  if (navigator.canShare?.(shareData) !== false) {
+    const button = shareControls.querySelector('button');
+    const status = shareControls.querySelector('[role="status"]');
+
+    button.addEventListener('click', async () => {
+      status.textContent = '';
+      try {
+        await navigator.share(shareData);
+      } catch (error) {
+        if (error.name !== 'AbortError') status.textContent = 'Could not share this article.';
+      }
+    });
+    shareControls.hidden = false;
+  }
+}
+
 const justifiedBlocks = ':is(.prose p, .prose li, .excerpt, .row-main p):not(:lang(zh))';
 const spacesByBlock = new Map();
 const walker = document.createTreeWalker(document.querySelector('main'), NodeFilter.SHOW_TEXT);

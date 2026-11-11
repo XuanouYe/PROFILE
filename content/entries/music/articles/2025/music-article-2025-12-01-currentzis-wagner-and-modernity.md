@@ -4,7 +4,7 @@ slug: music-article-2025-12-01-currentzis-wagner-and-modernity
 aliases:
   - currentzis-wagner-and-modernity
 publicationDate: 2025-12-01
-excerpt: "In November 2025, Teodor Currentzis returned to China with musicAeterna to perform Lorin Maazel’s arrangement of The Ring Without Words."
+excerpt: "In November 2025, Teodor Currentzis returned to China with musicAeterna to perform Lorin Maazel's arrangement of The Ring Without Words."
 draft: false
 featured: true
 language: en

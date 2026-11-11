@@ -80,9 +80,12 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 .entry-credits h2 { font-family: var(--sans); font-size: 12px; }
 .entry-credits dl { margin-top: 12px; }
 .entry-credits dd { margin: 0 0 10px; }
+.entry-share { display: flex; align-items: center; gap: 12px; margin: 30px 0 0 22%; font-size: 13px; color: var(--muted); }
+.entry-share button { min-height: 44px; padding: 8px 16px; border: 1px solid var(--divider); border-radius: 3px; background: var(--paper); color: var(--green); cursor: pointer; }
+.entry-share button:hover { border-color: var(--green); }
 @media (max-width: 800px) {
   .details-list .detail-item { grid-template-columns: 140px minmax(0, 1fr); column-gap: 18px; }
-  .entry-credits { margin-left: 0; }
+  .entry-credits, .entry-share { margin-left: 0; }
 }
 @media (max-width: 540px) {
   .details-list .detail-item { grid-template-columns: 105px minmax(0, 1fr); }
