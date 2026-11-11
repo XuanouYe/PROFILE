@@ -5,6 +5,7 @@ dist/
 .pnpm-store/
 .local-tools/
 .DS_Store
+/.idea/
 
 # Obsidian session state, local credentials, and installed plugin code
 .obsidian/workspace*.json

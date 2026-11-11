@@ -131,6 +131,19 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
   padding-block: 8px;
 }
 
+.selected-section {
+  padding-top: 48px;
+}
+
+.recent-section .section-heading {
+  padding-top: 0;
+}
+
+.recent-section .section-heading h2 {
+  border-top: 1px solid var(--divider);
+  padding-top: 8px;
+}
+
 .masthead-inner,
 .section-heading h2 {
   font: var(--heading-size)/1.2 var(--serif);
@@ -180,6 +193,10 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 }
 
 @media (max-width: 540px) {
+  .selected-section {
+    padding-top: 69px;
+  }
+
   .selected-articles > .lead-article {
     padding-top: 37px;
   }
