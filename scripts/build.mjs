@@ -45,11 +45,11 @@ const selected = entries.filter(e=>e.longform && e.featured);
 const logs = entries.filter(e=>!e.longform && (e.excerpt.trim() || e.body.trim())).slice(0,config.recentLimit || 6);
 const home = `${examplesNotice ? `<div class="site-shell">${examplesNotice}</div>` : ''}
 <section aria-labelledby="selected-heading">
-<div class="section-heading-band"><div class="site-shell section-heading"><h2 id="selected-heading">Selected articles</h2><a href="${url('/life/articles/')}">All articles <span aria-hidden="true">↗</span></a></div></div>
+<div class="section-heading-band"><div class="site-shell section-heading"><h2 id="selected-heading"><a href="${url('/life/articles/')}">Selected articles</a></h2></div></div>
 <div class="site-shell">${selected.length ? `<div class="selected-articles">${selected.map((e,i)=>feature(e,i===0)).join('')}</div>` : '<p class="quiet-empty">No articles selected yet. New writing will appear here.</p>'}</div>
 </section>
 <section class="recent-section" aria-labelledby="recent-heading">
-<div class="section-heading-band"><div class="site-shell section-heading"><h2 id="recent-heading">Recent log</h2><a href="${archive}">All log entries <span aria-hidden="true">↗</span></a></div></div>
+<div class="section-heading-band"><div class="site-shell section-heading"><h2 id="recent-heading"><a href="${archive}">Recent log</a></h2></div></div>
 <div class="site-shell">${logs.length ? `<ul class="log-list">${logs.map(e=>row(e)).join('')}</ul>`:'<p class="quiet-empty">No records published yet.</p>'}
 <a class="archive-link" href="${archive}">Explore the complete archive <span aria-hidden="true">↗</span></a></div>
 </section>${config.current?.text ? `<div class="site-shell"><section class="current"><h2>Currently</h2><p>${esc(config.current.text)}</p></section></div>`:''}`;
