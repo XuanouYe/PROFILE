@@ -1,5 +1,5 @@
 ---
-title: Hangzhou Philharmonic Orchestra | Markus Stenz – Götterdämmerung
+title: Hangzhou Philharmonic Orchestra | Markus Stenz
 slug: music-log-2025-11-22-stenz-gotterdammerung
 publicationDate: 2025-11-22
 experienceDate: 2025-11-22

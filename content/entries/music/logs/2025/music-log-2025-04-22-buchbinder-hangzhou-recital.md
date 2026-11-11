@@ -1,5 +1,5 @@
 ---
-title: Rudolf Buchbinder | Piano Recital
+title: Rudolf Buchbinder
 slug: music-log-2025-04-22-buchbinder-hangzhou-recital
 publicationDate: 2025-04-22
 experienceDate: 2025-04-22

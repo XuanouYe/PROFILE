@@ -1,5 +1,5 @@
 ---
-title: Symphonieorchester des Bayerischen Rundfunks | Simon Rattle – musica viva
+title: Symphonieorchester des Bayerischen Rundfunks | Simon Rattle
 slug: music-log-2025-03-22-rattle-musica-viva
 publicationDate: 2025-03-22
 experienceDate: 2025-03-22

@@ -1,5 +1,5 @@
 ---
-title: Jakub Józef Orliński & Il Pomo d’Oro | Beyond
+title: Jakub Józef Orliński | Il Pomo d’Oro
 slug: music-log-2026-03-19-orlinski-il-pomo-doro
 aliases:
   - music-2026-03-19-orlinski-il-pomo-doro

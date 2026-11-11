@@ -20,7 +20,7 @@ const subjectLinks = entry => esc(entry.subject);
 const badge = entry => entry.demo ? '<span class="demo-tag">Example</span>' : '';
 function layout(title, description, body, {page='',script='',lang='en'}={}) {
   return `<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}${title === config.title ? '' : ` | ${esc(config.title)}`}</title><meta name="description" content="${esc(description)}"><meta name="theme-color" content="#FAFAF7"><link rel="stylesheet" href="${url('/assets/style.css')}">${script ? `<script type="module" src="${url('/assets/archive.js')}"></script>` : ''}</head>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>${esc(title)}${title === config.title ? '' : ` | ${esc(config.title)}`}</title><meta name="description" content="${esc(description)}"><meta name="theme-color" content="#FAFAF7"><link rel="stylesheet" href="${url('/assets/style.css')}">${script ? `<script type="module" src="${url(`/assets/${script}`)}"></script>` : ''}</head>
 <body><a class="skip" href="#main">Skip to content</a><div class="site-shell">
 <header class="site-header"><a class="wordmark" href="${url('/life/')}">${esc(config.title)}</a></header>
 <main id="main" tabindex="-1">${body}</main>
@@ -49,16 +49,16 @@ const archiveBody = `<section class="page-intro"><h1>The archive</h1><p>Find a f
 await fs.rm(out,{recursive:true,force:true});
 await fs.mkdir(path.join(out,'assets'),{recursive:true});
 await fs.cp(path.join(root,'public'),out,{recursive:true});
-for (const name of ['archive.js','archive-core.js','style.css']) { await fs.rename(path.join(out,name),path.join(out,'assets',name)); }
+for (const name of ['archive.js','archive-core.js','prose.js','style.css']) { await fs.rename(path.join(out,name),path.join(out,'assets',name)); }
 async function write(route,html) { const folder = path.join(out,route); await fs.mkdir(folder,{recursive:true}); await fs.writeFile(path.join(folder,'index.html'),html); }
 await write('life',layout(config.title,config.description,home,{page:'home'}));
-await write('life/archive',layout('Archive','Browse film, music, and opera by subject, year, or search.',archiveBody,{page:'archive',script:true}));
+await write('life/archive',layout('Archive','Browse film, music, and opera by subject, year, or search.',archiveBody,{page:'archive',script:'archive.js'}));
 await write('life/articles',layout('Articles','Writing on film, music, and opera.',articleIndex(entries,'en',url)));
 function legacyRedirect(route) { const target=esc(url(route)); return `<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="refresh" content="0; url=${target}"><link rel="canonical" href="${target}"><title>Redirect | ${esc(config.title)}</title></head><body><a href="${target}">Continue reading</a></body></html>`; }
 await write('life/articles/en',legacyRedirect('/life/articles/'));
 for (const entry of entries) {
   const localized=entry.language==='zh-CN';
-  await write(`life/${entry.slug}`,layout(entry.title,entry.excerpt,localizedEntry(entry,'en',entries,url),{lang:entry.language||'en'}));
+  await write(`life/${entry.slug}`,layout(entry.title,entry.excerpt,localizedEntry(entry,'en',entries,url),{lang:entry.language||'en',script:'prose.js'}));
   if(localized && entry.longform) await write(`life/${entry.slug}/en`,legacyRedirect(`/life/${entry.slug}/`));
   for (const alias of entry.aliases || []) {
     await write(`life/${alias}`,legacyRedirect(`/life/${entry.slug}/`));

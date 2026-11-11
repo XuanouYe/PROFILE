@@ -13,6 +13,9 @@ h1:lang(zh), h2:lang(zh), h3:lang(zh), .excerpt:lang(zh), .prose:lang(zh), .row-
 h1:lang(zh), h2:lang(zh), h3:lang(zh) { letter-spacing: 0; }
 .prose:lang(zh) { font-size: 19px; line-height: 2; max-width: 36em; line-break: strict; word-break: normal; overflow-wrap: anywhere; }
 .prose:lang(zh) p { margin-bottom: 1.5em; }
+.prose :is(p, li) { text-align: justify; text-align-last: start; hyphens: manual; }
+.prose :is(p, li).auto-hyphenate { hyphens: auto; }
+.prose.measure-word-spacing :is(p, li) { text-align: start; }
 .prose:lang(zh) h2 { margin-top: 2em; line-height: 1.5; }
 .prose:lang(zh) img { max-height: 820px; object-fit: contain; }
 .prose:lang(zh) figcaption { font-family: var(--songti); font-size: 14px; line-height: 1.8; }

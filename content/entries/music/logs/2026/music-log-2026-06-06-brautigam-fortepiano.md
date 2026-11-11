@@ -1,5 +1,5 @@
 ---
-title: Ronald Brautigam | Mozart, Haydn & Beethoven
+title: Ronald Brautigam | Fortepiano
 slug: music-log-2026-06-06-brautigam-fortepiano
 aliases:
   - music-2026-06-06-brautigam-fortepiano

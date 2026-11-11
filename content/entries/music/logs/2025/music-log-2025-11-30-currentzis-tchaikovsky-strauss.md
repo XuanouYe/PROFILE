@@ -1,5 +1,5 @@
 ---
-title: musicAeterna | Teodor Currentzis – Tchaikovsky & Strauss
+title: musicAeterna | Teodor Currentzis
 slug: music-log-2025-11-30-currentzis-tchaikovsky-strauss
 publicationDate: 2025-11-30
 experienceDate: 2025-11-30

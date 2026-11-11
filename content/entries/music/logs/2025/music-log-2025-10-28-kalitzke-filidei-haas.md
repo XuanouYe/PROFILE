@@ -1,5 +1,5 @@
 ---
-title: Klangforum Wien | Johannes Kalitzke – Filidei & Haas
+title: Klangforum Wien | Johannes Kalitzke
 slug: music-log-2025-10-28-kalitzke-filidei-haas
 publicationDate: 2025-10-28
 experienceDate: 2025-10-28

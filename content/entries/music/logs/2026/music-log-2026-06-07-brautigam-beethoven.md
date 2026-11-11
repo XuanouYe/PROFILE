@@ -1,5 +1,5 @@
 ---
-title: Ronald Brautigam | Beethoven
+title: Ronald Brautigam | Modern Piano
 slug: music-log-2026-06-07-brautigam-beethoven
 aliases:
   - music-2026-06-07-brautigam-beethoven

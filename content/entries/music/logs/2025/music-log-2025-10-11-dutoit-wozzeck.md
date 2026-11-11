@@ -1,5 +1,5 @@
 ---
-title: Shanghai Symphony Orchestra | Charles Dutoit – Wozzeck
+title: Shanghai Symphony Orchestra | Charles Dutoit
 slug: music-log-2025-10-11-dutoit-wozzeck
 publicationDate: 2025-10-11
 experienceDate: 2025-10-11
