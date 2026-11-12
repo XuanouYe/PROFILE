@@ -1,4 +1,5 @@
 ---
+title: Bayerisches Staatsorchester | Vladimir Jurowski
 slug: music-log-2024-11-04-jurowski-schoenberg-beethoven-9
 publicationDate: 2024-11-04
 excerpt: ""
