@@ -16,6 +16,6 @@ metadata:
     Igor Stravinsky：Le Sacre du printemps
   Conductor: Krzysztof Urbański
   Orchestra: Bayerisches Staatsorchester
-  Venue: Nationaltheater
+  Venue: Bayerisches Staatsoper
   Performance date: 25 November 2024
 ---
