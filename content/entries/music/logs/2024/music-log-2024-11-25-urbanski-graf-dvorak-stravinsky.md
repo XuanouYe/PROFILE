@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Antonín Dvořák：Cello Concerto in B minor, Op. 104, B. 191（Cello: Emanuel Graf）

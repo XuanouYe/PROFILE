@@ -16,7 +16,7 @@ metadata:
   Year: 1973
 subject: film
 longform: true
-rating: null
+rating: 4.5
 ---
 
 When rewatching *Ludwig* in early August, the idea of writing a cinephile's travelogue began to take shape. I then went to Munich on an exchange programme and visited all the buildings associated with Ludwig II mentioned in the film. Beyond their imitations of French court decoration, I noticed many distinctive Wagnerian themes. Wagner's operas, palace architecture, and Visconti's visual aesthetics merge into a fascinating whole in this historical drama. The viewer's perspective drifts through history. Investigating the film on location allowed me to see a great deal.

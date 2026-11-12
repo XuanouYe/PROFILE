@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3.5
 metadata:
   Programme: |-
     Einojuhani Rautavaara：Piano Concerto No. 3, "Gift of Dreams"（Piano: Laura Mikkola）

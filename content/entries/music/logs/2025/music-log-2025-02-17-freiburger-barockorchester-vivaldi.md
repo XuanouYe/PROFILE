@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 2.5
 metadata:
   Programme: |-
     Antonio Vivaldi：La fida ninfa, RV 714 — Overture

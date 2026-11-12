@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Arnold Schoenberg：A Survivor from Warsaw, Op. 46（Narrator: Christof Fischesser; Male Chorus: Bayerischer Staatsopernchor; Chorus Master: Christoph Heil）

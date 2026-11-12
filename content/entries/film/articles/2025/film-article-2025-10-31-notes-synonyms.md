@@ -16,7 +16,7 @@ metadata:
   Year: 2025
 subject: film
 longform: true
-rating:
+rating: 5
 ---
 
 After proofreading the subtitles for the Wuhan screening, I watched *Yes* for a second time at its Chinese premiere there. It begins with a song battle: the fast beat of "Be My Lover" on one side, the slow "Love Me Tender, Love Me True" on the other. Both are songs about love, yet both feel intensely aggressive. The first part unfolds to the rhythm of this battle, with occasional variations. The living-room scene, for instance, moves between individual and collective consciousness, between furious dancing and silent listening. It is as though the shelling of Gaza exists both inside the body and in the surrounding environment. Then there is Y watching Israeli citizens, all subject to military service, exercising in the street, while he sits on a bench and looks up at the sun through the leaves. He goes to the gym to watch Yasmin dance, then hides away in a room to play the piano. Lapid's ferocious visual style finds its proper place here. The camera can spin horizontally or flip vertically; madness can interrupt sorrow at any moment, and sorrow can interrupt madness. On my first viewing, the slower passages of narration overwhelmed me with emotion. On the second, it was every outburst of mania and frenzy that made me want to cry, because each one was chewing over those moments of silence. It almost splits the mind in two.

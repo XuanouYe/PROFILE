@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: "Richard Wagner：Götterdämmerung, WWV 86D (concert performance)（Tenor: Simon O’Neill; Baritone: Markus Eiche; Bass: Christian Valle; Soprano: Edith Haller, Yanhua Liu; Mezzo-soprano: Anna Danik）"
   Conductor: Markus Stenz

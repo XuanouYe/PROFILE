@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 2
 metadata:
   Programme: |-
     Antonín Dvořák：Legend in B-flat minor, Op. 59, No. 10, B. 122

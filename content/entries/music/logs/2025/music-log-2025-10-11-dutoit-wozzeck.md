@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3.5
 metadata:
   Programme: "Alban Berg：Wozzeck, Op. 7 (concert performance)（Baritone: Robin Adams; Soprano: Magdalena Anna Hofmann; Tenor: Michael Schade）"
   Conductor: Charles Dutoit

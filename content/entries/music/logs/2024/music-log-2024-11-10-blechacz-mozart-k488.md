@@ -1,5 +1,5 @@
 ---
-title: Rafał Blechacz | Mozart
+title: Rafał Blechacz
 slug: music-log-2024-11-10-blechacz-mozart-k488
 publicationDate: 2024-11-10
 excerpt: ""
@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Wolfgang Amadeus Mozart：Divertimento in F major, K. 138

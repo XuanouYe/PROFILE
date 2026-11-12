@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Venue: Jiangsu Centre for the Performing Arts
   Performance date: 2025-10-25

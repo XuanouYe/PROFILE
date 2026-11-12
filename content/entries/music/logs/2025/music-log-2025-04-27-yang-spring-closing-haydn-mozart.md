@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3.5
 metadata:
   Programme: |-
     Joseph Haydn：Symphony No. 104 in D major, Hob. I:104, "London"

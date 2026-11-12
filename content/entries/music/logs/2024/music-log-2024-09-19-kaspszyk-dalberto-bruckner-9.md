@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Wolfgang Amadeus Mozart：Piano Concerto No. 20 in D minor, K. 466（Piano: Michel Dalberto）

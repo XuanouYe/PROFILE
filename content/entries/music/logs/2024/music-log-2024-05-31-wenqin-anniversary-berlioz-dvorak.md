@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 1
 metadata:
   Programme: |-
     Hector Berlioz：Harold en Italie, Symphony in G major with Solo Viola, Op. 16, H 68

@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Niccolò Paganini：Violin Concerto No. 1 in D major, Op. 6, MS 21（Violin: Bin Huang）

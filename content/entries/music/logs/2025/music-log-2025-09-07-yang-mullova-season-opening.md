@@ -9,11 +9,11 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Johannes Brahms：Violin Concerto in D major, Op. 77（Violin: Viktoria Mullova）
-
+    
     Dmitri Shostakovich：Symphony No. 7 in C major, Op. 60, "Leningrad"
   Conductor: Yang Yang
   Orchestra: Hangzhou Philharmonic Orchestra

@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4.5
 metadata:
   Programme: |-
     Sergei Prokofiev：Piano Concerto No. 2 in G minor, Op. 16（Piano: Alexander Melnikov）

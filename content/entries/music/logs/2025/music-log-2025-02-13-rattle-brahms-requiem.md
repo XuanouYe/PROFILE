@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: "Johannes Brahms：Ein deutsches Requiem, Op. 45（Soprano: Lucy Crowe; Baritone: Michael Nagy）"
   Conductor: Simon Rattle

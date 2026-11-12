@@ -16,7 +16,7 @@ metadata:
   Year: 2026
 subject: film
 longform: true
-rating:
+rating: 5
 ---
 
 Keep returning to that night in the dining room of the care home. As in Asako I & II, and in any Hamaguchi film that has left a lasting impression on us, distance matters enormously. Entering this scene, we share Mari's unfamiliar gaze. We first see darkness, then the light coming through the opening door, and soon Marie-Lou switches on the lights. We know that, through their earlier conversation, Mari and Marie-Lou have already drawn somewhat closer. Each has even witnessed and participated in the other's work: producing sounds for a theatrical performance from the audience, and performing the gestures of Humanitude while comforting and washing an elderly resident.

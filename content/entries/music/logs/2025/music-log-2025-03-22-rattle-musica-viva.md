@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 5
 metadata:
   Programme: |-
     Pierre Boulez：Cummings ist der Dichter

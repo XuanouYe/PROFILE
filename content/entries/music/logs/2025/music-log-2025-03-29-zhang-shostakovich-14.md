@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 2.5
 metadata:
   Programme: |-
     Dmitri Shostakovich：Октябрь — Symphonic Poem in C minor, Op. 131

@@ -9,15 +9,15 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3.5
 metadata:
   Programme: |-
-    Bedřich Smetana：String Quartet No. 1 in E minor, "Z mého života"（Violin: Karin Löffler, Celina Bäumer; Viola: Giovanni Menna; Cello: Uta Zenke-Vogelmann）
+    Bedřich Smetana：String Quartet No. 1 in E minor, "Z mého života"
 
-    Gideon Klein：String Trio（Viola: Giovanni Menna; Cello: Uta Zenke-Vogelmann）
+    Gideon Klein：String Trio
 
-    Antonín Dvořák：Piano Quintet No. 2 in A major, Op. 81, B. 155（Piano: Anne Schätz; Violin: Karin Löffler, Celina Bäumer; Viola: Giovanni Menna; Cello: Uta Zenke-Vogelmann）
-  Orchestra: Members of the Symphonieorchester des Bayerischen Rundfunks
+    Antonín Dvořák：Piano Quintet No. 2 in A major, Op. 81, B. 155
+  Orchestra: Symphonieorchester des Bayerischen Rundfunks
   Venue: Max-Joseph-Saal, Münchner Residenz
   Performance date: 2025-01-18
 ---

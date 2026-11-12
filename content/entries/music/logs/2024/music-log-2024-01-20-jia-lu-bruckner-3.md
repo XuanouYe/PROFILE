@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 1.5
 metadata:
   Programme: |-
     Joseph Haydn：Cello Concerto No. 1 in C major, Hob. VIIb:1（Cello: Yibai Chen）

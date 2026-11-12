@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: "Richard Wagner：Tristan und Isolde, WWV 90 — Act II（concert performance）（Tenor: Stuart Skelton; Soprano: Lise Davidsen; Mezzo-soprano: Karen Cargill; Baritone: Sean Michael Plumb; Bass: Christof Fischesser）"
   Conductor: Simon Rattle

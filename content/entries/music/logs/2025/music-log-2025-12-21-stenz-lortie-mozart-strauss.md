@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4.5
 metadata:
   Programme: |-
     Hector Berlioz：Le Carnaval romain — Overture, Op. 9, H. 95

@@ -16,7 +16,7 @@ metadata:
   Year: 1969
 subject: film
 longform: true
-rating: null
+rating: 4
 ---
 
 To the roar of machinery, the camera pans across a rough, rudimentary factory landscape. Sound precedes the comic performance as the characters are introduced one by one. A joking tone of assumed superiority directs our attention toward the familiar figure of the slick, well-groomed bureaucrat. Czech cinema seems naturally endowed with humour. Its ensembles are assembled from apparently unrelated faces and identities, yet we know that behind this seemingly absurd, unstable system lies an unmistakable indication of the political climate. As the camera swings, our gaze also encounters the machines continually working in the factory. Around the theatrical space and its constructed settings, conspicuous, direct performances involving these installations keep unfolding.

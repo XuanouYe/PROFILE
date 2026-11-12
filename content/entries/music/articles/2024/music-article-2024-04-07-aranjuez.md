@@ -12,7 +12,7 @@ metadata:
   Programme: "Rodrigo: Aranjuez Concerto (Concierto de Aranjuez)"
 subject: music
 longform: true
-rating: null
+rating: 5
 medium: recording
 ---
 

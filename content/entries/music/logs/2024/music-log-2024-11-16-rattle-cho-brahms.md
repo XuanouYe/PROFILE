@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Johannes Brahms：Piano Concerto No. 2 in B-flat major, Op. 83（Piano: Seong-Jin Cho）

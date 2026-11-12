@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 1.5
 metadata:
   Programme: |-
     Bright Sheng：Rooster of Dawn for Orchestra

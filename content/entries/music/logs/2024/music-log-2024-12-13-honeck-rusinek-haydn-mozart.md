@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 5
 metadata:
   Programme: |-
     Joseph Haydn：Symphony No. 93 in D major, Hob. I:93

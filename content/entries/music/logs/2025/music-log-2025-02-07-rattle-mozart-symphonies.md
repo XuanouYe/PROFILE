@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4.5
 metadata:
   Programme: |-
     Wolfgang Amadeus Mozart：Symphony No. 39 in E-flat major, K. 543

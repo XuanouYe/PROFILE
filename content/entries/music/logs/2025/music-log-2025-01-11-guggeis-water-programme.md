@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Felix Mendelssohn：Die schöne Melusine — Concert Overture in F major, Op. 32

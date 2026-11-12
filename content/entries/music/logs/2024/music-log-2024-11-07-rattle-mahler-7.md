@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Harrison Birtwistle：Donum Simoni MMXVIII for Wind and Percussion

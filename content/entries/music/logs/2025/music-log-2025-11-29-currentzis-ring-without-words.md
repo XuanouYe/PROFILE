@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4.5
 metadata:
   Programme: Richard Wagner：Der Ring ohne Worte — Symphonic Synthesis from Der Ring des Nibelungen, WWV 86 (arranged by Lorin Maazel)
   Conductor: Teodor Currentzis

@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3.5
 metadata:
   Programme: |-
     Franz Schubert：Symphony No. 8 in B minor, D. 759, "Unvollendete"

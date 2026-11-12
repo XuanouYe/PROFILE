@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Felix Mendelssohn：Symphony No. 5 in D minor, Op. 107, "Reformation"

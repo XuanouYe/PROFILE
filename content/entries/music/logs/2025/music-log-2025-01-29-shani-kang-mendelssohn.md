@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3.5
 metadata:
   Programme: |-
     Louise Farrenc：Overture No. 2 in E-flat major, Op. 24

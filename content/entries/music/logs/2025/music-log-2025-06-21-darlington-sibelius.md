@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Jean Sibelius：Finlandia, Op. 26

@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Tian Zhou：Line

@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Wolfgang Amadeus Mozart（attributed）：Sinfonia Concertante for Oboe, Clarinet, Horn and Bassoon in E-flat major, K. 297b（Oboe: Marie-Luise Modersohn; Clarinet: László Kuti; Horn: Bertrand Chatenet; Bassoon: Romain Lucas）

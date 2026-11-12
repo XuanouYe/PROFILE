@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Venue: Hangzhou Grand Theatre
   Performance date: 2025-11-08

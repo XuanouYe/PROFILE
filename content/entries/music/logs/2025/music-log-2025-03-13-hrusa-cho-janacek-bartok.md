@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4
 metadata:
   Programme: |-
     Leoš Janáček：Osud, JW I/5 — Suite (arranged by František Jílek and Jakub Hrůša)

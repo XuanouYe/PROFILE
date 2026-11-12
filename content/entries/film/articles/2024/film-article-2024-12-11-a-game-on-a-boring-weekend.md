@@ -16,7 +16,7 @@ metadata:
   Year: 2004
 subject: film
 longform: true
-rating: null
+rating: 4
 ---
 
 As this Mexican film begins, we unexpectedly find ourselves "seeing" a melody. Onomatopoeia, sound in its simplest written form, takes over the entire black screen. Image and sound exchange places behind it, playing out the syncopation of guitar chords. A cheerful bossa nova leads into the opening credits. We cannot help imagining all the possible forms of organization this music might imply: a noisy little romance murmuring lightly to itself, or merely a prelude to the misty narrative labyrinth of Latin American cultural expression? Soon the sound disappears as though swallowed by a black hole. Fade in, fade out: the film breaks formally into something else, an uncompromising game of lines and geometry. Circular objects appear in static close shots; viewed from farther away and at an angle, they become ellipses. A few lines persistently, teasingly divide sky from earth in the distant views. The images are black and white, as though dropped into the streets at random.

@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4.5
 metadata:
   Programme: |-
     Pyotr Ilyich Tchaikovsky：Symphony No. 5 in E minor, Op. 64

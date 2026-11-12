@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: Anton Bruckner：Symphony No. 8 in C minor, WAB 108（1889–90 version）
   Conductor: Tugan Sokhiev

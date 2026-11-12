@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Dmitri Shostakovich：Festive Overture in A major, Op. 96
@@ -28,5 +28,5 @@ metadata:
   Conductor: Yang Yang
   Orchestra: Hangzhou Philharmonic Orchestra
   Venue: Hangzhou Grand Theatre
-  Performance date: 2025-07-20 (partial attendance; full scheduled programme listed)
+  Performance date: 2025-07-20
 ---

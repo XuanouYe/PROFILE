@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 5
 metadata:
   Programme: |-
     Jay Schwartz：Passacaglia – Music for Orchestra IX

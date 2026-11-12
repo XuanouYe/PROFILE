@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 2
 metadata:
   Programme: |-
     Arnold Schoenberg：Five Pieces for Orchestra, Op. 16

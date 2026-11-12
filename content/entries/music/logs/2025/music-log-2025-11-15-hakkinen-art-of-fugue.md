@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: "Johann Sebastian Bach：Die Kunst der Fuge in D minor, BWV 1080"
   Venue: Jaguar Shanghai Symphony Hall

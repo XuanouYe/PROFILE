@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 4.5
 metadata:
   Programme: |-
     Sergei Prokofiev：Symphony No. 2 in D minor, Op. 40

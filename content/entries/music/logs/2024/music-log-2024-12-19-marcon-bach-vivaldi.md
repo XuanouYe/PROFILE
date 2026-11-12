@@ -8,10 +8,11 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Johann Sebastian Bach：Orchestral Suite No. 3 in D major, BWV 1068
+    
     Antonio Vivaldi：Concerto in G minor, RV 576（Violin: Julian Shevlin; Oboe: Andrey Godik; Recorders: Irene Liebau and Céline Pasche）
     
     Johann Sebastian Bach：Orchestral Suite No. 4 in D major, BWV 1069

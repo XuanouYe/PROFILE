@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3.5
 metadata:
   Programme: |-
     Sergei Rachmaninoff：Piano Concerto No. 2 in C minor, Op. 18（Piano: Khatia Buniatishvili）

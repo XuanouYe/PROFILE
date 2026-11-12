@@ -8,7 +8,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 3
 metadata:
   Programme: |-
     Felix Mendelssohn：Piano Concerto No. 1 in G minor, Op. 25（Piano: Wei Luo）

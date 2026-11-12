@@ -16,7 +16,7 @@ metadata:
   Year: 1988
 subject: film
 longform: true
-rating: null
+rating: 4
 ---
 
 As in opera, the performers look at the audience. This time, the provocative gaze that recurs throughout Oliveira's cinema is justified as a form of performance that crosses between media. In *The Cannibals*, the gaze, and the structure of seeing and being seen, become the most important elements in the construction of this "film-opera" and its language.

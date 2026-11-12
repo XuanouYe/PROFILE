@@ -9,7 +9,7 @@ language: en
 subject: music
 longform: false
 medium: live
-rating: null
+rating: 2.5
 metadata:
   Programme: |-
     John Adams：Christian Zeal and Activity
