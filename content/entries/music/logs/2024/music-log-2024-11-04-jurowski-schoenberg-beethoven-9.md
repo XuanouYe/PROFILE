@@ -1,6 +1,4 @@
 ---
-# Programme and cast: https://www.staatsoper.de/stuecke/1-akademiekonzert-24-25/2024-11-04-2000-14707
-title: Bayerisches Staatsorchester | Vladimir Jurowski
 slug: music-log-2024-11-04-jurowski-schoenberg-beethoven-9
 publicationDate: 2024-11-04
 excerpt: ""
