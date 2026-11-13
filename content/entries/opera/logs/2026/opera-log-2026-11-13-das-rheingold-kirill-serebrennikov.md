@@ -19,7 +19,7 @@ metadata:
   Venue: Felsenreitschule, Salzburg Easter Festival
 ---
 
-Finally watched Serebrennikov's *Das Rheingold* on the very last day before it disappeared from ARTE's streaming service. Well, I guess I can cross Salzburg off my plans for next year's .
+Finally watched Serebrennikov's *Das Rheingold* on the very last day before it disappeared from ARTE's streaming service. Well, I guess I can cross Salzburg off my plans for next year's Easter.
 
 The production follows a rather simple concept: a post-apocalyptic Africa, with black volcanic landscapes, ice, and the ruins of civilization. Mythology begins again in the aftermath of catastrophe. What disappointed me most was how surprisingly "traditional" the staging turned out to be. What I mean by "traditional" is in its theatrical approach, which is essentially a straightforward exercise in illustrating an imagined setting. This cannot be described as "modern" because there is hardly any attempt to translate the mythology into a contemporary context, or a coherent symbolic language.
 
