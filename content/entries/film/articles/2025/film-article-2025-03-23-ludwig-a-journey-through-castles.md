@@ -31,15 +31,7 @@ Before the first interlude in which an actor addresses the audience directly, Vi
 
 ![Extreme long shot of Ludwig and Elisabeth talking in the side arcade of the Marble Palace](/assets/notion/b31feca8-f7a0-83c3-bb8a-81d454a61cb9.png "Extreme long shot of Ludwig and Elisabeth talking in the side arcade of the Marble Palace")
 
-![The front of the Marble Palace: unexpectedly, Ai Weiwei's name appears at the entrance](/assets/douban/ludwig/p100733192.webp "The front of the Marble Palace: unexpectedly, Ai Weiwei's name appears at the entrance")
-
-![The side arcade of the Marble Palace (1)](/assets/douban/ludwig/p100733191.webp "The side arcade of the Marble Palace (1)")
-
-![The side arcade of the Marble Palace (2)](/assets/douban/ludwig/p100733190.webp "The side arcade of the Marble Palace (2)")
-
 ![Ludwig and Elisabeth in the Kaiservilla gardens](/assets/notion/116feca8-f7a0-823e-b8b5-81d133aae0da.png "Ludwig and Elisabeth in the Kaiservilla gardens")
-
-![Long view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733225.webp "Long view of the Kaiservilla in Bad Ischl")
 
 The events in this act offer only limited views of their settings, perhaps serving as visual cues that introduce themes to be developed there later. Through them, Visconti establishes his characters brilliantly. Dialogue efficiently supplies the background of Elisabeth and Richard Wagner at this point in the timeline. The young empress, weary of court life [^1], has already made the famous journey to Greece depicted in *Sissi: The Fateful Years of an Empress*. Wagner has completed *Tristan und Isolde* in Switzerland and is preparing for its premiere in Bavaria, six years late. Within this long production, two or three scenes swiftly establish these figures. Their words sketch their personalities and temperaments, those two entirely different forms of pride that Ludwig admires.
 
@@ -52,8 +44,6 @@ The setting of Wagner's first appearance is presumably his temporary accommodati
 Until Ludwig's engagement to Princess Sophie fails and he leaves central Munich, the Munich Residenz remains the setting for important events. Situated in the city centre, it is introduced in fragments from the start. As the story develops, its individual spaces open up, and the camera gradually reveals the "palace" as a whole. Narrative energy surges through these passages. Visconti shapes them into an overall rhythm, introducing variations at different points in the film.
 
 Take the underground to Odeonsplatz and walk a short distance to reach the Munich Residenz. European architectural restoration seems different from the Chinese principle of restoring old buildings to look old. Damaged during the Second World War and subsequently reconstructed, the palace no longer has such richly coloured interiors. A few paintings reconstructing panoramic views of the old rooms provide points of reference. Compared with them, what remains today is mostly repainted walls, plain doorframes, and furniture arranged for orderly display rather than everyday life. These objects form a modern, almost uncanny exhibition space. We try to imagine history passing through the reflections of mirrors and painted walls, invoking modernity's intrusion into the palace. The film's settings can be found only in those paintings; otherwise, they resemble the present palace only in their overall structure.
-
-![A corner of the Munich Residenz](/assets/douban/ludwig/p100733379.webp "A corner of the Munich Residenz")
 
 Scene eleven. Ludwig returns to Munich, and the king and Wagner have their first conversation in the film. As the piano is played, the camera gives us a close-up, then pulls back. Taking the original static view of the sofa and grand piano as its anchor, the interior opens to more viewing positions. When Wagner appeared in the first act, his praise of Ludwig mentioned the latter's reverence for him. Here, the scene again recalls that earlier conversation.
 
@@ -109,8 +99,6 @@ To close this section on the Residenz, a brief mention of the Cuvilliés Theatre
 
 ![Joseph Kainz backstage at the Cuvilliés Theatre](/assets/notion/377feca8-f7a0-8354-9770-819030b0c62a.png "Joseph Kainz backstage at the Cuvilliés Theatre")
 
-![The Cuvilliés Theatre today. Visitors can enter only the auditorium and cannot see the backstage perspective shown in the film.](/assets/douban/ludwig/p100733406.webp "The Cuvilliés Theatre today. Visitors can enter only the auditorium and cannot see the backstage perspective shown in the film.")
-
 Before this scene, Wagner plays for his wife at Tribschen in Switzerland, after which he never appears again. Visconti compresses the film's narrative time through the musician's historical chronology. The king's palaces have been completed, and soon after meeting Joseph Kainz, Ludwig takes him to Linderhof. When Elisabeth later visits Linderhof, Wagner is invoked again: the piano in the music room is draped in black gauze. In mourning for Wagner, the king no longer listens to music.
 
 ## Part II: Bad Ischl
@@ -125,13 +113,7 @@ Munich to Salzburg takes about two hours by train. Another hour and a half by bu
 
 ![Ludwig outside the Kaiservilla: three views moving from distant to close](/assets/notion/b7dfeca8-f7a0-8395-9c11-0147af7d473a.png "Ludwig outside the Kaiservilla: three views moving from distant to close")
 
-![Close view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733460.webp "Close view of the Kaiservilla in Bad Ischl")
-
-![Long view of the Kaiservilla in Bad Ischl](/assets/douban/ludwig/p100733462.webp "Long view of the Kaiservilla in Bad Ischl")
-
 ![View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [^3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.](/assets/douban/ludwig/p100733476.webp "View from the Kaiservilla porch. The marble fountain by Viktor Tilgner is temporarily enclosed in wooden boards [^3]. The pattern of melting snow in the film interestingly resembles what I found: less snow on the grassy slope, more near the road.")
-
-![The thief sculpture temporarily enclosed in wooden boards](/assets/douban/ludwig/p100733477.webp "The thief sculpture temporarily enclosed in wooden boards")
 
 The villa's decoration offers arrangements almost identical to those in the film. The emperor's former private life has become an exhibition, seemingly untouched. Compared with this earlier Austrian imperial villa, Ludwig's palaces are more ornate, revealing the two monarchs' different aesthetic preferences. Franz's living quarters in the Kaiservilla are filled with hunting trophies, quite consistent with his portrayal in the *Sissi* films. Yet this space serves few additional functions in *Ludwig*, beyond the conversation between the two princesses. Through reflections from various angles, we glimpse the relationship among dressing, looking, and being looked at as they talk.
 
@@ -141,15 +123,9 @@ The villa's decoration offers arrangements almost identical to those in the film
 
 ![Illustration from A Journey Through Castles](/assets/notion/058feca8-f7a0-8345-b977-814f0666abf2.png)
 
-![The red screen seen in the film](/assets/douban/ludwig/p100733478.webp "The red screen seen in the film")
-
 ![The Red Salon on the south side serves as the official reception room](/assets/notion/1b2feca8-f7a0-827f-8520-81cbf7a1b08c.png "The Red Salon on the south side serves as the official reception room")
 
-![The Red Salon, the official reception room of the villa, with white marble angel sculptures in all four corners](/assets/douban/ludwig/p100733482.webp "The Red Salon, the official reception room of the villa, with white marble angel sculptures in all four corners")
-
 ![Ludwig and the decorative hunting trophies](/assets/notion/cd6feca8-f7a0-83d5-87d8-0118a716714b.png "Ludwig and the decorative hunting trophies")
-
-![A staircase decorated with numerous specimens leads to a corridor holding still more hunting trophies](/assets/douban/ludwig/p100733483.webp "A staircase decorated with numerous specimens leads to a corridor holding still more hunting trophies")
 
 Walking around Bad Ischl, I also encountered many settings from *Sissi*, places that carry those romantic chance meetings between Sissi and Franz, images as beautiful as a fairy tale. This journey reached back into many earlier cinephile memories, including the scenery associated with *The Sound of Music* that I passed in Salzburg. I thought again of my schooldays, shut away in my room, rewatching the three *Sissi* films and *Ludwig*.
 
@@ -171,9 +147,7 @@ As the empress approaches the island, we hear rowing and the faint sound of wate
 
 ![A long tracking shot of the empress approaching the island by boat](/assets/notion/1f4feca8-f7a0-828d-a1ec-81cfc247d02a.png "A long tracking shot of the empress approaching the island by boat")
 
-![Looking toward Rose Island from the lakeshore on an overcast day (1)](/assets/douban/ludwig/p100733520.webp "Looking toward Rose Island from the lakeshore on an overcast day (1)")
-
-![Looking toward Rose Island from the lakeshore on an overcast day (2)](/assets/douban/ludwig/p100733521.webp "Looking toward Rose Island from the lakeshore on an overcast day (2)")
+![Looking toward Rose Island from the lakeshore on an overcast day](/assets/douban/ludwig/p100733521.webp "Looking toward Rose Island from the lakeshore on an overcast day")
 
 ![Ludwig and Elisabeth outside the king's cottage on Rose Island](/assets/notion/5c8feca8-f7a0-831b-8d0b-8161ae96d3a1.png "Ludwig and Elisabeth outside the king's cottage on Rose Island")
 
@@ -188,24 +162,6 @@ Ludwig's first meeting with Volk, whose dismissal Richard Hornig mentions, occur
 ![Ludwig at Possenhofen at night](/assets/notion/1c3feca8-f7a0-82f7-984e-010912c972c5.png "Ludwig at Possenhofen at night")
 
 ![Ludwig walks to Lake Starnberg at night](/assets/notion/6c8feca8-f7a0-835f-8241-81038815b594.png "Ludwig walks to Lake Starnberg at night")
-
-![Possenhofen today, seen from outside the garden (1)](/assets/douban/ludwig/p100733522.webp "Possenhofen today, seen from outside the garden (1)")
-
-![Possenhofen today, seen from outside the garden (2)](/assets/douban/ludwig/p100733527.webp "Possenhofen today, seen from outside the garden (2)")
-
-![Roadside information about Possenhofen: Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden. The castle is now privately owned and can be viewed only from outside.](/assets/douban/ludwig/p100733528.webp "Roadside information about Possenhofen: Heute befindet sich das Schloss in Privatbesitz und kann nur von aussen besichtigt werden. The castle is now privately owned and can be viewed only from outside.")
-
-![The King Ludwig Way from Neuschwanstein to Lake Starnberg](/assets/douban/ludwig/p100733529.webp "The King Ludwig Way from Neuschwanstein to Lake Starnberg")
-
-![The shore of Lake Starnberg today (1)](/assets/douban/ludwig/p100733531.webp "The shore of Lake Starnberg today (1)")
-
-![The shore of Lake Starnberg today (2)](/assets/douban/ludwig/p100733532.webp "The shore of Lake Starnberg today (2)")
-
-![The shore of Lake Starnberg today (3)](/assets/douban/ludwig/p100733534.webp "The shore of Lake Starnberg today (3)")
-
-![The grassland near Rose Island has been developed into a golf course](/assets/douban/ludwig/p100733535.webp "The grassland near Rose Island has been developed into a golf course")
-
-![A church near Rose Island](/assets/douban/ludwig/p100733536.webp "A church near Rose Island")
 
 Franco Mannino, who collaborated with Visconti on the music for *Ludwig*, *Death in Venice*, *The Innocent*, and *Conversation Piece*, serves as piano soloist and orchestral conductor for *Ludwig*. Working with Visconti's use of Wagner, he produces a hallucinatory effect more frightening than the Adagietto from Mahler's Fifth Symphony in *Death in Venice*.
 
@@ -225,15 +181,11 @@ In the film, Ludwig enters the palace hall from the landing at the top of the ex
 
 ![Illustration from A Journey Through Castles](/assets/notion/3f7feca8-f7a0-834f-a60d-018b60562e4d.png)
 
-After Ludwig leaves the carriage, the editing skips the ascent of the stairs, taking him directly from the landing into the palace. Unable to reproduce the camera position or the attendant's placement, I took a close-up of the locked door.
-
-![The locked entrance to Nymphenburg Palace](/assets/douban/ludwig/p100733590.webp "The locked entrance to Nymphenburg Palace")
+After Ludwig leaves the carriage, the editing skips the ascent of the stairs, taking him directly from the landing into the palace. When I visited, that door was locked.
 
 The camera moves downward to reveal the hall's two-storey height. Meanwhile, Ludwig walks from left to right, fully using its emptiness. The camera's sustained contemplation occupies time, establishing a classical pace. In reality, however, he would need to turn left to reach the queen's rooms, where the next conversation takes place.
 
 ![Long shot of Ludwig walking. The wooden table in the foreground holds porcelain ornaments from the north and south sides of the hall.](/assets/notion/e70feca8-f7a0-83d1-897d-81588e51c107.png "Long shot of Ludwig walking. The wooden table in the foreground holds porcelain ornaments from the north and south sides of the hall.")
-
-![The two-storey hall](/assets/douban/ludwig/p100733591.webp "The two-storey hall")
 
 ![The enormous ceiling fresco by Johann Baptist Zimmermann in the hall](/assets/notion/923feca8-f7a0-8224-a715-012312a2beab.png "The enormous ceiling fresco by Johann Baptist Zimmermann in the hall")
 
@@ -251,13 +203,9 @@ In the film, the furniture in the queen's audience chamber stands in the middle 
 
 Ludwig enters the queen's bedroom and wakes her. Today the bed, like those in all the other palace bedrooms around Munich, carries a very high mattress and protective covering. The position in which the queen sleeps in the film is much lower.
 
-![The queen's bedroom](/assets/douban/ludwig/p100733596.webp "The queen's bedroom")
-
 ![Ludwig's route through the palace in the film](/assets/notion/415feca8-f7a0-8310-8125-815bc5d55db1.png "Ludwig's route through the palace in the film")
 
 ![Behind Nymphenburg is a public square with numerous sculptures, followed by a large, elongated pool. Extensive woodland and wetlands surround it; many local residents walk here as in a park.](/assets/notion/7affeca8-f7a0-83c5-9228-815e552efcf1.png "Behind Nymphenburg is a public square with numerous sculptures, followed by a large, elongated pool. Extensive woodland and wetlands surround it; many local residents walk here as in a park.")
-
-![Rear view of Nymphenburg Palace](/assets/douban/ludwig/p100733597.webp "Rear view of Nymphenburg Palace")
 
 ## Part V: Ludwig's Castles
 
@@ -271,27 +219,9 @@ Ettal is in the Bavarian mountains. Most bus stops serve only a few households i
 
 I travelled alone, yet near the palace I often encountered other visitors, perhaps arriving by car or with coach parties of older tourists. Far from residential areas, the palace and its surroundings preserve their earlier appearance. As mentioned above, however, the fountains and sculptures cannot be enjoyed in winter.
 
-![Sculptures in the palace gardens under transparent covers](/assets/douban/ludwig/p100734092.webp "Sculptures in the palace gardens under transparent covers")
-
 Herrenchiemsee stands on an island in Lake Chiemsee. The lake is about an hour from the city, and a monthly travel pass allows the journey on a regional RE train at no additional cost. We arrived the morning after Munich's first snowfall. Traces of snow remained on the town's buildings. Before we boarded, the weather was gloomy. We waited by the lake until noon, when the clouds dispersed. From the boat, we watched the oppressive sky above the lake give way to clear daylight. The scenery became beautiful.
 
-![Under gloomy skies before boarding, we encountered an iron sculpture of Ludwig II](/assets/douban/ludwig/p100734097.webp "Under gloomy skies before boarding, we encountered an iron sculpture of Ludwig II")
-
-![The weather before boarding](/assets/douban/ludwig/p100734099.webp "The weather before boarding")
-
-![The sky gradually clears during the boat journey](/assets/douban/ludwig/p100734324.webp "The sky gradually clears during the boat journey")
-
-![Lake Chiemsee (1)](/assets/douban/ludwig/p100734329.webp "Lake Chiemsee (1)")
-
-![Lake Chiemsee (2)](/assets/douban/ludwig/p100734330.webp "Lake Chiemsee (2)")
-
 Neuschwanstein stands in Hohenschwangau, near Füssen. An RE train from Munich to Füssen, followed by a bus to the foot of the hill, takes two and a half hours by public transport. It is the most popular attraction around Munich, and tourist facilities both nearby and in Füssen are well developed. From the bottom, one can walk or take a horse-drawn carriage uphill. The carriage wheels are fitted with reduction motors, a labour-saving device that stops short of complete historical imitation. The winding ascent changes the view from low angle to eye level: Neuschwanstein from twenty-four angles. Spectacular.
-
-![Exterior of Neuschwanstein (1)](/assets/douban/ludwig/p100734145.webp "Exterior of Neuschwanstein (1)")
-
-![Exterior of Neuschwanstein (2)](/assets/douban/ludwig/p100734144.webp "Exterior of Neuschwanstein (2)")
-
-![Looking down the mountain from in front of the Neuschwanstein courtyard](/assets/douban/ludwig/p100734332.webp "Looking down the mountain from in front of the Neuschwanstein courtyard")
 
 The official website says that UNESCO is expected to add Neuschwanstein, Linderhof, and Herrenchiemsee to the World Heritage List in 2025. We shall see.
 
@@ -304,10 +234,6 @@ Joseph Kainz accompanies Ludwig to Linderhof, giving us our first view of its in
 ![Illustration from A Journey Through Castles](/assets/notion/ed5feca8-f7a0-82ac-97ad-81b24df2c449.png)
 
 ![Ludwig arrives at Linderhof: three views moving from distant to close](/assets/notion/f92feca8-f7a0-8355-b423-01e9b039351c.png "Ludwig arrives at Linderhof: three views moving from distant to close")
-
-![The facade of Linderhof Palace](/assets/douban/ludwig/p100734072.webp "The facade of Linderhof Palace")
-
-![Part of the garden in front of Linderhof. The Flora Fountain is temporarily closed.](/assets/douban/ludwig/p100734066.webp "Part of the garden in front of Linderhof. The Flora Fountain is temporarily closed.")
 
 ![Illustration from A Journey Through Castles](/assets/notion/6b4feca8-f7a0-8314-9461-01068779603b.png)
 
@@ -322,8 +248,6 @@ After this passage of fantasy and mystery, the film presents Ludwig and Joseph K
 ![Illustration from A Journey Through Castles](/assets/notion/753feca8-f7a0-8395-a869-81e8773c73aa.png)
 
 ![Ludwig and Joseph Kainz at Linderhof](/assets/notion/e3ffeca8-f7a0-82a1-8182-01a960cf811c.png "Ludwig and Joseph Kainz at Linderhof")
-
-![The king's bedroom in deep blue](/assets/douban/ludwig/p100734096.webp "The king's bedroom in deep blue")
 
 As the king and Joseph Kainz wander somewhere unknown, the interlude again reminds us of the longstanding crises of government and finance. Despite these frequent references, the film never allows the crises to develop continuously in visible form. Its choice of what to elaborate and what to abbreviate is clear. We remain in Ludwig's position. The act of looking unconsciously draws our attention toward aesthetics. Like him, we are blindly immersed in the fog of idealism, indifferent even to repeated warnings.
 
@@ -341,10 +265,6 @@ Sissi reaches Linderhof during the day, giving us winter daylight. After pausing
 
 ![The empress in the Linderhof gardens](/assets/notion/c32feca8-f7a0-834b-8570-019e18c5a1cf.png "The empress in the Linderhof gardens")
 
-![Part of the garden behind Linderhof](/assets/douban/ludwig/p100734032.webp "Part of the garden behind Linderhof")
-
-![A building near the Linderhof gardens](/assets/douban/ludwig/p100734048.webp "A building near the Linderhof gardens")
-
 ![The empress on the Linderhof staircase](/assets/notion/e7dfeca8-f7a0-8354-aa50-8110ecb965a0.png "The empress on the Linderhof staircase")
 
 ![The empress moves from right to left in the Hall of Mirrors. We see the equestrian statue before the mirror on the left, and the ivory chandelier.](/assets/notion/a76feca8-f7a0-8308-a052-812eedaf770f.png "The empress moves from right to left in the Hall of Mirrors. We see the equestrian statue before the mirror on the left, and the ivory chandelier.")
@@ -355,27 +275,13 @@ Climbing the stairs in the actual palace, we first pass through an eastern or we
 
 ![The empress in the Gobelin Room [^5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.](/assets/notion/fabfeca8-f7a0-82b6-8bde-01d84149287f.png "The empress in the Gobelin Room [^5]. Black gauze over the Pianino Aeolodikon signifies Wagner's death.")
 
-![The staircase at Linderhof](/assets/douban/ludwig/p100734065.webp "The staircase at Linderhof")
-
-![The audience chamber at Linderhof](/assets/douban/ludwig/p100734335.webp "The audience chamber at Linderhof")
-
 ![The Gobelin Room at Linderhof, with a peacock sculpture and the Pianino Aeolodikon](/assets/douban/ludwig/p100733856.webp "The Gobelin Room at Linderhof, with a peacock sculpture and the Pianino Aeolodikon")
-
-![The ceiling fresco in the Hall of Mirrors at Linderhof](/assets/douban/ludwig/p100733978.webp "The ceiling fresco in the Hall of Mirrors at Linderhof")
-
-![The equestrian statue in the Hall of Mirrors at Linderhof](/assets/douban/ludwig/p100733977.webp "The equestrian statue in the Hall of Mirrors at Linderhof")
-
-![The ivory chandelier in the Hall of Mirrors at Linderhof](/assets/douban/ludwig/p100733972.webp "The ivory chandelier in the Hall of Mirrors at Linderhof")
 
 ### (ii) Herrenchiemsee Palace
 
 ![Illustration from A Journey Through Castles](/assets/notion/6affeca8-f7a0-8312-8ac5-01bb92822db1.png)
 
 Outside, the same filming pattern returns: a low-angle close-up of a sculpture, then a movement inward to reveal the whole palace. Sissi's carriage enters from the right, and we pass from outdoors to indoors. The fitting selection from Wagner's *Tannhäuser*, "O du mein holder Abendstern", continues from the previous scene in Linderhof's Venus Grotto. At some point it has played through in full; it ends here. The long Hall of Mirrors allows Visconti to place Romy Schneider far away in an extreme long shot. Cinematic time then preserves almost the entire duration of Elisabeth's passage from one side to the other. Tracking, partial views, and finally stillness: a close-up of the empress's satisfied face.
-
-![The fountain in front of the palace](/assets/douban/ludwig/p100734325.webp "The fountain in front of the palace")
-
-![The view in front of the palace entrance](/assets/douban/ludwig/p100734336.webp "The view in front of the palace entrance")
 
 ![Illustration from A Journey Through Castles](/assets/notion/1a3feca8-f7a0-822e-baf8-81c9a918bd0b.png)
 
@@ -386,8 +292,6 @@ Outside, the same filming pattern returns: a low-angle close-up of a sculpture, 
 ![Illustration from A Journey Through Castles](/assets/notion/f1dfeca8-f7a0-822f-bf84-0186b7b2f838.png)
 
 ![Elisabeth emerges from the corner room and crosses the full 98-metre Hall of Mirrors](/assets/notion/c3ffeca8-f7a0-82f1-b961-01ca5b2f197e.png "Elisabeth emerges from the corner room and crosses the full 98-metre Hall of Mirrors")
-
-![With 35 chandeliers and 52 candelabra, the Hall of Mirrors seems abundantly lit](/assets/douban/ludwig/p100734098.webp "With 35 chandeliers and 52 candelabra, the Hall of Mirrors seems abundantly lit")
 
 ### (iii) Neuschwanstein Castle
 
@@ -405,8 +309,6 @@ A drunken episode finally ends this lengthy passage. Ludwig drinks himself insen
 
 ![The replica Hundinghütte](/assets/notion/0b5feca8-f7a0-8392-9116-016f3acd084d.png "The replica Hundinghütte")
 
-![The weather during my visit to Neuschwanstein resembled that of Visconti's shoot: bare winter branches and cleared snow after the sky had brightened. Mist hung in the air, and there were many tourists.](/assets/douban/ludwig/p100734333.webp "The weather during my visit to Neuschwanstein resembled that of Visconti's shoot: bare winter branches and cleared snow after the sky had brightened. Mist hung in the air, and there were many tourists.")
-
 ![Neuschwanstein in winter](/assets/douban/ludwig/p100734338.webp "Neuschwanstein in winter")
 
 ![Ludwig in the dressing room (1)](/assets/notion/402feca8-f7a0-8346-8cd4-010cf3b031e0.png "Ludwig in the dressing room (1)")
@@ -422,8 +324,6 @@ A drunken episode finally ends this lengthy passage. Ludwig drinks himself insen
 The royal family arrives at Hohenschwangau. Ludwig remains trapped in Neuschwanstein, a prisoner of Wagner. On a dark, rainy night, in a state of estrangement, the setting eerily closes around him. There is no escaping the mire. Ludwig is taken back to Lake Starnberg, where the film ends.
 
 ![The royal family at Hohenschwangau](/assets/notion/8ecfeca8-f7a0-83f9-a5e4-8160838ad1d9.png "The royal family at Hohenschwangau")
-
-![Exterior of Hohenschwangau](/assets/douban/ludwig/p100734285.webp "Exterior of Hohenschwangau")
 
 ![Interior of Hohenschwangau](/assets/notion/bb3feca8-f7a0-82f8-ba57-01900ae0afeb.png "Interior of Hohenschwangau")
 
