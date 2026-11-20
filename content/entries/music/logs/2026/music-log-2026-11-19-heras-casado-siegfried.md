@@ -11,7 +11,7 @@ language: en
 subject: music
 medium: live
 longform: false
-rating: 4
+rating: 5
 performanceIds:
   - paris-opera-2026-11-19-siegfried-heras-casado
 related:
@@ -24,3 +24,4 @@ metadata:
   Orchestra: Orchestre de l’Opéra national de Paris
   Performance date: 2026-11-19
 ---
+
