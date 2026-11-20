@@ -1,5 +1,5 @@
 ---
-title: Orchestre de l’Opéra national de Paris | Pablo Heras-Casado
+title: Orchestre de l'Opéra national de Paris | Pablo Heras-Casado
 slug: music-log-2026-11-19-heras-casado-siegfried
 aliases:
   - opera-log-2026-11-19-siegfried-calixto-bieito
@@ -21,7 +21,7 @@ metadata:
   Programme: Richard Wagner：Siegfried, WWV 86C（concert version）
   Venue: Opéra Bastille
   Conductor: Pablo Heras-Casado
-  Orchestra: Orchestre de l’Opéra national de Paris
+  Orchestra: Orchestre de l'Opéra national de Paris
   Performance date: 2026-11-19
 ---
 

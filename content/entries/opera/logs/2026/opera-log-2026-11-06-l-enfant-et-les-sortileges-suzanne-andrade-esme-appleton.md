@@ -9,7 +9,7 @@ subject: opera
 longform: false
 rating: 2
 metadata:
-  Opera: L’Enfant et les Sortilèges
+  Opera: L'Enfant et les Sortilèges
   Director: Suzanne Andrade & Esme Appleton
   Production year: 2017
   Venue: Hamburgische Staatsoper

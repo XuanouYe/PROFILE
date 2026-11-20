@@ -3,7 +3,7 @@ title: DAS RHEINGOLD | Calixto Bieito (2025)
 slug: opera-log-2026-11-15-das-rheingold-calixto-bieito
 publicationDate: 2026-11-15
 experienceDate: 2026-11-15
-excerpt: "Bieito’s recent productions have largely stayed within his comfort zone: garishly coloured curtains and performances that constrain the body’s freedom."
+excerpt: "Bieito's recent productions have largely stayed within his comfort zone: garishly coloured curtains and performances that constrain the body's freedom."
 draft: false
 language: en
 subject: opera
@@ -20,7 +20,7 @@ metadata:
   Production year: 2025
   Venue: Opéra Bastille
   Conductor: Pablo Heras-Casado
-  Orchestra: Orchestre de l’Opéra national de Paris
+  Orchestra: Orchestre de l'Opéra national de Paris
   Performance date: 2026-11-15
 ---
 
