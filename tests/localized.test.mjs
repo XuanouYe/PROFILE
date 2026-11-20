@@ -100,6 +100,9 @@ test('subject and medium determine the exact Details fields and order',()=>{
   const keys=entry=>[...localizedEntry(entry,'en',[entry],url).matchAll(/<div class="detail-item"><dt>([^<]+):<\/dt>/g)].map(m=>m[1]);
   assert.deepEqual(keys(entry),['Subject','Film','Director','Year','Rating']);
   assert.deepEqual(keys({...entry,subject:'opera'}),['Subject','Opera','Director','Production year','Venue','Rating']);
+  const operaPerformance={...entry,subject:'opera',metadata:{Conductor:'Pablo Heras-Casado',Orchestra:'Orchestre de l’Opéra national de Paris','Performance date':'2026-11-15'}};
+  assert.doesNotThrow(()=>validate(operaPerformance,'opera performance'));
+  assert.deepEqual(keys(operaPerformance),['Subject','Opera','Director','Production year','Venue','Conductor','Orchestra','Performance date','Rating']);
   assert.deepEqual(keys({...entry,subject:'music',medium:'live'}),['Subject','Programme','Conductor','Orchestra','Venue','Performance date','Rating']);
   assert.deepEqual(keys({...entry,subject:'music',medium:'recording'}),['Subject','Programme','Conductor','Orchestra','label','Release date','Rating']);
   assert.throws(()=>validate({...entry,metadata:{Focus:'No extra fields'}},'extra field'));

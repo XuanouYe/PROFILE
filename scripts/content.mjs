@@ -5,7 +5,7 @@ import YAML from 'yaml';
 export const subjects = ['film', 'opera', 'music'];
 export function detailFields(entry) {
   if (entry.subject === 'film') return ['Film', 'Director', 'Year'];
-  if (entry.subject === 'opera') return ['Opera', 'Director', 'Production year', 'Venue'];
+  if (entry.subject === 'opera') return ['Opera', 'Director', 'Production year', 'Venue', ...['Conductor', 'Orchestra', 'Performance date'].filter(key => entry.metadata?.[key] !== undefined)];
   return ['Programme', 'Conductor', 'Orchestra', ...(entry.medium === 'live' ? ['Venue', 'Performance date'] : entry.medium === 'recording' ? ['label', 'Release date'] : [])];
 }
 export const escape = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));

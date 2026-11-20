@@ -49,6 +49,7 @@ Details begins with `Subject` and ends with `Rating`. All other rows follow the 
 | --- | --- |
 | `film` | `Film`, `Director`, `Year` |
 | `opera` | `Opera`, `Director`, `Production year`, `Venue` |
+| `opera` with supplied performance details | Optionally add `Conductor`, `Orchestra`, `Performance date`; these rows appear only when supplied |
 | `music` | `Programme`, `Conductor`, `Orchestra` |
 | `music` with `medium: live` | Add `Venue`, `Performance date` |
 | `music` with `medium: recording` | Add `label`, `Release date` |

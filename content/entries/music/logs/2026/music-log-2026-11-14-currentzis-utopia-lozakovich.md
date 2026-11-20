@@ -1,6 +1,4 @@
 ---
-# Programme reference: https://www.elbphilharmonie.de/en/whats-on/utopia-daniel-lozakovich-teodor-currentzis/27954
-# Programme reference (GHB / tanzaggregat): https://www.boosey.com/pages/cr/calendar/perf_results?composerid=100796
 title: Utopia Orchestra | Teodor Currentzis
 slug: music-log-2026-11-14-currentzis-utopia-lozakovich
 publicationDate: 2026-11-14
