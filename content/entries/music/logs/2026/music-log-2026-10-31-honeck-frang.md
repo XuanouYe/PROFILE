@@ -4,7 +4,6 @@ slug: music-log-2026-10-31-honeck-frang
 aliases:
   - music-2026-10-31-honeck-frang
 publicationDate: 2026-10-31
-experienceDate: 2026-10-31
 excerpt: ""
 draft: false
 language: en

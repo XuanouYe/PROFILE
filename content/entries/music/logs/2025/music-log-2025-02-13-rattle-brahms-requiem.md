@@ -2,7 +2,6 @@
 title: Symphonieorchester des Bayerischen Rundfunks | Simon Rattle
 slug: music-log-2025-02-13-rattle-brahms-requiem
 publicationDate: 2025-02-13
-experienceDate: 2025-02-13
 excerpt: ""
 draft: false
 language: en

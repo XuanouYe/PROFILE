@@ -4,7 +4,6 @@ slug: music-log-2026-10-26-wellber-power
 aliases:
   - music-2026-10-26-wellber-power
 publicationDate: 2026-10-26
-experienceDate: 2026-10-26
 excerpt: ""
 draft: false
 language: en

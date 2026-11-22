@@ -2,7 +2,6 @@
 title: musicAeterna | Teodor Currentzis
 slug: music-log-2025-11-29-currentzis-ring-without-words
 publicationDate: 2025-11-29
-experienceDate: 2025-11-29
 excerpt: ""
 draft: false
 language: en

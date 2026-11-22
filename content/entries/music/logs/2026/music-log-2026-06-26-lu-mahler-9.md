@@ -4,7 +4,6 @@ slug: music-log-2026-06-26-lu-mahler-9
 aliases:
   - music-2026-06-26-lu-mahler-9
 publicationDate: 2026-06-26
-experienceDate: 2026-06-26
 excerpt: ""
 draft: false
 language: en

@@ -27,7 +27,6 @@ export function validate(entry, file) {
   if (typeof entry.draft !== 'boolean') fail('draft must be true or false');
   for (const key of ['featured', 'demo']) if (entry[key] !== undefined && typeof entry[key] !== 'boolean') fail(`${key} must be boolean`);
   if (entry.featured && !entry.longform) fail('only articles can be featured');
-  if (entry.experienceDate && !validDate(entry.experienceDate)) fail('experienceDate must be YYYY-MM-DD');
   if (entry.coverageYear !== undefined && (!Number.isInteger(entry.coverageYear) || entry.coverageYear < 1800 || entry.coverageYear > 9999)) fail('coverageYear must be a year');
   for (const key of ['aliases', 'related', 'workIds', 'performanceIds']) if (entry[key] !== undefined && (!Array.isArray(entry[key]) || entry[key].some(v => typeof v !== 'string' || !v))) fail(`${key} must be an array of identifiers`);
   if (entry.aliases?.some(alias => !/^[a-z0-9]+(?:-[a-z0-9]+)*$/.test(alias))) fail('aliases must be lowercase slugs');
@@ -62,6 +61,8 @@ export async function loadEntries(root, includeExamples) {
     const match = source.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
     if (!match) throw new Error(`${file}: missing YAML front matter`);
     const entry = validate(YAML.parse(match[1]), file);
+    delete entry.experienceDate;
+    delete entry.experienceLabel;
     if (file.includes(`${path.sep}examples${path.sep}`)) entry.demo = true;
     const translationPath = path.join(root,'content/translations/en',`${entry.slug}.md`);
     const translationSource = await fs.readFile(translationPath,'utf8').catch(error=>{if(error.code==='ENOENT') return null; throw error;});

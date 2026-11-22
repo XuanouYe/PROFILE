@@ -2,7 +2,6 @@
 title: Münchner Philharmoniker | Brad Lubman & Alice Sara Ott
 slug: music-log-2025-01-16-lubman-ott-dessner
 publicationDate: 2025-01-16
-experienceDate: 2025-01-16
 excerpt: ""
 draft: false
 language: en

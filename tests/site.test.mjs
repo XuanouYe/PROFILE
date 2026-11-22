@@ -36,15 +36,14 @@ test('search covers creator and ignores accents; invalid filter values normalize
 });
 test('content schema rejects bad dates, slugs, subjects and broken field types',()=>{
   const good = entries[0];
-  assert.doesNotThrow(()=>validate({...good,experienceDate:'2026-10-10'},'test'));
-  for(const change of [{publicationDate:'2026-02-30'},{slug:'../unsafe'},{subject:['film','opera']},{subject:'Books'},{format:'Review'},{draft:'false'},{featured:'true'},{experienceDate:'2026-02-30'},{related:'slug'},{metadata:{cast:{}}}]) assert.throws(()=>validate({...good,...change},'test'));
+  for(const change of [{publicationDate:'2026-02-30'},{slug:'../unsafe'},{subject:['film','opera']},{subject:'Books'},{format:'Review'},{draft:'false'},{featured:'true'},{related:'slug'},{metadata:{cast:{}}}]) assert.throws(()=>validate({...good,...change},'test'));
 });
 test('draft exclusion, ordering, dates, and explicit relationships',()=>{
   assert.ok(!entries.some(e=>e.draft));
   assert.deepEqual(entries.map(e=>e.publicationDate),entries.map(e=>e.publicationDate).sort().reverse());
   assert.ok(!years.includes('2024'));
   const log=entries.find(e=>e.slug==='tokyo-story-log');
-  assert.notEqual(log.publicationDate,log.experienceDate);
+  assert.equal(log.publicationDate,'2026-10-26');
   assert.ok(log.related.includes('between-scenes'));
 });
 async function walk(dir){return (await Promise.all((await fs.readdir(dir,{withFileTypes:true})).map(d=>d.isDirectory()?walk(path.join(dir,d.name)):[path.join(dir,d.name)]))).flat();}
@@ -80,6 +79,11 @@ for(const base of ['', '/PROFILE']) test(`static output and every local link res
   const home=await fs.readFile(path.join(outputRoot,'life/index.html'),'utf8');
   assert.ok(!home.includes('rating-only-log'));
   assert.ok(home.includes('tokyo-story-log'));
+  for (const page of [home, archive]) {
+    const row = page.match(/<li class="log-row" data-slug="tokyo-story-log">.*?<\/li>/)?.[0];
+    assert.match(row, /<div class="row-date"><time datetime="2026-10-26">/);
+    assert.doesNotMatch(row, /class="experience"/);
+  }
   assert.ok(archive.includes('data-slug="rating-only-log"'));
   const ratingOnly=await fs.readFile(path.join(outputRoot,'life/rating-only-log/index.html'),'utf8');
   assert.match(ratingOnly,/aria-label="0 out of 5"/);

@@ -4,7 +4,6 @@ slug: music-log-2026-10-25-minasi-fujita
 aliases:
   - music-2026-10-25-minasi-fujita
 publicationDate: 2026-10-25
-experienceDate: 2026-10-25
 excerpt: ""
 draft: false
 language: en

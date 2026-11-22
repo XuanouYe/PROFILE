@@ -4,7 +4,6 @@ slug: music-log-2026-06-05-nott-wu-man
 aliases:
   - music-2026-06-05-nott-wu-man
 publicationDate: 2026-06-05
-experienceDate: 2026-06-05
 excerpt: ""
 draft: false
 language: en

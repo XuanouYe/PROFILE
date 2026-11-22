@@ -4,7 +4,6 @@ slug: music-log-2026-10-03-welser-most-domestica
 aliases:
   - music-2026-10-03-welser-most-domestica
 publicationDate: 2026-10-03
-experienceDate: 2026-10-03
 excerpt: ""
 draft: false
 language: en

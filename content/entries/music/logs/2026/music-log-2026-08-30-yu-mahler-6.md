@@ -4,7 +4,6 @@ slug: music-log-2026-08-30-yu-mahler-6
 aliases:
   - music-2026-08-30-yu-mahler-6
 publicationDate: 2026-08-30
-experienceDate: 2026-08-30
 excerpt: ""
 draft: false
 language: en

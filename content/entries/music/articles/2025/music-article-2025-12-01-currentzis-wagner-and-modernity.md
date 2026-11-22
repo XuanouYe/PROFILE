@@ -8,7 +8,6 @@ excerpt: "In November 2025, Teodor Currentzis returned to China with musicAetern
 draft: false
 featured: true
 language: en
-experienceDate: 2025-11-27
 metadata:
   Programme: "Wagner: The Ring Without Words (Der Ring ohne Worte; arr. Lorin Maazel)"
   Conductor: Teodor Currentzis

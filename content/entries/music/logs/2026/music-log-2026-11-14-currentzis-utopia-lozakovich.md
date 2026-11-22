@@ -2,8 +2,6 @@
 title: Utopia Orchestra | Teodor Currentzis
 slug: music-log-2026-11-14-currentzis-utopia-lozakovich
 publicationDate: 2026-11-14
-experienceDate: 2026-11-14
-experienceLabel: Attended
 excerpt: ""
 draft: false
 language: en

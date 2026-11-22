@@ -4,7 +4,6 @@ slug: music-log-2026-06-07-brautigam-beethoven
 aliases:
   - music-2026-06-07-brautigam-beethoven
 publicationDate: 2026-06-07
-experienceDate: 2026-06-07
 excerpt: ""
 draft: false
 language: en

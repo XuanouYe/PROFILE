@@ -4,7 +4,6 @@ slug: music-log-2026-05-23-rachid-schubert-bruckner
 aliases:
   - music-2026-05-23-rachid-schubert-bruckner
 publicationDate: 2026-05-23
-experienceDate: 2026-05-23
 excerpt: ""
 draft: false
 language: en

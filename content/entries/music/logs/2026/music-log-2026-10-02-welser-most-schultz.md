@@ -4,7 +4,6 @@ slug: music-log-2026-10-02-welser-most-schultz
 aliases:
   - music-2026-10-02-welser-most-schultz
 publicationDate: 2026-10-02
-experienceDate: 2026-10-02
 excerpt: ""
 draft: false
 language: en

@@ -2,8 +2,6 @@
 title: DAS RHEINGOLD | Kirill Serebrennikov (2026)
 slug: opera-log-2026-11-13-das-rheingold-kirill-serebrennikov
 publicationDate: 2026-11-13
-experienceDate: 2026-11-12
-experienceLabel: Watched
 excerpt: "What disappointed me most was how surprisingly traditional the staging turned out to be."
 draft: false
 language: en

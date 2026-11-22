@@ -4,7 +4,6 @@ slug: music-log-2026-09-20-macelaru-fujita
 aliases:
   - music-2026-09-20-macelaru-fujita
 publicationDate: 2026-09-20
-experienceDate: 2026-09-20
 excerpt: ""
 draft: false
 language: en

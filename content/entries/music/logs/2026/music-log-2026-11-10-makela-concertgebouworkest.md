@@ -2,7 +2,6 @@
 title: Koninklijk Concertgebouworkest | Klaus Mäkelä
 slug: music-log-2026-11-10-makela-concertgebouworkest
 publicationDate: 2026-11-10
-experienceDate: 2026-11-10
 excerpt: "I never expected to hear a perfect performance in the concert hall, especially with the young Klaus Mäkelä conducting."
 draft: false
 language: en

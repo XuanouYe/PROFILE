@@ -4,7 +4,6 @@ slug: music-log-2026-09-06-zhang-shostakovich
 aliases:
   - music-2026-09-06-zhang-shostakovich
 publicationDate: 2026-09-06
-experienceDate: 2026-09-06
 excerpt: ""
 draft: false
 language: en

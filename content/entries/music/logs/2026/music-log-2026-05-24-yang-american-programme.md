@@ -4,7 +4,6 @@ slug: music-log-2026-05-24-yang-american-programme
 aliases:
   - music-2026-05-24-yang-american-programme
 publicationDate: 2026-05-24
-experienceDate: 2026-05-24
 excerpt: ""
 draft: false
 language: en

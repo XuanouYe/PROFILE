@@ -2,7 +2,6 @@
 title: Symphonieorchester des Bayerischen Rundfunks | Simon Rattle
 slug: music-log-2025-02-07-rattle-mozart-symphonies
 publicationDate: 2025-02-07
-experienceDate: 2025-02-07
 excerpt: ""
 draft: false
 language: en

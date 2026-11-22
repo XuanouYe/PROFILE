@@ -2,7 +2,6 @@
 title: Klangforum Wien | Johannes Kalitzke
 slug: music-log-2025-10-30-kalitzke-haas-11000-saiten
 publicationDate: 2025-10-30
-experienceDate: 2025-10-30
 excerpt: ""
 draft: false
 language: en

@@ -2,7 +2,6 @@
 title: Symphonieorchester des Bayerischen Rundfunks | Iván Fischer & Kirill Gerstein
 slug: music-log-2025-01-30-fischer-gerstein-brahms-dvorak
 publicationDate: 2025-01-30
-experienceDate: 2025-01-30
 excerpt: ""
 draft: false
 language: en

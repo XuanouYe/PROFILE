@@ -2,7 +2,6 @@
 title: Hangzhou Philharmonic Orchestra | Lan Shui
 slug: music-log-2025-04-19-shui-zhou-nielsen
 publicationDate: 2025-04-19
-experienceDate: 2025-04-19
 excerpt: ""
 draft: false
 language: en

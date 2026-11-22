@@ -4,7 +4,6 @@ slug: music-log-2026-03-18-oramo-bbc
 aliases:
   - music-2026-03-18-oramo-bbc
 publicationDate: 2026-03-18
-experienceDate: 2026-03-18
 excerpt: ""
 draft: false
 language: en

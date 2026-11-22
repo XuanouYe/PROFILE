@@ -2,7 +2,6 @@
 title: Münchner Philharmoniker | Jukka-Pekka Saraste & Fazıl Say
 slug: music-log-2025-03-07-saraste-say-sibelius
 publicationDate: 2025-03-07
-experienceDate: 2025-03-07
 excerpt: ""
 draft: false
 language: en

@@ -2,7 +2,6 @@
 title: Hangzhou Philharmonic Orchestra | Yang Yang
 slug: music-log-2025-07-20-yang-shostakovich-marathon
 publicationDate: 2025-07-20
-experienceDate: 2025-07-20
 excerpt: ""
 draft: false
 language: en

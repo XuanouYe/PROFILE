@@ -4,7 +4,6 @@ slug: music-log-2026-10-30-minasi-ferrandez
 aliases:
   - music-2026-10-30-minasi-ferrandez
 publicationDate: 2026-10-30
-experienceDate: 2026-10-30
 excerpt: ""
 draft: false
 language: en

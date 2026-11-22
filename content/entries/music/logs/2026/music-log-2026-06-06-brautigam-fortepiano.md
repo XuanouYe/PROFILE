@@ -4,7 +4,6 @@ slug: music-log-2026-06-06-brautigam-fortepiano
 aliases:
   - music-2026-06-06-brautigam-fortepiano
 publicationDate: 2026-06-06
-experienceDate: 2026-06-06
 excerpt: ""
 draft: false
 language: en

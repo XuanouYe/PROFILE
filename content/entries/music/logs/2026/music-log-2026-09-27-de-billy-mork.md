@@ -4,7 +4,6 @@ slug: music-log-2026-09-27-de-billy-mork
 aliases:
   - music-2026-09-27-de-billy-mork
 publicationDate: 2026-09-27
-experienceDate: 2026-09-27
 excerpt: ""
 draft: false
 language: en

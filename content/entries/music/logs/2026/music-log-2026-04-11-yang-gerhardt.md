@@ -4,7 +4,6 @@ slug: music-log-2026-04-11-yang-gerhardt
 aliases:
   - music-2026-04-11-yang-gerhardt
 publicationDate: 2026-04-11
-experienceDate: 2026-04-11
 excerpt: ""
 draft: false
 language: en

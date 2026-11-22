@@ -4,7 +4,6 @@ slug: music-log-2026-11-05-poga-mueller-schott
 aliases:
   - music-2026-11-05-poga-mueller-schott
 publicationDate: 2026-11-05
-experienceDate: 2026-11-05
 excerpt: "In memory of Maestro Herbert Blomstedt."
 draft: false
 language: en

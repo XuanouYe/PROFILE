@@ -2,7 +2,6 @@
 title: Hangzhou Philharmonic Orchestra | Jonathan Darlington
 slug: music-log-2025-06-21-darlington-sibelius
 publicationDate: 2025-06-21
-experienceDate: 2025-06-21
 excerpt: ""
 draft: false
 language: en

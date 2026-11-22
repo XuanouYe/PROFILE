@@ -4,7 +4,6 @@ slug: music-log-2026-05-09-chen-mozart
 aliases:
   - music-2026-05-09-chen-mozart
 publicationDate: 2026-05-09
-experienceDate: 2026-05-09
 excerpt: ""
 draft: false
 language: en

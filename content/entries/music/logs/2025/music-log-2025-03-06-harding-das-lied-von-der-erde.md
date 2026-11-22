@@ -2,7 +2,6 @@
 title: Symphonieorchester des Bayerischen Rundfunks | Daniel Harding
 slug: music-log-2025-03-06-harding-das-lied-von-der-erde
 publicationDate: 2025-03-06
-experienceDate: 2025-03-06
 excerpt: ""
 draft: false
 language: en

@@ -4,7 +4,6 @@ slug: music-log-2026-05-19-gergiev-tchaikovsky
 aliases:
   - music-2026-05-19-gergiev-tchaikovsky
 publicationDate: 2026-05-19
-experienceDate: 2026-05-19
 excerpt: ""
 draft: false
 language: en

@@ -4,7 +4,6 @@ slug: music-log-2026-04-18-salonen-capucon-mozart
 aliases:
   - music-2026-04-18-salonen-capucon-mozart
 publicationDate: 2026-04-18
-experienceDate: 2026-04-18
 excerpt: ""
 draft: false
 language: en

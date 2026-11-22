@@ -4,7 +4,6 @@ slug: music-log-2026-10-18-gatti-mahler-10
 aliases:
   - music-2026-10-18-gatti-mahler-10
 publicationDate: 2026-10-18
-experienceDate: 2026-10-18
 excerpt: ""
 draft: false
 language: en

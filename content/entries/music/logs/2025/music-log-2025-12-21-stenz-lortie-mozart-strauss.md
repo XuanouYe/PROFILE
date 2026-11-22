@@ -2,7 +2,6 @@
 title: Shanghai Symphony Orchestra | Markus Stenz & Louis Lortie
 slug: music-log-2025-12-21-stenz-lortie-mozart-strauss
 publicationDate: 2025-12-21
-experienceDate: 2025-12-21
 excerpt: ""
 draft: false
 language: en

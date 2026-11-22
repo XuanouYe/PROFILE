@@ -2,7 +2,6 @@
 title: Symphonieorchester des Bayerischen Rundfunks | Herbert Blomstedt
 slug: music-log-2025-01-10-blomstedt-psalms-lobgesang
 publicationDate: 2025-01-10
-experienceDate: 2025-01-10
 excerpt: ""
 draft: false
 language: en

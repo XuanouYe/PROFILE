@@ -2,7 +2,6 @@
 title: DIE WALKÜRE | Calixto Bieito (2025)
 slug: opera-log-2026-11-17-die-walkure-calixto-bieito
 publicationDate: 2026-11-17
-experienceDate: 2026-11-17
 excerpt: Das Rheingold establishes Valhalla's power through the information control of a data centre, Die Walküre returns to the mythic text to explain how Valhalla functions, creating a certain discontinuity.
 draft: false
 language: en

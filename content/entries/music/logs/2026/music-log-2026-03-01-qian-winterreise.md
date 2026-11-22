@@ -4,7 +4,6 @@ slug: music-log-2026-03-01-qian-winterreise
 aliases:
   - music-2026-03-01-qian-winterreise
 publicationDate: 2026-03-01
-experienceDate: 2026-03-01
 excerpt: ""
 draft: false
 language: en

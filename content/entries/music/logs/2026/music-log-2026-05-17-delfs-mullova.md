@@ -4,7 +4,6 @@ slug: music-log-2026-05-17-delfs-mullova
 aliases:
   - music-2026-05-17-delfs-mullova
 publicationDate: 2026-05-17
-experienceDate: 2026-05-17
 excerpt: ""
 draft: false
 language: en

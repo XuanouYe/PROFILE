@@ -4,7 +4,6 @@ slug: music-log-2026-11-19-heras-casado-siegfried
 aliases:
   - opera-log-2026-11-19-siegfried-calixto-bieito
 publicationDate: 2026-11-19
-experienceDate: 2026-11-19
 excerpt: ""
 draft: false
 language: en

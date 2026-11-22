@@ -4,7 +4,6 @@ slug: music-log-2026-09-18-steinaecker-mahler-9
 aliases:
   - music-2026-09-18-steinaecker-mahler-9
 publicationDate: 2026-09-18
-experienceDate: 2026-09-18
 excerpt: ""
 draft: false
 language: en

@@ -4,7 +4,6 @@ slug: music-log-2026-05-29-deneve-george-li
 aliases:
   - music-2026-05-29-deneve-george-li
 publicationDate: 2026-05-29
-experienceDate: 2026-05-29
 excerpt: ""
 draft: false
 language: en

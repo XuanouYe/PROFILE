@@ -2,7 +2,6 @@
 title: Hangzhou Philharmonic Orchestra | Yang Yang
 slug: music-log-2025-04-27-yang-spring-closing-haydn-mozart
 publicationDate: 2025-04-27
-experienceDate: 2025-04-27
 excerpt: ""
 draft: false
 language: en

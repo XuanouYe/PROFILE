@@ -4,7 +4,6 @@ slug: music-log-2026-06-15-zander-braunstein
 aliases:
   - music-2026-06-15-zander-braunstein
 publicationDate: 2026-06-15
-experienceDate: 2026-06-15
 excerpt: ""
 draft: false
 language: en
