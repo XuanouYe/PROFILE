@@ -19,3 +19,5 @@ metadata:
   Venue: Elbphilharmonie
   Performance date: 2026-11-13
 ---
+
+At this farewell concert in his retirement year, Janowski gave the accents their familiar firmness and prominence. The only passages that sounded truly "clear" were the most brilliant and expansive ones, the ones he deliberately brought to the fore. The transitions were generally rather dull. Even so, he shaped the four interconnected movements into a continuous, well-proportioned whole. He tended to leave ample room for the sound to decay after the orchestra cut off, yet some of the passages that most needed room to breathe felt cramped. The ensemble could also get a little ragged when he accelerated into a climax.
