@@ -2,7 +2,7 @@
 title: NDR Elbphilharmonie Orchester | Marek Janowski
 slug: music-log-2026-11-13-janowski-schubert-bruckner
 publicationDate: 2026-11-13
-excerpt: ""
+excerpt: "At this farewell concert in his retirement year, Janowski gave the accents their familiar firmness and prominence."
 draft: false
 language: en
 subject: music
