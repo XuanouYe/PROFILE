@@ -11,6 +11,7 @@ rating: 3
 performanceIds:
   - paris-opera-2026-11-17-die-walkure-heras-casado
 related:
+  - music-log-2026-11-22-heras-casado-goetterdaemmerung
   - opera-log-2026-11-15-das-rheingold-calixto-bieito
   - music-log-2026-11-19-heras-casado-siegfried
 metadata:

@@ -14,6 +14,7 @@ rating: 5
 performanceIds:
   - paris-opera-2026-11-19-siegfried-heras-casado
 related:
+  - music-log-2026-11-22-heras-casado-goetterdaemmerung
   - opera-log-2026-11-15-das-rheingold-calixto-bieito
   - opera-log-2026-11-17-die-walkure-calixto-bieito
 metadata:
