@@ -18,6 +18,6 @@ metadata:
     Marko Nikodijević：GHB / tanzaggregat
   Conductor: Teodor Currentzis
   Orchestra: Utopia Orchestra
-  Venue: Elbphilharmonie, Großer Saal
+  Venue: Elbphilharmonie
   Performance date: 2026-11-14
 ---

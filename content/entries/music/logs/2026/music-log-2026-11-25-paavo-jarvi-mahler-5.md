@@ -1,5 +1,4 @@
 ---
-# Programme reference: https://www.elbphilharmonie.de/en/whats-on/tonhalle-orchester-zurich-paavo-jarvi/27931
 title: Tonhalle-Orchester Zürich | Paavo Järvi
 slug: music-log-2026-11-25-paavo-jarvi-mahler-5
 publicationDate: 2026-11-25
