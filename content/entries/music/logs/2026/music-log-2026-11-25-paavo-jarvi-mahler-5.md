@@ -17,7 +17,7 @@ metadata:
     Gustav Mahler：Symphony No. 5 in C-sharp minor
   Conductor: Paavo Järvi
   Orchestra: Tonhalle-Orchester Zürich
-  Venue: Elbphilharmonie, Großer Saal
+  Venue: Elbphilharmonie
   Performance date: 2026-11-25
 ---
 
